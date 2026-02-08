@@ -15,3 +15,4 @@ tags:
 - preceding (adj) :: coming before something in time, position or order
 - preliminary (adj) :: preceding
 - successive (adj) :: consecutive
+- denote (verb) :: indicate
