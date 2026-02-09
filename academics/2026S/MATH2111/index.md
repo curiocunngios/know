@@ -69,4 +69,4 @@ tags:
 
 #### Q2
 - What special about elementary row operations can we say?
-  - No matter which elementary row operations we perform, they do not alter the solution set of the concerned linear system
+  - No matter which elementary row operations we perform, they do not alter the solution set of the concerned linear system 

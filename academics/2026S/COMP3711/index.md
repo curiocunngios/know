@@ -13,14 +13,16 @@ tags:
   - https://amir.goharshady.com/teaching/honors-algorithms 
   - https://amir.goharshady.com/teaching/honors-discrete-math
 # Lecture 1
+## COMP3711H
 ## Overview of COMP3711H
-- talks about something discussed earlier first:
+What is the course about:
+- about something discussed earlier in COMP2711:
   - asymptotics
   - summations
   - recurrences
   - sorting
   - basic graph algorithms (?)
-- talks about algorithm design techniques:
+- about algorithm design techniques:
   - [greedy](../../../notes/greedy-algorithms.md)
   - [dynamic programming](../../../notes/dp.md)
   -  augmentation-based methods (for network flow problems) (?)
@@ -60,3 +62,96 @@ tags:
 - Analyze its efficiency
   - give a worst-case analysis of the algorithm (the running time analysis) 
   - might have solve some recurrences/summation
+
+## COMP3711
+the very first lecture note named "mechanics" is about:
+- [asymptotic analysis](../../../notes/asymptotic_analysis.md)  
+
+the second lecture note named "Intro" is about:
+
+- ### some sorting algorithms
+  - [selection sort](../../../notes/selection_sort.md), it talks about:
+    - the idea
+    - pseudo-code
+    - correctness proof
+    - [running time analysis](../../../notes/runtime_analysis.md)
+  - [insertion sort](../../../notes/insertion_sort.md)
+    - the idea
+    - pseudo-code
+    - [running time analysis](../../../notes/runtime_analysis.md)
+  - wild-guess sort (one page) (?)
+
+- ### algorithm comparison
+  - how to compare two algorithms:
+    - what to measure?
+      - **memory** (space complexity) (?)
+      - total space (?)
+      - working space (excluding the space for holding inputs) (?)
+      - [running time](../../../notes/runtime_analysis.md)
+    - how to measure?
+      - **Empirical**: depends on actual implementations, computer hardware, etc. 
+      - <u>**Analytical**</u>: depends only on the algorithm, focus of COMP3711, which is basically [this](../../../notes/runtime_analysis.md)
+- ### analysis
+  - best-case running time
+    - an instance for a given size $n$ that results in the fastest possible running time 
+    - Example: an already sorted array for [insertion sort](../../../notes/insertion_sort.md)
+    - most of the time useless and not the focus of COMP3711
+  - worst-case analysis
+    - an instance for a given size $n$ that results in the slowest possible running time
+    - Example: an inversely sortedd array for [insertion sort](../../../notes/insertion_sort.md)
+  - Average case analysis
+    - Running time averaged over all possible instances for the given size, assuming some probability distribution on the instances.
+    - Example: for [insertion sort](../../../notes/insertion_sort.md), assuming that each of the $n!$ permutations of the $n$ numbers is equally likely
+    - rigorous analysis can be complicated 
+- ### More on worst-case analysis
+  - The algorithm's worst case running time is $O(f(n))$  means:
+    - On all inputs of (large) size $n$, the [running time](../../../notes/runtime_analysis.md) of the algorithm is $\leq c \cdot f(n)$
+>   - It implies:
+>     1. No need to find the worst input
+>     2. No need to consider input size smaller than constant $n_0$ in the formal definition of [Big-O](../../../notes/big_O.md)
+  - The algorithm's worst case running time is $\Omega(f(n))$
+    - There exists at least one input of (large) size $n$ for which the running time of the algorithm is $\geq c \cdot f(n)$
+>    - Mainly used to show that the big-O analysis is tight (i.e., the best possible upper bound)
+>    - often not required
+
+  - Example:  [insertion sort](../../../notes/insertion_sort.md)
+    - On all inputs and worst input (in revser order), it requires $\frac{n(n - 1)}{2}$ time
+    - Insertion sort runs in $O(n^2)$ time (upper bound) (worst-case)
+    - Insertion sort runs in $\Omega(n^2)$ time (upper bound) (worst-case)
+    - Therefore, Insertion sort runs in $\Theta(n^2)$ time 
+    - Takeaway: once the [big-O](../../../notes/big_O.md) and [big-Omega](../../../notes/big_Omega.md) is the same. The bound is tight and we can conclude the corresponding function also applies to [big-Theta](../../../notes/big_Theta.md)
+- ### Exercise 2 (U for cannot determine):
+|Case| $T_A(n)$ | $T_B(n)$ | Faster | Comment |
+|:---| -------- | -------- | ------ | ------- |
+|1   | $\Theta(n^{1.5})$ | $\Theta(n^2 / (\log{n})^3)$ |A| (0.5 is bigger than $(\log{n})^3$ |
+|2   | $O(n^{2})$ | $\Omega(2^{\sqrt{n}})$ |A| one's worst case is polynomial time and the other's best case is exponential time |
+|3*   | $O(\log n)$ | $\Theta(2^{\log_2{\log_2{n}}})$ |U| Note: base of logarithmic is important when it comes to exponential. Solving the logarithmic, we know that A is $O(\log n)$ and B is $\Theta(\log n)$. And A is upper bound. It might not be tight, so we don't know|
+|4   | $\Theta((\log n)^3)$ | $\Theta(\sqrt[3]{n})$ |A| polynomial vs polylogarithmic |
+|5   | $O(n^{4})$ | $O(n^3)$ |U|  We don't know if A's uper bound is tight or not |
+|6   | $\Omega(n^{3})$ | $O(n^{2.8})$ |B| B's worst is better than A's best|
+|7*   | $\Theta(n^{3})$ | $\Theta(4^{\log_5{n}})$ |B| Note: base of logarithmic is important when it comes to exponential. Solving the logarithmic, $T_B(n) = \Theta(n^{\log_5{4}})$ where the exponent is smaller than 1 |
+- ### When algorithms has the same theorical running time
+  - how to distinnguish them?
+    - closer examination of hidden constants
+    - analysis of typical expected inputs 
+    - other facts such as cache efficiency, parallelization, etc.
+    - Empirical comparison 
+  - theorical analysis provides first guidelines
+    - useful when you do not know what input to expect
+- ### pseudo-code 
+  - talks about the importance of writing pseudo-code
+    - makes the main idea more clear
+  - how to write pseudo-code
+    - use standard keywords like: (if/then/else, while, for, repeat/until, return) 
+    - and notations like (<- for assigning variables, Array[index], func(arg)), etc.
+    - Indent consistently, may also use `{}` for clarity
+    - use standard maths notation instead of programming language 
+      - `i = i + 1` instead of `i++`
+      - $x \cdot y$ and $x \mod y$ instead of `x * y and x % y`
+      - $\sqrt{x} and a^b$ instead of `sqrt(x)` and `power(a,b)`
+    - use data structure as black boxes. If data structure is new, define its functionality first
+    - Use standard/learned algorithm e.g. sorting as black boxes
+      - e.g. sometimes just write "sort `A` in ascending order"
+    - Use function to decompose complex algorithms
+    - Use plain or natural language when it is clearer and simpler 
+      - (e.g., if `A` is an array, you may write “`x` ← the maximum element in `A`”).

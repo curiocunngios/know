@@ -31,3 +31,28 @@ GOAL: level up to 2
     - math2011
     - fina1303
     - lang2030
+
+
+# plan 8/2/2025
+## COMP3711
+- ~~continue the slides, finish the first lecture note (30 minutes)~~
+  - complete:
+    - ~~more on worst-case analysis (1 hour)~~
+    - exercise 2 and 3 (1 hour)
+    - insertion sort (1 hour)
+      - idea
+      - runtime analysis 
+    - selection sort (1 hour)
+      - proof of correctness
+
+- start usaco (1 hour)
+- continue the slides, start divide and conquer slides (30 minutes)
+  - write some skeleton notes to be improved later (1 hour)
+
+## COMP2611 
+- read slides (30 minutes)
+  - make notes, watch the video recordings if necessary (1 hour) 
+
+## MATH2411
+- read slides (30 minutes)
+  - make notes, watch the video recordings if necessary (1 hour)
