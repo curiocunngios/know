@@ -20,4 +20,4 @@ tags:
     - Example: $n$ is $\Omega(2n)$ with the constant $c = \frac{1}{2}$
 
 # Properties
-Same as [big-O notation](./big_O.md)
+Same as [big-O notation](./big_O.md)  

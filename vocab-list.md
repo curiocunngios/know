@@ -16,4 +16,4 @@ tags:
 - preliminary (adj) :: preceding
 - successive (adj) :: consecutive
 - denote (verb) :: indicate
-- empirical (adj) :: based on practical stuff (observation, experiences) rather than theory
+- empirical (adj) :: based on practical stuff (observation, experiences) rather than theory 
