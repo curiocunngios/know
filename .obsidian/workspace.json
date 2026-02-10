@@ -23,10 +23,14 @@
             "id": "c65e51aca4edb48e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "academics/2026S/COMP2611/COMP2611.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP2611"
             }
           }
         ],
@@ -204,6 +208,11 @@
   },
   "active": "c65e51aca4edb48e",
   "lastOpenFiles": [
+    "academics/2026S/COMP2611/COMP2611.md",
+    "academics/2026S/COMP2611",
+    "academics/2026S/COMP3711/problems/COMP3711_problems/lecture2_exercise1b.md",
+    "academics/2026S/COMP3711/problems/COMP3711_problems/lecture2_exercise1a.md",
+    "notes/binary_search.md",
     "academics/2026S/COMP3711/problems/COMP3711_problems/lecture1_exercise3.md",
     "academics/2026S/COMP3711/problems/COMP3711_problems/lecture1_exercise2.md",
     "academics/2026S/COMP3711/problems/COMP3711_problems",

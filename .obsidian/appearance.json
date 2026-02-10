@@ -2,5 +2,6 @@
   "theme": "system",
   "textFontFamily": "Cascadia Code",
   "monospaceFontFamily": "Cascadia Code",
-  "interfaceFontFamily": "Cascadia Code"
+  "interfaceFontFamily": "Cascadia Code",
+  "accentColor": "#2fe444"
 }
