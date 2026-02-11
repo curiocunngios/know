@@ -56,3 +56,10 @@ GOAL: level up to 2
 ## MATH2411
 - read slides (30 minutes)
   - make notes, watch the video recordings if necessary (1 hour)
+
+
+
+# plan 11/2/2026 
+- revise the stuff you learnt in todays lecture
+- draw the trees 
+- write the inversion counting algorithms etc. 
