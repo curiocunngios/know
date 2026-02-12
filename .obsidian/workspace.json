@@ -11,6 +11,16 @@
             "id": "c65e51aca4edb48e",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4e609bc6dca3f1d4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "academics/2026S/COMP3711/COMP3711.md",
@@ -21,7 +31,8 @@
               "title": "COMP3711"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +204,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c65e51aca4edb48e",
+  "active": "4e609bc6dca3f1d4",
   "lastOpenFiles": [
-    "graph_present_tbc.md",
+    "academics/2026S/COMP2611/reviews.md",
+    "academics/2026S/COMP3711/reviews.md",
+    "notes/binary_search.md",
+    "Excalidraw/Drawing 2026-02-11 20.45.18.excalidraw.md",
+    "academics/2026S/COMP4900/homeworks/huawei/huawei_note.md",
+    "academics/2026S/COMP4900/homeworks/huawei_note.md",
+    "academics/2026S/COMP4900/homeworks/huawei/huawei_reflection.md",
+    "academics/2026S/COMP4900/homeworks/huawei",
+    "academics/2026S/COMP4900/homeworks/huawei_reflection.md",
+    "academics/2026S/COMP4900/homeworks",
+    "academics/2026S/COMP4900",
     "academics/2026S/COMP3711/COMP3711.md",
+    "graph_present_tbc.md",
     "notes/logic_gates.md",
     "notes/merge_sort.md",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture2_exercise3.md",
@@ -223,23 +245,12 @@
     "notes/XOR_gate.md",
     "notes/attachments/image-4.png",
     "notes/attachments/image-3.png",
-    "notes/NAND_gate.md",
-    "notes/NOT_gate.md",
-    "notes/AND_gate.md",
-    "notes/OR_gate.md",
     "notes/attachments/image-2.png",
-    "academics/2026S/COMP2611/COMP2611.md",
     "notes/attachments/image-1.png",
     "notes/attachments/image.png",
     "notes/attachments",
     "academics/2026S/COMP2611/attachments/image-1.png",
     "academics/2026S/COMP2611/image.png",
-    "academics/2026S/COMP2611/attachments/image.png",
-    "academics/2026S/COMP2611/attachments",
-    "academics/2026S/COMP2611/images",
-    "notes/processor.md",
-    "notes/ISA.md",
-    "academics/2026S/COMP2611",
-    "academics/2026S/COMP3711/problems/COMP3711_problems/lecture2_exercise1b.md"
+    "academics/2026S/COMP2611/attachments/image.png"
   ]
 }

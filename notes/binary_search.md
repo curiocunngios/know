@@ -47,7 +47,7 @@ T(n) = T(\frac{n}{2}) + 2 \text{ if n > 1, with } T(1) = 1
 $$
 
 ## Solving the recurrence 
-- by expansion method
+- ### by expansion method
 $$\begin{aligned}
 T(n) 
 &= T(\frac{n}{2}) + 2 \\
@@ -60,3 +60,5 @@ T(n)
 &= \Theta(\log n)
 \end{aligned}
 $$
+
+- ### By recursion tree

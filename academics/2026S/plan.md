@@ -63,3 +63,23 @@ GOAL: level up to 2
 - revise the stuff you learnt in todays lecture
 - draw the trees 
 - write the inversion counting algorithms etc. 
+
+# Rules:
+- the following is my algorithm on studying. Simply **do it** for each topics in each subject
+- ## Stage 1:  basic understanding
+  - make the simplest rough notes first (sometimes just directly copy lecture content)
+  - ensure that you have a basic understanding while doing so
+- ## Stage 2: level up
+  - solve as much problems as possible on the related topics 
+    - to get a better understanding 
+      - first choose the problems from lecture notes, tutorial
+- ## Stage 3: Simply repeat
+  - move on to next topic and do the same thing above
+- ## Stage 4: Final boss:
+  - after doing all topics, start past papers 
+- ## Stage 5: Review and embrace craftsmanship (if time is enough):
+  - paraphrase the rough notes 
+    - make them simple
+    - make them look pretty
+    - for terms that appear a lot of times
+      - make bite-sized notes and link them
