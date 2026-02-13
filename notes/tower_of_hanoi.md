@@ -49,4 +49,7 @@ $$
 T(n) = 2T(n - 1) + 1 \text{ for } n > 1 \\
 T(1) = 1
 $$
-## Solving the recurrence:
+
+# Solving the recurrence:
+- ## By expansion method
+- ## By recursion tree 

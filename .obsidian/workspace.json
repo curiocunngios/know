@@ -196,12 +196,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "4e609bc6dca3f1d4",
   "lastOpenFiles": [
+    "academics/2026S/COMP3711/problems/lecture_problems/lecture3_exercise.md",
+    "academics/2026S/COMP3711/attachments/image.png",
+    "academics/2026S/COMP3711/attachments",
+    "academics/2026S/MATH2411/MATH2411.md",
+    "notes/tower_of_hanoi.md",
+    "academics/2026S/COMP3711/COMP3711.md",
+    "notes/attachments/image-12.png",
+    "notes/statistics.md",
+    "academics/2026S/MATH2411",
     "academics/2026S/COMP2611/COMP2611.md",
     "notes/attachments/image-11.png",
     "notes/attachments/image-10.png",
@@ -219,7 +227,6 @@
     "notes/two_level_logic",
     "notes/decoder.md",
     "notes/multiplexor.md",
-    "academics/2026S/COMP3711/COMP3711.md",
     "academics/2026S/COMP2611/reviews.md",
     "academics/2026S/COMP3711/reviews.md",
     "notes/binary_search.md",
@@ -233,19 +240,12 @@
     "academics/2026S/COMP4900",
     "graph_present_tbc.md",
     "notes/logic_gates.md",
-    "notes/merge_sort.md",
-    "academics/2026S/COMP3711/problems/lecture_problems/lecture2_exercise3.md",
-    "rotated_sorted_array_tbc.md",
     "notes/attachments/image-6.png",
     "academics/2026S/COMP2611/problems/past_papers",
     "academics/2026S/COMP2611/problems/lecture_problems/past_papers",
     "academics/2026S/COMP2611/problems/lecture_problems",
     "academics/2026S/COMP3711/problems/lecture_problems",
-    "academics/2026S/COMP2611/problems/COMP2611_problems",
-    "academics/2026S/COMP2611/problems",
     "notes/attachments/image-5.png",
-    "notes/attachments/image-4.png",
-    "notes/attachments/image-3.png",
-    "notes/attachments/image-2.png"
+    "notes/attachments/image-4.png"
   ]
 }

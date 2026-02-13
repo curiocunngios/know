@@ -46,5 +46,5 @@ Mergesort(A, l, r):
 
 
 # Solving the recurrence
-## Expansion method
-## Recursion tree method
+- ## Expansion method
+- ## Recursion tree method
