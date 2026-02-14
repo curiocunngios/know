@@ -21,14 +21,44 @@
             "id": "4e609bc6dca3f1d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-11 20.45.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-11 20.45.18.excalidraw"
+            }
+          },
+          {
+            "id": "273be3aa2b597907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Scripts/Downloaded/Set Font Family.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set Font Family"
+            }
+          },
+          {
+            "id": "0d43be8196c07cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "academics/2026S/COMP3711/problems/lecture_problems/lecture3_exercise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture3_exercise"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 230.5
   },
   "right": {
     "id": "45c0d0b8ed3438e3",
@@ -161,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "academics/2026S/COMP3711/problems/lecture_problems/lecture3_exercise.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of lecture3_exercise"
             }
           },
           {
@@ -178,9 +209,21 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "1e2fdbafaa361708",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "academics/2026S/COMP3711/problems/lecture_problems/lecture3_exercise.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for lecture3_exercise"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -199,14 +242,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4e609bc6dca3f1d4",
+  "active": "0d43be8196c07cc7",
   "lastOpenFiles": [
+    "academics/2026S/COMP3711/problems/lecture_problems/lecture2_exercise3.md",
+    "academics/2026S/COMP3711/COMP3711.md",
+    "Excalidraw/Drawing 2026-02-13 23.40.21.excalidraw.md",
+    "graph_present_tbc.md",
+    "code/find_last_0.cpp",
+    "confusions.md",
+    "carry_in_out_tbc.md",
+    "rotated_sorted_array_tbc.md",
+    "vocab-list.md",
+    "Excalidraw/Drawing 2026-02-13 23.20.53.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 23.27.08.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 23.28.52.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "Excalidraw/Drawing 2026-02-13 23.06.13.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/Drawing 2026-02-11 20.45.18.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 23.11.23.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 23.04.48.excalidraw.md",
+    "fonts/CascadiaCode-SemiBold.ttf",
+    "fonts",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture3_exercise.md",
     "academics/2026S/COMP3711/attachments/image.png",
     "academics/2026S/COMP3711/attachments",
     "academics/2026S/MATH2411/MATH2411.md",
     "notes/tower_of_hanoi.md",
-    "academics/2026S/COMP3711/COMP3711.md",
     "notes/attachments/image-12.png",
     "notes/statistics.md",
     "academics/2026S/MATH2411",
@@ -219,33 +283,12 @@
     "notes/minterm.md",
     "notes/canonical_form.md",
     "notes/3_person_vote.md",
-    "notes/encoder.md",
     "notes/attachments/image-8.png",
     "notes/attachments/image-7.png",
-    "notes/combinational_logic.md",
-    "notes/PLA.md",
     "notes/two_level_logic",
-    "notes/decoder.md",
-    "notes/multiplexor.md",
-    "academics/2026S/COMP2611/reviews.md",
-    "academics/2026S/COMP3711/reviews.md",
-    "notes/binary_search.md",
-    "Excalidraw/Drawing 2026-02-11 20.45.18.excalidraw.md",
-    "academics/2026S/COMP4900/homeworks/huawei/huawei_note.md",
-    "academics/2026S/COMP4900/homeworks/huawei_note.md",
-    "academics/2026S/COMP4900/homeworks/huawei/huawei_reflection.md",
     "academics/2026S/COMP4900/homeworks/huawei",
-    "academics/2026S/COMP4900/homeworks/huawei_reflection.md",
     "academics/2026S/COMP4900/homeworks",
-    "academics/2026S/COMP4900",
-    "graph_present_tbc.md",
-    "notes/logic_gates.md",
     "notes/attachments/image-6.png",
-    "academics/2026S/COMP2611/problems/past_papers",
-    "academics/2026S/COMP2611/problems/lecture_problems/past_papers",
-    "academics/2026S/COMP2611/problems/lecture_problems",
-    "academics/2026S/COMP3711/problems/lecture_problems",
-    "notes/attachments/image-5.png",
-    "notes/attachments/image-4.png"
+    "notes/attachments/image-5.png"
   ]
 }

@@ -5,7 +5,7 @@ aliases:
 tags:
   - flashcard/active/algo
   - COMP3711
-  - status/incompleted
+  - status/completed
 ---
 
 # Rotated Sorted Array:
@@ -18,7 +18,7 @@ Question: Design an $O(\log n)$-time algorithm to find the value of $k$. ($A[k]$
 # Solution
 - First we need to identify the algorithm family. From it being $O(\log n)$ and the array being sorted. We can guess that it is from the family of binary search.
 
-# Algorithm
+## Wrong algorithm
 ````cpp
 find_k(A, l, r):
     if (l > r):
@@ -30,3 +30,19 @@ find_k(A, l, r):
         return find_k(A, m + 1, r)
 ````
 <u>First call:</u> find_k(A, 1, n)
+- the above algorithm is WRONG for the question. Because it has $O(n)$ time complexity in the worst-case. In the worst-case, `find_k(A, l, m - 1)` returns nil and it would make **two** recursive calls.
+
+
+## Correct algorithm
+````cpp
+find_k(A, l, r):
+    if (l > r):
+        return nil
+    m = (l + r) / 2
+    if (A[m] > A[m + 1]):
+        return m
+    if (A[m] >= A[1]):
+        find_k(A, m + 1, r)
+    else:
+        find_k(A, l, m - 1)
+````

@@ -101,8 +101,8 @@
   "experimentalLivePreview": true,
   "fadeOutExcalidrawMarkup": false,
   "loadPropertySuggestions": false,
-  "experimentalEnableFourthFont": false,
-  "experimantalFourthFont": "Virgil",
+  "experimentalEnableFourthFont": true,
+  "experimantalFourthFont": "fonts/CascadiaCode-SemiBold.ttf",
   "addDummyTextElement": false,
   "zoteroCompatibility": false,
   "fieldSuggester": true,
@@ -112,7 +112,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.20.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.20.3",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -123,7 +123,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "previousRelease": "2.20.2",
+  "previousRelease": "2.20.3",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
