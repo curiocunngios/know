@@ -360,6 +360,91 @@ Both mid-term and final exam is of moderate difficulty but time is quite limited
   - don't need to be rigorous on proof
   - need to know how to proof
 
+# mark_
+## Content
+
+- Divide and Conquer
+- Random Algorithms
+- Quicksort, Heapsort, Linear sort
+- Greedy Algorithms, Huffman, Stable Marriage
+- Dynamic programming (1D, 2D, over intervals)
+- Graph Theory
+- BFS, DFS, Min Spanning Tree
+- Shortest path
+- Max Flow
+
+My personal suggestion is to do some algorithms practice before taking this course.
+
+P.S. COMP3711H will be offered again next Spring by Prof. Goharshady.
+
+## Teaching
+
+Professor Cheng's teaching is indeed quite interesting. I think he really wants you to understand the ideas taught in class, and goes into great detail with lots of diagrams and examples. He also sometimes throws in a few jokes to keep the lecture interesting.
+
+He will also sometimes ask the class questions and may randomly pick people, so be prepared to answer if you attend the lecture.
+
+However, sometimes he rambles too much, so it can be hard to pay attention. It also means he sometimes has to rush to finish the remaining content (or just skip it).
+
+The tutorials are not that useful, but it's good to review the tutorial slides before the exam.
+
+## Grading
+
+The grading is curved but quite reasonable.
+
+30% Written Assignments x4
+30% Midterm
+40% Final
+(No programming assignments)
+
+The midterm and final are much harder than Golin's and Dimitris's, since almost all the questions involve designing an algorithm and proving it. Don't even bother doing past paper analysis; it won't help. However, in return, the letter grade is more lenient (I think the A-range is wider).
+
+In the final exam, the marks are very sparsely spread out. However, maybe 20% of the total marks can be obtained by just reciting the lecture notes.
+
+STATS (Prof Cheng's section only)
+--
+Low  LQ  Median  UQ   Max  |   Mean
+
+Assignment 1 (/50):
+0  38  43  47  50  |  40.27
+Assignment 2 (/50):
+0  44  47  48  50  |  43.18
+Assignment 3 (/40):
+0  26  33  35  40  |  29.9
+Assignment 4 (/55):
+0  42  48  52  55  |  43.68
+
+Assignment mean is 157.03/195.
+
+Midterm (/70):
+11  27  34.5  42  63  |  35.2
+Final (/70):
+5  26  34  42.5  60 | 34.14
+
+The overall mean is 58.75% and will get you a B-.
+
+The A+ cutoff is <= 86% (not enough data to determine). I would guess it is around 80.
+
+Based on other reviews, 7x% is enough for A-range.
+
+## Workload
+
+The majority of the workload will come from completing the four biweekly assignments.
+
+Each assignment has 5 problems, usually with one easier problem (such as just running an algorithm or solving recurrences), 2-3 moderately hard problems, and 1-2 really hard problems. Depending on your ability, it may take anywhere from a few hours to a week to complete.
+
+(Some questions in the assignments would be a better fit for MATH 1023 than COMP 3711...)
+
+Certainly, I will say you should take this course with some friends or teammates. You are allowed to collaborate on assignments, so it will be good to bounce some ideas around. Some of the assignment questions are genuinely really hard.
+
+## Summary 
+- workload are on the assignments
+  - 2-3 moderately hard
+  - 1-2 really hard
+  - Some questions in assignment is actually a better fit for MATH1023 than COMP3711
+- midterm and final are much harder than Golin's and Dimitris's,
+  - designing an algorithm and proving it
+  - don't bother doing past papers analysis 
+- 20% of the total marks can be obtained by just reciting the lecture notes.
 # Overall summary:
 - homework is hard
   - workhard and start early
@@ -371,4 +456,19 @@ Both mid-term and final exam is of moderate difficulty but time is quite limited
   - reading and understand slides
   - designing and writing algorithms
   - proofs
-
+- priority of what to do in general for this semester:
+  - designing and writing algorithms (master)
+    - leetcode
+    - codeforces
+    - usaco
+  - proofs (master)
+    - lecture notes
+    - past papers
+    - homeworks
+    - tutorial
+  - homeworks
+  - understanding lecture notes
+    - type out all the important parts first (have a basic idea)
+    - occasionally paraphrase
+    - refine and focus on paraphrasing later in the semester when you have time 
+  - do past papers formally 
