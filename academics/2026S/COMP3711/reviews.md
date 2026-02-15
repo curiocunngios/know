@@ -258,3 +258,117 @@ Past paper are useless, I threw all away once after exam.
 
 ### Summary
 - it's hard
+
+
+
+# 151044
+## Content
+
+Contents are the same as any standard algorithms course.
+Big-O, Theta, Omega (and the Master Theorem)
+Divide and Conquer (Binary Search, Mergesort)
+Randomized Algorithms (Probability, Quicksort)
+Heap (and Heapsort)
+Linear-time Sorting (Counting and Radix Sort)
+Greedy Algorithms (Stable Marriage, Huffman Encoding)
+Dynamic Programming (1D, Over intervals, 2D)
+Graphs (Basic Properties, BFS, DFS)
+Minimum Spanning Tree (Prim's, Kruskal's)
+Shortest Paths (Bellman-Ford, Dijkstra's, Floyd-Warshall)
+Maximum Flow (Briefly in 1 lecture)
+
+Overall, pretty applicable to many problems you'll see.
+
+## Teaching
+
+Despite having a 9am Friday session, Siu Wing was a decent lecturer who could keep my attention and is generally easy to follow. He does tend to ask questions to students to illustrate some of the more tricky points - interactive, but perhaps not the cup of tea for everyone.
+
+One not-so-nice thing is that he tends to skim over chapters when he doesn't have time - so I got quite confused at the last chapter on maximum flow. Overall his lectures are well-paced though, with decent examples for you to revise to.
+
+## Grading
+
+Grading was pretty good considering my performance.
+
+Grading scheme was Homework 30%, Midterm 30%, and Final 40%, so good homework performance is essential.
+
+Data (Low,LQ,Mean,Median,UQ,High,Max):
+HW 1:0/38/40.27/43/47/50/50
+HW 2:0/44/43.18/47/48/50/50
+HW 3:0/26/29.9/33/35/40/40
+HW 4:0/41.75/43.57/48/52/55/55
+
+Midterm:11/27/35.2/34.5/42/63/70
+
+Final:5/23.5/33.95/34/42/60/70
+
+Scoring at or below LQ for every homework, slightly above mean in midterm, and slightly below mean in Finals yielded a B-.
+
+Note: Siu Wing's exams are not like Golin's exams or Papadias' exams: they are nearly all pure algorithm design questions with no "dry run" questions for you to get marks, and you need to prove the correctness of your solutions as well. Prepare adequately by reviewing homework and slides to see common proof techniques for algorithms.
+
+## Workload
+
+The four assignments constituted the majority of the workload. Don't be fooled by the low number of questions - all of them require significant time to work out (especially the proofs). You are advised to at least read through the homework when it comes out and think about it in your spare time. Find groups to do your homework as well - some of the more difficult questions would definitely benefit from you bouncing ideas off each other.
+
+From someone who's definitely not a math guy and got overwhelmed by the homework: it's okay if you find the homework difficult. The mean of the exams are way lower, and you can get your marks back there. Good luck!
+
+## Summary
+- assignments has high workload
+- math heavy 
+- Siu Wing's exam not like Golin's exam 
+  - no/rarely have "dry-run" typed questions
+  - nearly all pure algorithm design 
+    -  correctness proof of your own solution
+  - prepare by reviewing homework and slides for proof techniques
+
+# unfortunate
+## Content
+
+More or less similar to previous semesters. NO AVL tree (although the professor promised to teach it during lectures) and string matching this semester. There isn't enough time, the professor is basically flying through max flow in the last lecture.
+
+All algorithmic problems discussed in COMP3711 are pretty standard. The focus is in learning algorithms instead of the your problem-solving ability.
+
+## Teaching
+
+The teaching pace is quite slow as the professor is trying to explain a lot of details of the algorithm. Sometimes he will ask some questions that clarify the correctness of an algorithm but most of the class doesn't get what he's trying to ask which is kind of funny. (because he doesn't want to reveal too much in his conceptual questions)
+
+He tried to make some jokes during lectures occasionally e.g., "two-child policy" in the correctness of huffman-encoding. He also repeatedly asked us to not think about algorithms during DP lecture in the course "Design and Analysis of Algorithms".
+
+The PowerPoint of both lecture and tutorial are very-well designed like all COMP courses. The teaching of lecturer is in general good and the teaching of TA is not bad either.
+
+## Grading
+
+Midterm: 40/70
+Final: 52.5/70
+HW1-3 full
+HW4: 44/55
+Grade: A
+
+## Workload
+
+Given that I have some experience with algorithms before, the workload is average but you really have to attend lectures except if you already know the content very well.
+
+I'm a year 1 student so I waive COMP2012/2012H to take this course. It's certainly ok for you to do so since the course has nothing to do with C++. What you need is a little bit of "mathematics sense" and a basic idea of what complexity means. I also don't think COMP2711/2711H is any helpful to this course so you may waive that as well if you are really interested in taking this algorithm course in year 1. COMP2711/2711H is more helpful for COMP5711/5712.
+
+4 assignments throughout the semester. Some problem in assignment is quite difficult and may take you some time to figure out. On average, each assignment takes me about 5 hours to finish (most of the time is spent on formatting latex). I got almost full marks in asm1-3 except I always forgot to state the running time of some trivial algorithms. I also run binary merge tree wrong in asm4. That causes quite a lot of marks so you need to be careful and double-check your assignments since mean is usually around 80-90%.
+
+Both mid-term and final exam is of moderate difficulty but time is quite limited. The TAs is lenient on marking though. You don't need extremely rigorous proof. I tried to give formal proofs in mid-term, ending up not having enough time to finish some easy problems.
+
+## Summary:
+- hard homework 
+- limited time on exams
+- marking is lenient for exams
+  - don't need to be rigorous on proof
+  - need to know how to proof
+
+# Overall summary:
+- homework is hard
+  - workhard and start early
+- focus on:
+  - mastering mathematical proofs on correctness/time complexity of algorithms
+  - algorithm design (common in siu wing's exam)
+- what to put time on the most:
+  - homework
+  - reading and understand slides
+  - designing and writing algorithms
+  - proofs
+
