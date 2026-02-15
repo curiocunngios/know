@@ -5,7 +5,7 @@ aliases:
 tags:
   - flashcard/active/algo
   - COMP3711
-  - status/incomplete
+  - status/completed
 ---
 
 # Problem 2

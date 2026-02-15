@@ -1,10 +1,10 @@
----
-aliases:
-  - divide-and-conquer
-tags:
-  - flashcard/active/algo
-  - COMP3711
----
+  ---
+  aliases:
+    - divide-and-conquer
+  tags:
+    - flashcard/active/algo
+    - COMP3711
+  ---
 
 # divide-and-conquer
 - recursively breaks down a problem into smaller problems called the sub-problems
