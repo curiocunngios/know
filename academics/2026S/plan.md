@@ -109,12 +109,12 @@ GOAL: level up to 2
 
 |Time|Task|
 |----|----|
-|13:30 - 14:20 |Review and refine COMP3711 main note up to before D&C (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
-|14:30 - 16:20|Revision on COMP2611, review the lecture note up to until the stuff that have been covered in the lecture. Type and copy the lecture notes content to the main note. Get a basic understanding|
-|16:30 - 18:20| Catch up on MATH2411 by self-studyding it (would not be very easy with the lecture notes given). Type and copy the lecture notes content to the main note. Get a basic understanding|
-|18:30 - 20:20| Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible|
-|20:30 - 21:20|Dinner break|
-|21:30 - 23:20|self-study the rest of the master theorem slides. You don't have to finish, just see how far you can go within the 2-hours time limit.|
-|23:30 - 00:20|Review and refine COMP3711 main note up to before master theorem (D&C) (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
-|00:30 - 02:20| find and complete one related leetcode problem|
-|02:30 - 3:20| game break. Play whatever games you like|
+|✅~~13:30 - 14:20~~ 13:30 - 14:30|Review and refine COMP3711 main note up to before D&C (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
+|✅~~14:30 - 16:20~~ ~~14:40 - 16:20~~ 14:40 - 15:45 (yes I finished earlier than exxpected)|Revision on COMP2611, review the lecture note up to until the stuff that have been covered in the lecture. Type and copy the lecture notes content to the main note. Get a basic understanding|
+|✅~~16:30 - 18:20~~ ~~16:00 - 18:20~~ 16:00 - 17:20| Catch up on MATH2411 by self-studyding it (would not be very easy with the lecture notes given). Type and copy the lecture notes content to the main note. Get a basic understanding. (newly added as I forgot to mention when to stop) -> stop before probability|
+|⏱️18:30 - 20:20| Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible|
+|⏱️20:30 - 21:20|Dinner break|
+|⏱️21:30 - 23:20|self-study the rest of the master theorem slides. You don't have to finish, just see how far you can go within the 2-hours time limit.|
+|⏱️23:30 - 00:20|Review and refine COMP3711 main note up to before master theorem (D&C) (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
+|⏱️00:30 - 02:20| find and complete one related leetcode problem|
+|⏱️02:30 - 3:20| game break. Play whatever games you like|

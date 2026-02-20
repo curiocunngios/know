@@ -33,7 +33,7 @@ tags:
     - It involves counting **primitive** steps that the algorithm takes
       - which also called [runtime analysis](./runtime_analysis.md)
     - It also involves proofing the _correctness_ of the algorithm, which involves mathematical tools like:
-      - [Induction](./induction.md)
+      - [Induction](./induction.md) 
 # Common functions
 - given a constant $a > 0$
   - $(\log n)^a$ 

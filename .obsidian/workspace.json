@@ -47,10 +47,14 @@
             "id": "0d43be8196c07cc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "academics/2026S/MATH2411/MATH2411.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH2411"
             }
           }
         ],
@@ -211,9 +215,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "academics/2026S/MATH2411/MATH2411.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for MATH2411"
             }
           }
         ],
@@ -238,6 +244,26 @@
   },
   "active": "0d43be8196c07cc7",
   "lastOpenFiles": [
+    "academics/2026S/MATH2411/attachments/image-5.png",
+    "academics/2026S/MATH2411/attachments/image-4.png",
+    "academics/2026S/MATH2411/attachments/image-3.png",
+    "academics/2026S/MATH2411/attachments/image-2.png",
+    "academics/2026S/MATH2411/problem/lecture/attachments/image-2.png",
+    "academics/2026S/MATH2411/problem/lecture/sample_variance_deviation.md",
+    "academics/2026S/MATH2411/problem/lecture/attachments/image-1.png",
+    "academics/2026S/MATH2411/problem/lecture/attachments/image.png",
+    "academics/2026S/MATH2411/problem/lecture/attachments",
+    "academics/2026S/MATH2411/problem/lecture/sample_mean_median.md",
+    "academics/2026S/MATH2411/problem/lecture",
+    "academics/2026S/MATH2411/problem",
+    "academics/2026S/MATH2411/attachments/image-1.png",
+    "academics/2026S/COMP2611/problems/lecture_problems/K_map_2.md",
+    "academics/2026S/COMP2611/problems/lecture_problems/K_map_1.md",
+    "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications3.md",
+    "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications2",
+    "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications1.md",
+    "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications.md",
+    "notes/Boolean_algebra_laws.md",
     "academics/2026S/COMP3711/COMP3711.md",
     "notes/induction.md",
     "academics/2026S/plan.md",
@@ -260,29 +286,9 @@
     "academics/2026S/COMP3711/problems/tutorial/tutorial_1/problem_1.md",
     "academics/2026S/COMP3711/problems/tutorial/turtorial_2",
     "academics/2026S/COMP3711/problems/tutorial/tutorial_1/tutorial_2",
-    "academics/2026S/COMP3711/problems/tutorial/tutorial_1",
-    "academics/2026S/COMP3711/problems/tutorial",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture2_exercise3.md",
     "Excalidraw/Drawing 2026-02-13 23.40.21.excalidraw.md",
     "graph_present_tbc.md",
-    "code/find_last_0.cpp",
-    "confusions.md",
-    "carry_in_out_tbc.md",
-    "rotated_sorted_array_tbc.md",
-    "vocab-list.md",
-    "Excalidraw/Drawing 2026-02-13 23.20.53.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-13 23.27.08.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-13 23.28.52.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
-    "Excalidraw/Drawing 2026-02-13 23.06.13.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded",
-    "academics/2026S/COMP3711/attachments/image.png",
-    "notes/attachments/image-12.png",
-    "notes/attachments/image-11.png",
-    "notes/attachments/image-10.png",
-    "notes/attachments/image-9.png",
-    "notes/attachments/image-8.png",
-    "notes/attachments/image-7.png"
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg"
   ]
 }
