@@ -116,7 +116,7 @@ GOAL: level up to 2
 |✅~~18:30 - 20:20~~ `17:20 - 20:10`|~~Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible~~ Dinner break (swapped)|
 |✅`20:20 - 21:50`|~~Dinner break~~ Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible (swapped with dinner break)|
 |✅`22:00 - 23:20`|self-study the rest of the master theorem slides. You don't have to finish, just see how far you can go within the 2-hours time limit.|
-|⏱️`23:30 - 00:20`|Review and refine COMP3711 main note up to before master theorem (D&C) (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
+|✅`23:30 - 00:20`|Review and refine COMP3711 main note up to before master theorem (D&C) (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
 |⏱️`00:30 - 02:20`|find and complete one related leetcode problem|
 |⏱️`02:30 - 02:50`|Write down tomorrow's plan|
 |⏱️`03:00 - 03:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
