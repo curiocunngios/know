@@ -10,7 +10,7 @@ tags:
 ---
 
 # Runtime analysis
-- The runtime $T(n)$ of a [algorithm](./algorithm.md) over input sized $n$ is the number of primitive steps that the algorithm takes
+- The runtime $T(n)$ of a [algorithm](./algorithm.md) over input sized $n$ is the number of **primitive** steps that the algorithm takes
   - i.e. addition, multiplication, comparison etc. 
 - in the average(sometimes useful) / **worst**-case scenario.
   - best case scenario is often useless
