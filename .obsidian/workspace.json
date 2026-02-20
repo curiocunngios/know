@@ -244,6 +244,8 @@
   },
   "active": "0d43be8196c07cc7",
   "lastOpenFiles": [
+    "academics/2026S/plan.md",
+    "academics/2026S/MATH2411/MATH2411.md",
     "academics/2026S/MATH2411/attachments/image-5.png",
     "academics/2026S/MATH2411/attachments/image-4.png",
     "academics/2026S/MATH2411/attachments/image-3.png",
@@ -266,7 +268,6 @@
     "notes/Boolean_algebra_laws.md",
     "academics/2026S/COMP3711/COMP3711.md",
     "notes/induction.md",
-    "academics/2026S/plan.md",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture3_exercise.md",
     "code/merge_sort.cpp",
     "academics/2026S/COMP3711/problems/leetcode/majority_element.md",
@@ -288,7 +289,6 @@
     "academics/2026S/COMP3711/problems/tutorial/tutorial_1/tutorial_2",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture2_exercise3.md",
     "Excalidraw/Drawing 2026-02-13 23.40.21.excalidraw.md",
-    "graph_present_tbc.md",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.svg"
+    "graph_present_tbc.md"
   ]
 }
