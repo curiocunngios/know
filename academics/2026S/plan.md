@@ -131,3 +131,5 @@ GOAL: level up to 2
   - I am a little shaky doing comp3711 homework 1
     - not very good at math (comparison of functions)
     - maybe not focuses enough..maybe
+  - I need speed + template for doing such questions
+    - to prevent getting stuck on them and think for hours during the exam 
