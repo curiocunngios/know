@@ -47,10 +47,14 @@
             "id": "0d43be8196c07cc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "academics/2026S/COMP3711/COMP3711.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMP3711"
             }
           }
         ],
@@ -211,9 +215,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "academics/2026S/COMP3711/COMP3711.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for COMP3711"
             }
           }
         ],
@@ -238,6 +244,7 @@
   },
   "active": "0d43be8196c07cc7",
   "lastOpenFiles": [
+    "induction_inversion_number_tbc.md",
     "academics/2026S/COMP3711/COMP3711.md",
     "academics/2026S/plan.md",
     "academics/2026S/MATH2411/MATH2411.md",
@@ -282,7 +289,6 @@
     "academics/2026S/COMP3711/problems/tutorial/tutorial_1/problem_1.md",
     "academics/2026S/COMP3711/problems/tutorial/turtorial_2",
     "academics/2026S/COMP3711/problems/tutorial/tutorial_1/tutorial_2",
-    "academics/2026S/COMP3711/problems/lecture_problems/lecture2_exercise3.md",
-    "Excalidraw/Drawing 2026-02-13 23.40.21.excalidraw.md"
+    "academics/2026S/COMP3711/problems/lecture_problems/lecture2_exercise3.md"
   ]
 }
