@@ -85,27 +85,28 @@ GOAL: level up to 2
       - make bite-sized notes and link them
 
 # 20/2/2026 12:43
-- back from CNY holidays (went back to homeland in mainland china)
-- barely did anything during the 3 days holiday
-- got a little obsessed into "The eminence in shadow" cuz it's a good show
-- spent $82 for breafast and drinked a small cup of milk tea from 大家樂
-- watched the last 3 more episodes of "The eminence in shadow season 2" and finished the show
-- read something about the side characters 
-- currently drinking green tea from 7-eleven
-- yes I am slowly juicing myself up with moderate amount of caffeine
-- yes I am absolutely ready to go agane, it's time to come back
-- bare this in mind:
-  - the key is not about how many days you have "lost" in the context of academic progress
-  - the key is how fast you learn and catch up 
-  - stay calm, train yourself to read fast, understand fast and think of a strategy fast
-    - you are definitely slow in the brain right now
-    - but it is fine
-    - treat this as a training opportunity
-    - sit back and stay relaxed 
-    - you can do it
-- so now, what exactly do I do? What should I accomplish in the next few hours so that I won't regret and cry at bed tonight
-- yes, I need the minimal goal of the day
-- here it is:
+- ## thoughts 1
+  - back from CNY holidays (went back to homeland in mainland china)
+  - barely did anything during the 3 days holiday
+  - got a little obsessed into "The eminence in shadow" cuz it's a good show
+  - spent $82 for breafast and drinked a small cup of milk tea from 大家樂
+  - watched the last 3 more episodes of "The eminence in shadow season 2" and finished the show
+  - read something about the side characters 
+  - currently drinking green tea from 7-eleven
+  - yes I am slowly juicing myself up with moderate amount of caffeine
+  - yes I am absolutely ready to go agane, it's time to come back
+  - bare this in mind:
+    - the key is not about how many days you have "lost" in the context of academic progress
+    - the key is how fast you learn and catch up 
+    - stay calm, train yourself to read fast, understand fast and think of a strategy fast
+      - you are definitely slow in the brain right now
+      - but it is fine
+      - treat this as a training opportunity
+      - sit back and stay relaxed 
+      - you can do it
+  - so now, what exactly do I do? What should I accomplish in the next few hours so that I won't regret and cry at bed tonight
+  - yes, I need the minimal goal of the day
+  - here it is:
 
 |Time|Task|
 |----|----|
@@ -113,10 +114,17 @@ GOAL: level up to 2
 |✅~~14:30 - 16:20~~ ~~14:40 - 16:20~~ `14:40 - 15:45` (yes I finished earlier than exxpected)|Revision on COMP2611, review the lecture note up to until the stuff that have been covered in the lecture. Type and copy the lecture notes content to the main note. Get a basic understanding|
 |✅~~16:30 - 18:20~~ ~~16:00 - 18:20~~ `16:00 - 17:20`| Catch up on MATH2411 by self-studyding it (would not be very easy with the lecture notes given). Type and copy the lecture notes content to the main note. Get a basic understanding. (newly added as I forgot to mention when to stop) -> stop before probability|
 |✅~~18:30 - 20:20~~ `17:20 - 20:10`|~~Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible~~ Dinner break (swapped)|
-|⏱️`20:20 - 21:20`|~~Dinner break~~ Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible (swapped with dinner break)|
-|⏱️`21:30 - 23:20`|self-study the rest of the master theorem slides. You don't have to finish, just see how far you can go within the 2-hours time limit.|
+|⏱️`20:20 - 21:50`|~~Dinner break~~ Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible (swapped with dinner break)|
+|⏱️`22:00 - 23:20`|self-study the rest of the master theorem slides. You don't have to finish, just see how far you can go within the 2-hours time limit.|
 |⏱️`23:30 - 00:20`|Review and refine COMP3711 main note up to before master theorem (D&C) (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
 |⏱️`00:30 - 02:20`|find and complete one related leetcode problem|
 |⏱️`02:30 - 02:50`|Write down tomorrow's plan|
-|⏱️`03:00 - 3:20`|Go down stairs to have a nice little walk while looking at the stars|
-|⏱️`03:30 - 4:20`|game break. Play whatever games you like|
+|⏱️`03:00 - 03:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
+|⏱️`04:00 - 05:00`|game break. Play whatever games you like|
+
+- ## thoughts 2
+  - a bit heart broken by the $2^{\sqrt{\log{n}}}$ vs $n$ question in the homework. 
+  - because I found out that I have forgotten so much about 
+    - simple limit
+    - differentiation
+  - maybe I should study some calculus when I have enough time
