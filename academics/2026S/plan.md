@@ -134,17 +134,53 @@ GOAL: level up to 2
   - I need speed + template for doing such questions
     - to prevent getting stuck on them and think for hours during the exam 
 
-# plan for 21/2/2025:
+# 21/2/2025:
 |Time|Task|
 |-|-|
-|⏱️`12:00 - 14:20`|Do COMP3711 homework1. At least finish the second question.|
-|⏱️`14:30 - 17:50`|Review and refine COMP2611 main note up to lecture progress|
+|⏱️`12:00 - 15:55`|Do COMP3711 homework1. At least finish the second question.|
+|⏱️`16:00 - 17:50`|Review and refine COMP2611 main note up to lecture progress|
 |⏱️`18:00 - 19:20`| Catch up on MATH2411 (probability) stop when dinner|
 |⏱️`19:20 - 20:20`|Dinner break|
 |⏱️`20:20 - 21:50`|Self-study COMP3711 randomized theorem lecture notes.|
 |⏱️`22:00 - 23:20`|review and refine master theorem notes|
 |⏱️`23:30 - 00:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
 |⏱️`00:30 - 02:20`|understand the D&C solution of reversebits (leetcode)|
+|⏱️`02:30 - 02:50`|Write down tomorrow's plan|
+|⏱️`03:00 - 03:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
+|⏱️`04:00 - 05:00`|game break. Play whatever games you like|
+
+- ### 21:11 
+  - I failed the above plan 
+  - most probably because I didn't take any take any caffeine 
+  - so I am super tired, especially from 16:00 - 21:30
+  - I have been completely disabled:
+    - got tired
+    - eat
+    - got energy
+    - proceed to watch a few episodes of anime
+    - nap
+    - dinner
+    - watched one more episode of anime 
+    - browsing the internet (looking for good light novels)
+    - poop
+    - shower
+  - what I should have done:
+    - eat (don't watch any shows while eating, do nothing or grind)
+    - got energy
+    - grind
+    - nap (since you really were tired)
+  - anyway, time has passed. What can I do now:
+    - grind
+  - how?
+    - let's make a new plan
+
+|Time|Task|
+|-|-|
+|⏱️`21:40 - 21:50`|review and refine COMP2611 notes you made. Just scroll through it and see if there's thing you don't get|
+|⏱️`22:00 - 23:20`|Catch up of MATH2411 probability (up to 2.4 properties of probability)|
+|⏱️`23:30 - 00:20`|self-study randomized algorithm (up to the hiring problem)|
+|⏱️`00:30 - 01:20`|understand the D&C solution of reversebits (leetcode)|
+|⏱️`01:30 - 02:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
 |⏱️`02:30 - 02:50`|Write down tomorrow's plan|
 |⏱️`03:00 - 03:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
 |⏱️`04:00 - 05:00`|game break. Play whatever games you like|
