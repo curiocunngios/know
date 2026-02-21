@@ -109,18 +109,18 @@ GOAL: level up to 2
   - here it is:
 
 |Time|Task|
-|----|----|
-|✅~~13:30 - 14:20~~ `13:30 - 14:30`|Review and refine COMP3711 main note up to before D&C (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
-|✅~~14:30 - 16:20~~ ~~14:40 - 16:20~~ `14:40 - 15:45` (yes I finished earlier than exxpected)|Revision on COMP2611, review the lecture note up to until the stuff that have been covered in the lecture. Type and copy the lecture notes content to the main note. Get a basic understanding|
-|✅~~16:30 - 18:20~~ ~~16:00 - 18:20~~ `16:00 - 17:20`| Catch up on MATH2411 by self-studyding it (would not be very easy with the lecture notes given). Type and copy the lecture notes content to the main note. Get a basic understanding. (newly added as I forgot to mention when to stop) -> stop before probability|
-|✅~~18:30 - 20:20~~ `17:20 - 20:10`|~~Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible~~ Dinner break (swapped)|
-|✅`20:20 - 21:50`|~~Dinner break~~ Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible (swapped with dinner break)|
+|-|-|
+|✅`13:30 - 14:30`|Review and refine COMP3711 main note up to before D&C (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
+|✅`14:40 - 15:45`|Revision on COMP2611, review the lecture note up to until the stuff that have been covered in the lecture. Type and copy the lecture notes content to the main note. Get a basic understanding|
+|✅`16:00 - 17:20`| Catch up on MATH2411 by self-studyding it (would not be very easy with the lecture notes given). Type and copy the lecture notes content to the main note. Get a basic understanding. (newly added as I forgot to mention when to stop) -> stop before probability|
+|✅`17:20 - 20:10`|Dinner break|
+|✅`20:20 - 21:50`|Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible |
 |✅`22:00 - 23:20`|self-study the rest of the master theorem slides. You don't have to finish, just see how far you can go within the 2-hours time limit.|
 |✅`23:30 - 00:20`|Review and refine COMP3711 main note up to before master theorem (D&C) (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
-|⏱️`00:30 - 02:20`|find and complete one related leetcode problem|
-|⏱️`02:30 - 02:50`|Write down tomorrow's plan|
-|⏱️`03:00 - 03:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
-|⏱️`04:00 - 05:00`|game break. Play whatever games you like|
+|✅`00:30 - 01:30`|find and complete one related leetcode problem|
+|✅`01:30 - 01:50`|Write down tomorrow's plan|
+|✅`02:00 - 02:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
+|✅`03:00 - 04:00`|game break. Play whatever games you like|
 
 - ## thoughts 2
   - a bit heart broken by the $2^{\sqrt{\log{n}}}$ vs $n$ question in the homework. 
@@ -133,3 +133,18 @@ GOAL: level up to 2
     - maybe not focuses enough..maybe
   - I need speed + template for doing such questions
     - to prevent getting stuck on them and think for hours during the exam 
+
+# plan for 21/2/2025:
+|Time|Task|
+|-|-|
+|⏱️`12:00 - 14:20`|Do COMP3711 homework1. At least finish the second question.|
+|⏱️`14:30 - 17:50`|Review and refine COMP2611 main note up to lecture progress|
+|⏱️`18:00 - 19:20`| Catch up on MATH2411 (probability) stop when dinner|
+|⏱️`19:20 - 20:20`|Dinner break|
+|⏱️`20:20 - 21:50`|Self-study COMP3711 randomized theorem lecture notes.|
+|⏱️`22:00 - 23:20`|review and refine master theorem notes|
+|⏱️`23:30 - 00:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
+|⏱️`00:30 - 02:20`|understand the D&C solution of reversebits (leetcode)|
+|⏱️`02:30 - 02:50`|Write down tomorrow's plan|
+|⏱️`03:00 - 03:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
+|⏱️`04:00 - 05:00`|game break. Play whatever games you like|
