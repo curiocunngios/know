@@ -176,8 +176,8 @@ GOAL: level up to 2
 
 |Time|Task|
 |-|-|
-|⏱️`21:40 - 21:50`|review and refine COMP2611 notes you made. Just scroll through it and see if there's thing you don't get|
-|⏱️`22:00 - 23:20`|Catch up of MATH2411 probability (up to 2.4 properties of probability)|
+|✅`21:40 - 21:50`|review and refine COMP2611 notes you made. Just scroll through it and see if there's thing you don't get|
+|✅`22:00 - 23:20`|Catch up of MATH2411 probability (up to definition of probability)|
 |⏱️`23:30 - 00:20`|self-study randomized algorithm (up to the hiring problem)|
 |⏱️`00:30 - 01:20`|understand the D&C solution of reversebits (leetcode)|
 |⏱️`01:30 - 02:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
