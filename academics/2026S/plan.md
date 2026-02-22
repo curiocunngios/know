@@ -189,10 +189,10 @@ GOAL: level up to 2
 # 22/2/2026
 |Time|Task|
 |-|-|
-|⏱️`20:00 - 21:20`|Make some progress on COMP3711 homework within this time. If you managed to finish one question within this time. Move on to the next task| 
+|✅`20:00 - 21:20`|Make some progress on COMP3711 homework within this time. If you managed to finish one question within this time. Move on to the next task| 
 |⏱️`21:30 - 21:50`|complete at least one sub-problem question from COMP2611 homework|
-|⏱️`22:00 - 23:20`|Catch up of MATH2411 probability (finish probability definition and properties)|
-|⏱️`23:30 - 00:20`|self-study randomized algorithm (finish the hiring problem)|
+|✅`22:00 - 23:20`|Catch up of MATH2411 probability (finish probability definition and properties)|
+|✅`23:30 - 00:20`|self-study randomized algorithm (finish the hiring problem)|
 |⏱️`00:30 - 01:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
 - spent an embarrassingly huge amount of time on task 1
 - I didn't understand and follow the task completely
@@ -205,3 +205,28 @@ GOAL: level up to 2
 - let me do task 3 first and see if after all tasks 
   - would I have time and energy to go back and work on task 2.
   - let's go!
+
+## update (22:59):
+- I am starting to lose faith and energy
+- so let me stop here :)
+- I am starting to doubt my work actually, right now what I have been doing when I had the most energy waas:
+  - just copying the lecture notes and marking down question marks on confusion points without actually understanding them.
+  - I should be doing these when I do not have much energy
+  - which is during daytime in school tomorrow, daily, on weekdays
+  - and at night?
+    - work on problems 
+      - homeworks
+      - lecture problems
+      - tutorials
+      - past paper questions
+  - ## so the takeaway of today is:
+    - ### day time in school 
+      - work on copying lecture notes, getting a very rough understanding, familarity during daytime in school 
+      - work on coying exercises into your problem sets for future ease of reading and finding problems
+      - if you have more energy, perhaps do the research + deep understanding + paraphrase as well 
+    - ### nightime at home after dinner:
+      - work on:
+        - lecture exercises, examples
+        - tutorials exercises
+        - homeworks 
+        - past papers
