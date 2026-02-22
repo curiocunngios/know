@@ -178,9 +178,19 @@ GOAL: level up to 2
 |-|-|
 |✅`21:40 - 21:50`|review and refine COMP2611 notes you made. Just scroll through it and see if there's thing you don't get|
 |✅`22:00 - 23:20`|Catch up of MATH2411 probability (up to definition of probability)|
-|⏱️`23:30 - 00:20`|self-study randomized algorithm (up to the hiring problem)|
+|✅`23:30 - 00:20`|self-study randomized algorithm (up to the hiring problem)|
 |⏱️`00:30 - 01:20`|understand the D&C solution of reversebits (leetcode)|
 |⏱️`01:30 - 02:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
 |⏱️`02:30 - 02:50`|Write down tomorrow's plan|
 |⏱️`03:00 - 03:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
 |⏱️`04:00 - 05:00`|game break. Play whatever games you like|
+
+
+# 22/2/2026
+|Time|Task|
+|-|-|
+|⏱️`20:00 - 21:20`|Make some progress on COMP3711 homework within this time. If you managed to finish one question within this time. Move on to the next task| 
+|⏱️`21:30 - 21:50`|complete at least one sub-problem question from COMP2611 homework|
+|⏱️`22:00 - 23:20`|Catch up of MATH2411 probability (finish probability definition and properties)|
+|⏱️`23:30 - 00:20`|self-study randomized algorithm (finish the hiring problem)|
+|⏱️`00:30 - 01:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
