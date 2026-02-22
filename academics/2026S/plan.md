@@ -194,3 +194,14 @@ GOAL: level up to 2
 |⏱️`22:00 - 23:20`|Catch up of MATH2411 probability (finish probability definition and properties)|
 |⏱️`23:30 - 00:20`|self-study randomized algorithm (finish the hiring problem)|
 |⏱️`00:30 - 01:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
+- spent an embarrassingly huge amount of time on task 1
+- I didn't understand and follow the task completely
+- even though the task has already told me the entire algorithm...
+- problem was that I thought it was something close to selection sort/insertion sort 
+- so I attempted to directly copy the idea of the sorting algorithm but it did not work as expected
+- not enough practice indeed...
+- anyway, finished 3(a), great
+- but I don't have time for task 2 now
+- let me do task 3 first and see if after all tasks 
+  - would I have time and energy to go back and work on task 2.
+  - let's go!

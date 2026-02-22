@@ -13,7 +13,7 @@ Assuming to sort in ascending order. The idea is to continously swap the "key" w
 ````cpp
 // start from 2 since there's no element on the left for the very first element
 for i <- 2 to n: 
-  for j <- i to 2:
+  for j <- i down to 2:
     if A[j - 1] <= A[j]:
       break;
     swap(A[j - 1], A[j])

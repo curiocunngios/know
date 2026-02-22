@@ -244,6 +244,7 @@
   },
   "active": "0d43be8196c07cc7",
   "lastOpenFiles": [
+    "code/sort_decreasing.cpp",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture8_guessing_card_memory.md",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture8_coupon_collector.md",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture8_",
@@ -288,7 +289,6 @@
     "academics/2026S/COMP3711/problems/lecture_problems/lecture4_exercise2.md",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture4_exercise1.md",
     "deep_complexity_tbc.md",
-    "academics/2026S/COMP3711/problems/tutorial/tutorial_2",
-    "academics/2026S/COMP3711/problems/tutorial/tutorial_1/problem_5.md"
+    "academics/2026S/COMP3711/problems/tutorial/tutorial_2"
   ]
 }
