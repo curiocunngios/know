@@ -44,4 +44,4 @@ $${n \choose 2} = \frac{n(n-1)}{2}$$
   - runs selection sort on A[2..n]
     - By induction, this sorts the items in A[2..n]
   - Since A[1] is smaller than every item in A[2..n]
-    - all the items A[1..n] are now sorted 
+    - all the items A[1..n] are now sorted

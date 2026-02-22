@@ -244,6 +244,8 @@
   },
   "active": "0d43be8196c07cc7",
   "lastOpenFiles": [
+    "academics/2026S/attachments/image.png",
+    "academics/2026S/attachments",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture8_birthday_paradox.md",
     "academics/2026S/MATH2411/problem/lecture/probability_property3.md",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-6.png",
@@ -286,9 +288,7 @@
     "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications2",
     "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications1.md",
     "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications.md",
-    "notes/Boolean_algebra_laws.md",
     "code/merge_sort.cpp",
-    "academics/2026S/COMP3711/problems/leetcode",
-    "academics/2026S/COMP3711/problems/lecture_problems/attachments"
+    "academics/2026S/COMP3711/problems/leetcode"
   ]
 }

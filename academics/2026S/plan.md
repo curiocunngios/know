@@ -190,7 +190,7 @@ GOAL: level up to 2
 |Time|Task|
 |-|-|
 |✅`20:00 - 21:20`|Make some progress on COMP3711 homework within this time. If you managed to finish one question within this time. Move on to the next task| 
-|⏱️`21:30 - 21:50`|complete at least one sub-problem question from COMP2611 homework|
+|✅`21:30 - 21:50`|complete at least one sub-problem question from COMP2611 homework|
 |✅`22:00 - 23:20`|Catch up of MATH2411 probability (finish probability definition and properties)|
 |✅`23:30 - 00:20`|self-study randomized algorithm (finish the hiring problem)|
 |⏱️`00:30 - 01:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
