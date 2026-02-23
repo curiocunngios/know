@@ -257,4 +257,25 @@ target:
 |⏱️`00:00 - 00:50`|COMP2611 homework|
 |⏱️`01:00 - 01:50`|MATH2411 practices|
 
+## new plan
+- since I feel pretty energized right now (12:51)
+- let me work on exercises first
 
+| Time             | Task                                         |
+| ---------------- | -------------------------------------------- |
+| ⏱️`13:00 - 13:50` | read and make notes on math2411 slides       |
+| ⏱️`14:00 - 14:50` | MATH2411 exercises                           |
+| ⏱️`15:00 - 16:20` | MATH2411 lesson                              |
+| ⏱️`16:30 - 18:50` | COMP3711 (attend tutorial/ask questions)     |
+| ⏱️`19:00 - 20:20` | read and make notes on LANG2030 slides       |
+| ⏱️`20:30 - 21:20` | read and make notes on COMP2611 slides       |
+| ⏱️`21:30 - 22:50` | dinner break                                 |
+| ⏱️`23:00 - 23:50` | COMP3711 homework                            |
+| ⏱️`00:00 - 00:50` | COMP2611 homework                            |
+| ⏱️`01:00 - 01:50` | MATH2411 practices                           |
+
+
+- actually, just do the original plan but you don't have to follow the exactly the order. 
+- the principle is:
+  - when you have energy
+    - work on understanding and exercises 

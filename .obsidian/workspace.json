@@ -21,12 +21,10 @@
             "id": "4e609bc6dca3f1d4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-02-11 20.45.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-11 20.45.18.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -58,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,11 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "academics/2026S/COMP3711/COMP3711.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for COMP3711"
+              "title": "File properties"
             }
           }
         ],
@@ -242,10 +238,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0d43be8196c07cc7",
+  "active": "d79f153851c6269d",
   "lastOpenFiles": [
-    "academics/2026S/plan.md",
     "academics/2026S/COMP3711/COMP3711.md",
+    "academics/2026S/MATH2411/problem/lecture/attachments/image-7.png",
+    "academics/2026S/MATH2411/problem/lecture/probability_equal_likely.md",
+    "academics/2026S/plan.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/homework1.md",
     "academics/2026S/attachments/image.png",
     "academics/2026S/attachments",
@@ -272,7 +270,6 @@
     "academics/2026S/MATH2411/attachments/image-10.png",
     "academics/2026S/MATH2411/attachments/image-9.png",
     "academics/2026S/MATH2411/attachments/image-8.png",
-    "academics/2026S/MATH2411/attachments/image-7.png",
     "academics/2026S/COMP3711/problems/leetcode/reverse_bits.md",
     "induction_inversion_number_tbc.md",
     "academics/2026S/MATH2411/MATH2411.md",
@@ -286,7 +283,6 @@
     "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications3.md",
     "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications2",
     "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications1.md",
-    "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications.md",
     "code/merge_sort.cpp",
     "academics/2026S/COMP3711/problems/leetcode"
   ]
