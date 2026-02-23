@@ -230,3 +230,31 @@ GOAL: level up to 2
         - tutorials exercises
         - homeworks 
         - past papers
+
+# 23/2/2026
+target:
+- get a basic understanding on 
+  - probability
+  - random variables
+- practice COMP2611 
+  - lecture problems
+  - homework
+- practice COMP3711 
+  - homework
+- practice probability and random variables 
+  - lecture problems
+
+|Time|Task|
+|-|-|
+|⏱️`12:30 - 14:50`|read and make notes on math2411 slides| 
+|⏱️`15:00 - 16:20`|MATH2411 lesson|
+|⏱️`17:00 - 17:50`|COMP3711 tutorial|
+|⏱️`18:00 - 18:50`|work on COMP3711 (ask questions/read slides)|
+|⏱️`19:00 - 20:20`|read and make notes on LANG2030 slides|
+|⏱️`20:30 - 21:20`|read and make notes on COMP2611 slides|
+|⏱️`21:30 - 22:50`|dinner break|
+|⏱️`23:00 - 23:50`|COMP3711 homework|
+|⏱️`00:00 - 00:50`|COMP2611 homework|
+|⏱️`01:00 - 01:50`|MATH2411 practices|
+
+
