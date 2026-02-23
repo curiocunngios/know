@@ -263,9 +263,9 @@ target:
 
 | Time             | Task                                         |
 | ---------------- | -------------------------------------------- |
-| ⏱️`13:00 - 13:50` | read and make notes on math2411 slides       |
+| ✅`13:00 - 13:50` | read and make notes on math2411 slides       |
 | ⏱️`14:00 - 14:50` | MATH2411 exercises                           |
-| ⏱️`15:00 - 16:20` | MATH2411 lesson                              |
+| ✅`15:00 - 16:20` | MATH2411 lesson  (skipped lol)               |
 | ⏱️`16:30 - 18:50` | COMP3711 (attend tutorial/ask questions)     |
 | ⏱️`19:00 - 20:20` | read and make notes on LANG2030 slides       |
 | ⏱️`20:30 - 21:20` | read and make notes on COMP2611 slides       |
