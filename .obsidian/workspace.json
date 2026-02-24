@@ -21,10 +21,14 @@
             "id": "4e609bc6dca3f1d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "academics/2026S/COMP3711/problems/homeworks/homework1/homework1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "homework1"
             }
           },
           {
@@ -213,9 +217,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "academics/2026S/COMP3711/problems/homeworks/homework1/homework1.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for homework1"
             }
           }
         ],
@@ -238,8 +244,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d79f153851c6269d",
+  "active": "8b08d0fb26469331",
   "lastOpenFiles": [
+    "academics/2026S/COMP3711/COMP3711.md",
+    "CV_tbc.md",
+    "academics/2026S/MATH2411/MATH2411.md",
+    "Excalidraw/Drawing 2026-02-23 17.10.48.excalidraw.md",
+    "Excalidraw",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-20.png",
     "academics/2026S/MATH2411/problem/lecture/probability_bayes5.md",
     "academics/2026S/MATH2411/problem/lecture/probability_bayes4.md",
@@ -266,16 +277,12 @@
     "academics/2026S/MATH2411/problem/lecture/attachments/image-12.png",
     "academics/2026S/MATH2411/problem/lecture/conditional_probability5.md",
     "academics/2026S/MATH2411/problem/lecture/conditional_probability4.md",
-    "academics/2026S/MATH2411/problem/lecture/attachments/image-11.png",
     "academics/2026S/MATH2411/problem/lecture/conditional_probability3.md",
     "academics/2026S/MATH2411/problem/lecture/conditional_probability2.md",
     "academics/2026S/MATH2411/problem/lecture/conditional_probability.md",
     "academics/2026S/MATH2411/problem/lecture/conditional_probability1.md",
     "academics/2026S/MATH2411/problem/lecture/counting_example4.md",
     "academics/2026S/MATH2411/problem/lecture/counting_example3.md",
-    "academics/2026S/MATH2411/problem/lecture/counting_example2.md",
-    "academics/2026S/MATH2411/problem/lecture/counting_example1.md",
-    "academics/2026S/COMP3711/COMP3711.md",
     "academics/2026S/attachments",
     "code/sort_decreasing.cpp",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture8_",
@@ -284,7 +291,6 @@
     "academics/2026S/MATH2411/problem/lecture",
     "academics/2026S/MATH2411/problem",
     "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications2",
-    "code/merge_sort.cpp",
-    "academics/2026S/COMP3711/problems/leetcode"
+    "code/merge_sort.cpp"
   ]
 }
