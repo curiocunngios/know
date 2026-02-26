@@ -22,3 +22,7 @@ tags:
 - Subject to (phrasal verb) :: affected or possibly affected by something, dependent on something
 - stringent (adj) :: strict, precise 
 - abstraction (noun) :: hiding complexities, makes people focus on what something does and not how it works internally
+- devise (verb) :: plan or invent with careful thoughts
+- weave (verb) :: make, form something with interconnected elements
+- synthesis :: combining two distinct elements to weave a new, integrated whole
+- invariant (math) :: something (property, quantity or object) that remains unchanged after some operation (e.g. translation, scaling, rotation)

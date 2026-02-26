@@ -283,11 +283,22 @@ target:
 # 24/2/2026
 | Time             | Task                                     |
 | ---------------- | ---------------------------------------- |
-| ⏱️`11:00 - 13:50` | COMP3711 homework                        |
+| ✅`11:00 - 13:50` | COMP3711 homework                        |
 | ⏱️`14:00 - 14:50` | read and make notes on LANG2030 slides   |
 | ⏱️`15:00 - 16:20` | MATH2411 practices                       |
-| ⏱️`16:30 - 17:50` | COMP2611 lesson                          |
+| ✅`16:30 - 17:50` | COMP2611 lesson                          |
 | ⏱️`18:00 - 20:20` | COMP2611 homework                        |
 | ⏱️`20:30 - 21:20` | read and make notes on COMP2611 slides   |
 | ⏱️`21:30 - 22:50` | read and make notes on MATH2411 slides   |
 | ⏱️`23:00 - 23:50` | read and make notes on COMP3711 slides   |
+
+# 25/2/2026:
+| Time             | Task                                   |
+| ---------------- | -------------------------------------- |
+| ⏱️`15:00 - 17:50` | COMP3711 homework                      |
+| ⏱️`18:00 - 20:20` | COMP2611 homework                      |
+| ⏱️`20:30 - 21:20` | read and make notes on COMP2611 slides |
+| ⏱️`21:30 - 22:50` | read and make notes on MATH2411 slides |
+| ⏱️`23:00 - 23:50` | read and make notes on COMP3711 slides |
+| ⏱️`00:00 - 01:20` | MATH2411 practices                     |
+| ⏱️`01:30 - 02:50` | read and make notes on LANG2030 slides |

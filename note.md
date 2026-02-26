@@ -1,0 +1,17 @@
+# the art of note taking
+- here is my thoughts about note taking
+- ### motivation of taking notes:
+  - simplify things
+  - reinforce knowledge 
+    - you weave your own words 
+      - form some sort of neuro linkage 
+  - presentation of information
+    - for future self-review
+    - for sharing
+  - embracing craftsmanship
+    - your notes are your little crafts, your work
+    - you enjoy the beauty of crafting
+- ### focus of note taking:
+  - use your own language
+  - use your own thoughts
+  - stuff you think is important that gives you an a-ha moment
