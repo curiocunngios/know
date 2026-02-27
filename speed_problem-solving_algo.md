@@ -1,0 +1,41 @@
+# speed problem-solving algorithm
+- this is my personal algorithm to speedrun the process of solving a problem
+  - fully based on intuition
+  - to be refined based on future experience
+- ## motivation: 
+  - act as a template 
+    - template whenever it comes to studying
+    - which speeds up the process 
+      - since you would be doing the same template over and over again 
+  - to not waste time on
+    - wandering, doing nothing 
+      - since you have a template to follow, it is unlikely to waste time on something irrelevant 
+    - thinking perfect solution to first-try a problem
+    - being stuck on problem with no linkage to prior knowledge 
+      - rare in academic context if you follow the syllabus 
+- ## algorithm:
+  1. max 1 min to:
+     - think of at least one single clue
+       - definition of a clue: 
+         - anything that allows progress and continuing the problem
+         - it could be simply presenting the problem in different way 
+     - be extremely focused and relaxed 
+       - to maximize the use of only 1 min
+     - try your damn best to:
+       - present the problem better:
+         - by drawing, paraphrasing (in your mind)
+       - find relationship/linkage:
+         - between stuff you have learned
+  2. max 3 minutes to:
+     - weave a path/flow/approach/sequence of steps to, from the clues, to the destination (a solution)
+     - stop if:
+       - reaches the above time limit
+       - which implies:
+         - no clue in 1 min 
+         - too many clues within 3 mins (no template on thaat specific problem)
+         - then:
+           - if its exam, skip to the next problem 
+           - if its self-directed practice
+             - ask friends, ai or google for **hints**
+             - then:
+               -  repeat the algorithm until solved     

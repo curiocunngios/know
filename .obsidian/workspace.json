@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academics/2026S/COMP3711/problems/homeworks/homework1/problem3.md",
+                "file": "academics/2026S/COMP3711/problems/homeworks/homework1/description.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "problem3"
+              "title": "description"
             }
           },
           {
@@ -256,12 +256,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8b08d0fb26469331",
+  "active": "d935123b4e374d16",
   "lastOpenFiles": [
+    "academic_plan_pri.md",
+    "speed_problem-solving_algo.md",
+    "speed_learning_algo.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/problem4.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/problem3.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/problem2e.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/problem2d.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2c.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2b.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2a.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/problem1.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/description.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/homework1.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/strong_induction_pri.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/strong_induction.md",
     "academics/2026S/LANG2030/problems/lecture/1.6_exerccise.md",
     "academics/2026S/LANG2030/problems/lecture/challenger.md",
     "academics/2026S/LANG2030/problems/lecture/deep_water.md",
@@ -271,19 +282,8 @@
     "academics/2026S/LANG2030/LANG2030.md",
     "academics/2026S/LANG2030/old.md",
     "goal_pri.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/problem4.md",
     "Excalidraw/Drawing 2026-02-25 18.14.58.excalidraw.md",
     "Excalidraw/Drawing 2026-02-25 18.13.11.excalidraw.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/problem3.md",
-    "thoughts_pri.md",
-    "academics/2026S/COMP3711/COMP3711.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/problem2e.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/problem2d.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/problem1.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/description.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/problem2.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/backup_homework1.md",
-    "CV_tbc.md",
     "Excalidraw",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-20.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-19.png",

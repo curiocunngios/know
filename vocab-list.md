@@ -26,3 +26,4 @@ tags:
 - weave (verb) :: make, form something with interconnected elements
 - synthesis :: combining two distinct elements to weave a new, integrated whole
 - invariant (math) :: something (property, quantity or object) that remains unchanged after some operation (e.g. translation, scaling, rotation)
+- verdict (noun) :: decision on an issue of fact
