@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem 
@@ -19,5 +19,3 @@ What is the reliability of the system?
 
 # Solution 
 
-# official solution:
-![alt text](attachments/image-14.png)

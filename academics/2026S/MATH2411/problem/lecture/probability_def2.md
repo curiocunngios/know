@@ -5,7 +5,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem
@@ -14,6 +14,3 @@ tags:
 - By Kolmogorov’s axiom of probabilities, what are $P(A)$ and $P(B)$
 
 # Solution 
-
-# Official Solution
-![alt text](attachments/image-5.png)

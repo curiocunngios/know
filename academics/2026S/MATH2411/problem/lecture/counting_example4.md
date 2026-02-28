@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem
@@ -17,3 +17,9 @@ tags:
 - find $P(A)$ and $P(B)$
 
 # Solution 
+$$
+P(A) = \frac{4 \choose 2}{52 \choose 2} \\
+\quad \\ 
+\quad \\
+P(B) = \frac{\overbrace{{3 \choose 1 } \times {13 \choose 1}}^{\text{non-heart jack}} + \overbrace{{1 \choose 1 } \times {12 \choose 1}}^{\text{heart jack chosen, -1 heart}}}{52 \choose 2} = 1/26
+$$

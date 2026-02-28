@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem 
@@ -17,6 +17,4 @@ no concert tickets have been drawn.
 Then what is the probability for you to get a concert ticket?
 
 # Solution 
-
-# Official solution
-![alt text](attachments/image-10.png)
+- $\frac{m}{(n-k+1)}$

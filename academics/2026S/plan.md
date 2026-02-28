@@ -302,3 +302,13 @@ target:
 | ⏱️`23:00 - 23:50` | read and make notes on COMP3711 slides |
 | ⏱️`00:00 - 01:20` | MATH2411 practices                     |
 | ⏱️`01:30 - 02:50` | read and make notes on LANG2030 slides |
+- if I remember correctly. I did absolutely nothing lol 
+
+
+# 28/2/2026
+|Time|Task|
+|-|-|
+|✅`6:00 - 10:00`|probability exercises and greedy gifters from usaco|
+|✅`10:00 - 14:30`|sleep|
+|✅`14:30 - 17:30`|walk and eat|
+|⏱️`17:30 - `|More probability |

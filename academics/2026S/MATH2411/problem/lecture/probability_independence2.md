@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem 
@@ -15,5 +15,3 @@ event B={sum of dice is odd}. Are A and B independent?
 
 # Solution 
 
-# Official solution:
-![alt text](attachments/image-13.png)

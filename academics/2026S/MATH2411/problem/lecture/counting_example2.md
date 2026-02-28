@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem 
@@ -20,7 +20,7 @@ consisting of 50 people.
 
 
 # Solution 
-
-
-# Official solution 
-![alt text](attachments/image-8.png)
+- (a): $50 \times 49$
+- (b): $\underbrace{1 \times 49}_{\text{A chosen}} + \underbrace{49 \times 48}_{\text{A not chosen}}$
+- (c): $\underbrace{48 \times 47}_{\text{B, C not chosen}} + \underbrace{1 \times 2}_{\text{B, C chosen (different position)}}$
+- (d) $\underbrace{1 \times 2 \times 48 \times 2}_{\text{D chosen or E chosen}} + \underbrace{48 \times 47}_{\text{D, E both not chosen}}$

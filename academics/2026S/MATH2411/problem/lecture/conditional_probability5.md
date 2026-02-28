@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem 
@@ -14,5 +14,3 @@ tags:
 
 # Solution
 
-# Official solution
-![alt text](attachments/image-12.png)

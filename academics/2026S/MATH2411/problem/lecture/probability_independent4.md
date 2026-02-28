@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem
@@ -15,6 +15,3 @@ What is the probability that a sample combining 100 people’s blood contains th
 (Assume that each person’s blood has virus or not are mutually independent.)
 
 # Solution 
-
-# Official solution 
-![alt text](attachments/image-15.png)
