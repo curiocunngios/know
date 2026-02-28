@@ -4,75 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "32cb10b226cbc23b",
+        "id": "b01ce9c18993f16d",
         "type": "tabs",
         "children": [
           {
-            "id": "c65e51aca4edb48e",
+            "id": "f79ca7dab0aa18d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "273be3aa2b597907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academics/2026S/COMP3711/problems/homeworks/homework1/problem4.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "problem4"
-            }
-          },
-          {
-            "id": "c17e9a47b50010fa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-02-25 18.13.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-25 18.13.11.excalidraw"
-            }
-          },
-          {
-            "id": "d935123b4e374d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academics/2026S/COMP3711/problems/homeworks/homework1/description.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "description"
-            }
-          },
-          {
-            "id": "0d43be8196c07cc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academics/2026S/COMP3711/COMP3711.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP3711"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 321.5
   },
   "right": {
     "id": "45c0d0b8ed3438e3",
@@ -198,50 +143,13 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "ac0d5f568e390bdd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "academics/2026S/COMP3711/problems/lecture_problems/lecture3_exercise.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of lecture3_exercise"
-            }
-          },
-          {
-            "id": "8b08d0fb26469331",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "1e2fdbafaa361708",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "academics/2026S/COMP3711/problems/homeworks/homework1/homework1.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for homework1"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,12 +164,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d935123b4e374d16",
+  "active": "f79ca7dab0aa18d1",
   "lastOpenFiles": [
+    "academics/2026S/COMP3711/problems/usaco/greedy_gifters/q.md",
+    "academics/2026S/COMP3711/problems/usaco/greedy_gifters/gift1.out",
+    "academics/2026S/COMP3711/problems/usaco/greedy_gifters/a.exe",
+    "academics/2026S/COMP3711/problems/usaco/greedy_gifters/gift1.in",
+    "academics/2026S/COMP3711/problems/usaco/greedy_gifters/gift",
+    "academics/2026S/COMP3711/problems/usaco/greedy_gifters/s.cpp",
+    "academics/2026S/COMP3711/problems/usaco/greedy_gifters",
+    "academics/2026S/MATH2411/problem/lecture/probability_basic3.md",
+    "academics/2026S/MATH2411/problem/lecture/probability_basic1.md",
+    "academics/2026S/MATH2411/problem/lecture/probability_basic2.md",
+    "academics/2026S/MATH2411/problem/lecture/probability_basic.md",
+    "spsa.md",
+    "academics/2026S/COMP3711/COMP3711.md",
+    "Excalidraw/Drawing 2026-02-25 18.13.11.excalidraw.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/problem4.md",
+    "sla.md",
+    "speed_learning_algo.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework1/description.md",
     "academic_plan_pri.md",
     "speed_problem-solving_algo.md",
-    "speed_learning_algo.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/problem4.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem3.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2e.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2d.md",
@@ -269,21 +193,11 @@
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2b.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2a.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem1.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/description.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/homework1.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/strong_induction_pri.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/strong_induction.md",
     "academics/2026S/LANG2030/problems/lecture/1.6_exerccise.md",
     "academics/2026S/LANG2030/problems/lecture/challenger.md",
-    "academics/2026S/LANG2030/problems/lecture/deep_water.md",
-    "bible_pri.md",
-    "note.md",
-    "notes.md",
-    "academics/2026S/LANG2030/LANG2030.md",
-    "academics/2026S/LANG2030/old.md",
-    "goal_pri.md",
-    "Excalidraw/Drawing 2026-02-25 18.14.58.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-25 18.13.11.excalidraw.md",
     "Excalidraw",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-20.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-19.png",
@@ -297,12 +211,6 @@
     "academics/2026S/MATH2411/problem/lecture/attachments/image-12.png",
     "academics/2026S/attachments",
     "code/sort_decreasing.cpp",
-    "academics/2026S/COMP3711/problems/lecture_problems/lecture8_",
-    "notes/probability",
-    "academics/2026S/MATH2411/problem/lecture/attachments",
-    "academics/2026S/MATH2411/problem/lecture",
-    "academics/2026S/MATH2411/problem",
-    "academics/2026S/COMP2611/problems/lecture_problems/boolean_algebra_simplifications2",
-    "code/merge_sort.cpp"
+    "academics/2026S/COMP3711/problems/lecture_problems/lecture8_"
   ]
 }

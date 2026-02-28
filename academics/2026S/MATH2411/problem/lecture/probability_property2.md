@@ -16,6 +16,3 @@ that the probability that he will get offers from both companies is 0.5, what is
 at least one offer from these two companies?
 
 # Solution 
-
-# Official solution 
-![alt text](attachments/image-6.png)
