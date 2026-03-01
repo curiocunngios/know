@@ -311,4 +311,144 @@ target:
 |✅`6:00 - 10:00`|probability exercises and greedy gifters from usaco|
 |✅`10:00 - 14:30`|sleep|
 |✅`14:30 - 17:30`|walk and eat|
-|⏱️`17:30 - `|More probability |
+|✅`17:30 - 22:00`|More probability|
+
+# rough plan on next few days
+- ## Math2411:
+  - ### 1/3/2026:
+    - (1) active recall (yesterday's input)✅
+    - (2) speedrun problem done yesterday ✅
+    - (4) start (read +/ recall + problem/application):
+      - total
+      - bayes 
+      - stat 
+      - R 
+  - ### 2/3/2026:
+    - (1) active recall (yesterday's input)
+    - (2) speedrun problem done yesterday
+    - (3) practice, tutorial (probability)
+    - (4) start (read + recall + problem):
+      -  random variables
+      - (Continue) R 
+    - (5) digitalization (on stuff written today, non-exhaustive)
+  - ### 3/3/2026:
+    - (1) active recall (yesterday's input)
+    - (2) speedrun problem done yesterday
+    - (3) past papers (probability)
+    - (4) start:
+      - (continue) random variables 
+      - (continue) R 
+    - (5) digitalization (on stuff written today, non-exhaustive)
+- ## COMP2611
+  - ### 1/3/2026 (expect to spend a lot of time)
+    - (1) active recall 
+      - open COMP2611 webpage
+      - look at **lecture 4** topics
+      - perform active recall (prepare a white paper and write anything you can think of related to the topic)
+        - fail?
+          - read and repeat
+    - (2) practice (problems related to lecture 4 topics)
+    - (4) start (read + immediate active recall + problems) (hard):
+      - lecture 5 topics
+      - logic gates
+    - (5) digitalization (on stuff written today, non-exhaustive)
+  - ### 2/3/2026 (lecture 6 day, finish before lecture 6)
+    - (1) active recall (yesterday stuff, including lab stuff)
+    - (2) speedrun problem done yesterday
+    - (3) practice, do past papers (on related topics -> lecture 4, 5) 
+    - (4) start (read +/ immediate active recall + problems):
+      - multiplexor, decoder
+    - (5) digitalization (on stuff written today, non-exhaustive)
+  - ### 3/3/2026 (finish before lesson)
+    - (1) active recall (yesterday stuff, including lecture)
+    - (2) speedrun problem done yesterday
+    - (3) practice, do past papers (on related topics -> lecture 4, 5, 6) 
+    - (4) start (read +/ immediate active recall + problems) (if time allows):
+      - lecture 7 stuff (pre-study yea)
+    - (5) digitalization (on stuff written today, non-exhaustive)
+- ## COMP3711:
+  - ### 1/3/2026:
+    - (1) active recall (D&C) 
+      - anything you can think of on (yesterday's start):
+        - binary search
+        - tower of hanoi
+        - merge sort
+    - (3) practice
+      - easy leetcode D&Cs
+      - related past paper problems
+      - tutorial (D&C) 
+    - (4) start (read +/ recall + problem/application):
+      - inversion number
+      - randomized algorithm
+    - (5) digitalization (on stuff written today, non-exhaustive)
+  - ### 2/3/2026  (lecture day, on randomized algo):
+    - (1) active recall (yesterday's start)
+      - inversion number
+      - randomized algorithm
+      - asymptotic 
+      - master's theorem
+    - (2) speedrun (yesterday problems)
+    - (3) practice
+      - easy leetcode D&Cs
+      - related past papers problems
+      - tutorial
+    - (4) start (read +/ recall + problem/application):
+      - max subarray 
+      - multiplication
+    - (5) digitalization (on stuff written today, non-exhaustive)
+  - ### 3/3/2026:
+    - (1) active recall (D&C)
+      - anything you can think of on (yesterday's start):
+        - max subarray
+        - multiplication algo
+        - quick sort and selection 
+    - (3) practice
+      - easy leetcode D&Cs
+      - pp
+      - tutorial
+    - (4) start (read +/ recall + problem/application):
+      - quicksort and selection 
+    - (5) digitalization (on stuff written today, non-exhaustive)
+- ## LANG2030:
+  - ### 1/3/2026
+    - (4) start (read +/ recall + application):
+      - unit 1.5
+      - application
+        - write
+        - speak
+        - verify
+    - (5) digitalization (on stuff written today, non-exhaustive)
+  - ### 2/3/2026
+    - (1) active recall 
+      - unit 1.5 stuff (stuff that's gave you a-ha moment)
+    - (2) speedrun yesterday's practice (speaking + writing)
+    - (3) more related practice 
+    - (4) start (read +/ recall + application):
+      - unit 1.6
+      - application
+        - write
+        - speak
+        - verify
+    - (5) digitalization (on stuff written today, non-exhaustive)
+  - ### 3/3/2026
+    - (1) active recall 
+      - unit 1.6 stuff (stuff that's gave you a-ha moment)
+    - (2) speedrun yesterday's practice (speaking + writing)
+    - (3) more related practice 
+    - (4) start (read +/ recall + application):
+      - unit 1.7
+      - application
+        - write
+        - speak
+        - verify
+    - (5) digitalization (on stuff written today, non-exhaustive)
+
+
+
+
+# 1/3/2026 
+|Time|Task|
+|-|-|
+|✅`6:00 - 7:20`|MATH2411 (1)|
+|✅`7:50 - 8:30`|MATH2411 (2)|
+|✅`14:30 - 15:50`|MATH2411 (3) (probability)|

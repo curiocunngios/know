@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem 
@@ -14,6 +14,5 @@ tags:
   - What is the probability of getting a tail on the first toss?
   - What is the probability of getting tails on both tosses?
 # Solution 
-
-# Official solution 
-![alt text](attachments/image-16.png)
+- 3/10
+- 13/100

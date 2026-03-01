@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem
@@ -15,3 +15,4 @@ tags:
 person got a positive RAT in a routine screening, what is the probability that the person is infected?
 
 # Solution
+- 0.798 

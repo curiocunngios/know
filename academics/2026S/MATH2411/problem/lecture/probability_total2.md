@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem 
@@ -18,6 +18,5 @@ respectively of the spring products. Of their production, machines I, II, and II
 - Question: If the selected spring is defective, what is the conditional probability that it was produced by machine III?
 
 # Solution
-
-# Official solution
-![alt text](attachments/image-17.png)
+- 0.0245
+- 10/49

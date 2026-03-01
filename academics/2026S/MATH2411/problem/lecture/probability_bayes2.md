@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem
@@ -16,5 +16,3 @@ what is the probability that coin 1 is selected?
 
 # Solution
 
-# Official solution:
-![alt text](attachments/image-18.png)

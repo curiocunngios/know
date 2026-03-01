@@ -6,7 +6,7 @@ aliases:
 tags:
   - flashcard/active/stat
   - MATH2411
-  - status/incompleted
+  - status/completed
 ---
 
 # Problem
@@ -17,6 +17,3 @@ tags:
 - where $A$ is the event that a test shows a positive result as carrier of a particular virus and $B$ is the event that a person is infected by the virus. Then, what is the probability of a person infected by the virus, given that the test on this person shows a positive result?
 
 # Solution 
-
-# Official solution 
-![alt text](attachments/image-19.png)
