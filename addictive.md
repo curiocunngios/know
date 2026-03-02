@@ -1,0 +1,48 @@
+# Addictive mindsets, techniques for learning
+- motivation: to make learning, which is less stimulating, more addicting
+- sources: mostly my intuition, which might implicitly come from youtube videos I watched long time ago. And future correction after having more personal experiences.
+## Principles
+- accumulation
+- ritualization
+- love
+- collaboration
+## mindsets
+- accumulation:
+  - accumulates
+    - see apparent progress
+  - embrace craftsmanship
+    - make it valuable, irreplacable
+  - ...
+  - Examples
+    - make notes
+    - problem solve
+- ritualization:
+  - speed things up in the long run
+  - for consistency as well
+  - pick the most valuable one and do it everyday at a fixed time
+  - e.g. one leetcode problem in the morning
+  - in fact, for your case, since you have already developped a good algorithm:
+    - break down big topics into pieces and run the algorithm one 1-2 topic(s) at a fixed time everyday
+      - active recall
+        - write down the core concept, the absolute basic on white paper 
+        - verify if correct or no
+      - speedrun
+        - do yesterday's problem(s) very quickly 
+          - to feel the improvement and thus satisfaction
+      - practice
+        - complete 1/2 new, related problem to further reinforce your knowledge, pattern-matching speed
+      - start:
+        - 1 new concept
+      - if (time && energy):
+        - repeat the algorithm
+- love:
+  - understand the the art, the beauty, the motivation, the application, the value and more advanced, the linkage with other concepts of the thing that you want to learn
+  - then become truly loves it and embrace it
+  - it's called the motivation by love which is extremely powerful
+  - don't get motivated by fear it's stressful 
+    - how to not?
+      - selflessness (ignore future implications of the learning...actually, as long as you **start** and learn, it is infinitely more powerful than procrastinating and doing nothing)
+      - understanding (of the art and beauty of the thing you want to learn)
+- collaboration
+  - gets accountability partner
+  - a way to both consume (input) and express (output) stuff you learnt

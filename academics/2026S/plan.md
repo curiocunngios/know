@@ -319,14 +319,14 @@ target:
     - (1) active recall (yesterday's input)✅
     - (2) speedrun problem done yesterday ✅
     - (4) start (read +/ recall + problem/application):
-      - total
-      - bayes 
+      - total✅
+      - bayes✅ 
       - stat 
       - R 
   - ### 2/3/2026:
-    - (1) active recall (yesterday's input)
-    - (2) speedrun problem done yesterday
-    - (3) practice, tutorial (probability)
+    - (1) active recall (yesterday's input)✅
+    - (2) speedrun problem done yesterday✅
+    - (3) practice, tutorial (probability)✅
     - (4) start (read + recall + problem):
       -  random variables
       - (Continue) R 
@@ -370,7 +370,7 @@ target:
   - ### 1/3/2026:
     - (1) active recall (D&C) 
       - anything you can think of on (yesterday's start):
-        - binary search
+        - binary search ✅
         - tower of hanoi
         - merge sort
     - (3) practice
@@ -452,3 +452,297 @@ target:
 |✅`6:00 - 7:20`|MATH2411 (1)|
 |✅`7:50 - 8:30`|MATH2411 (2)|
 |✅`14:30 - 15:50`|MATH2411 (3) (probability)|
+
+
+# 2/3/2026 
+|Time|Task|
+|-|-|
+|✅`3:20 - 3:40`|MATH2411 (1) (total, Bayes)|
+|✅`3:45 - 4:07`|MATH2411 (2) (total, Bayes)|
+|✅`4:10 - 4:50`|Spent time typing to friends on whatsapp while watching LEC|
+|✅`5:00 - 7:10`|MATH2411 (3) (probability)|
+|✅`7:30 - 8:30`|COMP3711 (1) (3) (binary search) |
+- ## reflection
+  - did not apply speed problem solving algorithm
+    - wastes too much time on trying to solve last q of MATH2411 (3) (probability)
+    - which could have been done and understood in at most 10 minutes
+    - I did the rest in around 20 minutes
+    - shoulda spent 30 minutes on MATH2411 (3)
+    - not only did I waste 2 hours, but also I wasted a lot of energy and aura
+  - also "Spent time typing to friends on whatsapp while watching LEC", which took too long. 
+    - it's not worth it
+    - You should have focused on the work
+  - the best case was to finish MATH2411(1-3) under 1.5 hours
+
+# goal of week 5:
+- ## COMP3711
+  - master everything up to lecture progress (quicksort) and go beyond (if time and energy allows):
+    - ### D&C & master (2/3/2026, Monday)
+      - active recall: write down the code and analysis of algorithms: tower of hanoi, merge sort, max subarray, etc. on a whitepaper
+      - practice: D&C tutorial questions
+      - start: master theorem lecture notes:
+        - understand
+        - immediate recall
+    - ### D&C & master & randomized algorithm (3/3/2026, Tuesday)
+      - active recall: write down the summary of D&C on a whitepaper
+      - active recall: write down everything you know about master theorem on a whitepaper
+      - speedrun: yesterday's questions
+      - practice: tutorial questions + related past papers' questions on D&C
+      - start: randomized algorithm lecture notes
+        - understand
+        - immediate recall 
+    - ### D&C & randomized algorithm & quicksort (4/3/2026, Wednesday)
+      - active recall: write down everything you know about randomized algorithm on a whitepaper
+      - speedrun: yesterday's questions
+      - practice: related past papers' questions on D&C
+      - start: quicksort and selection (up to quicksort analysis)
+        - understand
+        - immediate recall
+    - ### D&C & quicksort & selection (5/3/2026, Thursday)
+      - active recall: anything you know about quicksort
+      - speedrun: yesterday's questions 
+      - practice: related past papers' questions on D&C and lecture/amir problems quicksort
+      - start: Randomized selection
+        - understand
+        - immediate recall
+    - ### D&C & selction & heapsort (6/3/2026, Friday)
+      - active recall: anything you know about randomized selection
+      - speedrun: yesterday's questions 
+      - practice: related past papers' questions on D&C and lecture problems on selection
+      - start: heap sort
+        - understand
+        - immediate recall
+    - ### heapsort & linear time sorting (7/3/2026, Saturday)
+      - active recall: anything you know about heapsort
+      - speedrun: yesterday's questions 
+      - practice: related past papers' questions on lecture/amir problems on heapsort
+      - start: linear time sorting
+        - understand
+        - immediate recall
+    - ### linear time sorting & bst & AVL & Greedy algorithms (8/3/2026, Sunday)
+      - active recall: anything you know about linear time sorting
+      - speedrun: yesterday's questions
+      - practice: related past papers' questions on linear time sorting 
+      - start: COMP3711 greedy and amir COMP3711H bst
+        - understand
+        - immediate recall
+- ## MATH2411
+  - finish homework 1 (on or before 5/3/2025, Thursday) 
+  - catch up and master everything up to lecture progress (random variables 1-3)
+  - ### total & Bayes & stat & R (2/3/2026, Monday)
+    - active recall: everything about total & Bayes 
+    - speedrun: yesterday's problems
+    - practice: probability tutorial 
+    - start: stat, R
+      - understand
+      - immediate recall
+  - ### stat & R & random variables (intro + discrete) (3/3/2026, Tuesday)
+    - active recall: everything about stat and R you know 
+    - speedrun: yesterday's problems
+    - practice: lecture problems, past papers problems on stat and probability, also R tutorial practices
+    - start: random variables (intro + discrete)
+      - understand
+      - immediate recall
+  - ### random variables (discrete + continuous) (4/3/2026, Wednesday)
+    - active recall: everything about random variables (discrete)
+    - speedrun: yesterday's problems
+    - practice: homework 1 and lecture problems on random variables
+    - start: (continue) random variables (discrete + continuous)
+      - understand
+      - immediate recall
+  - ### random variables (continuous) (5/3/2026, Thursday)
+    - active recall: everything about random variables (discrete + continuous)
+    - speedrun: yesterday's problems (homework and some random variables Q)
+    - practice: random variables (discrete + continuous), maybe tutorial
+    - start: (continue) random variables (continuous)
+      - understand
+      - immediate recall
+  - ### random variables (continuous + distribution) (6/3/2026, Friday)
+    - active recall: everything about random variables (continuous)
+    - speedrun: yesterday's problems
+    - practice: random variables (continuous), maybe tutorial
+    - start: (continue) random variables (distribution)
+      - understand
+      - immediate recall
+  - ### random variables (distribution + MGF) (7/3/2026, Saturday)
+    - active recall: everything about random variables (distribution)
+    - speedrun: yesterday's problems
+    - practice: random variables (continuous), maybe tutorial
+    - start: (continue) random variables (MGF)
+      - understand
+      - immediate recall
+- ## COMP2611
+  - finish homework 1 (on or before 4/3/2026, Wednesday) 
+  - catch up and master everything up to lecture progress (2's Complement, Max, Min, and Range, Signed/Unsigned Number, Floating Point, IEEE754 Examples)
+  - ### boolean algebra and combinational logic and logic gates and Sequential Logic, lecture 2, 3, 4 (2/3/2026, Monday)
+    - active recall: boolean algebra and combinational logic and logic gates
+    - practice: lecture problems, tutorial, past papers
+    - start: Sequential Logic, S-R Latch, D Latch, D Flip-Flop (lecture 5 content)
+      - understand
+      - immediate recall
+  - ### Sequential logic, 2's complement (3/3/2026, Tuesday)
+    - active recall: Sequential Logic, S-R Latch, D Latch, D Flip-Flop
+    - speedrun: yesterday's problems
+    - practice: lecture problems, tutorial, past papers on sequential logic
+    - start: 2's complement (lecture 6 content)
+      - understand
+      - immediate recall
+  - ### 2's complement, Signed/Unsigned Number (4/3/2026, Wednesday)
+    - active recall: 2's complement, signed/unsigned number
+    - speedrun: yesterday's problems
+    - practice: homework 1, lecture problems, tutorial, past papers on 2's complement and signed/unsigned number
+    - start: IEEE754 Rational: Implicit 1, Biased Exponent, Range, Precision and Special Cases
+      - understand
+      - immediate recall
+  - ### IEEE754 Rational: Implicit 1, Biased Exponent, Range, Precision and Special Cases (5/3/2026, Thursday)
+    - active recall: IEEE754 Rational: Implicit 1, Biased Exponent, Range, Precision and Special Cases
+    - speedrun: yesterday's problems
+    - practice: lecture problems, tutorial, past papers on IEEE754 Rational: Implicit 1, Biased Exponent, Range, Precision and Special Cases
+    - start: ...
+- ## LANG2030
+  - read lecture notes before lecture
+  - ### 2/3/2026
+    - (4) start (read +/ recall + application):
+      - unit 1.5
+      - application
+        - write
+        - speak
+        - verify
+    - (5) digitalization (on stuff written today, non-exhaustive)
+  - ### 3/3/2026
+    - (1) active recall 
+      - unit 1.5 stuff (stuff that's gave you a-ha moment)
+    - (2) speedrun yesterday's practice (speaking + writing)
+    - (3) more related practice 
+    - (4) start (read +/ recall + application):
+      - unit 1.6
+      - application
+        - write
+        - speak
+        - verify
+    - (5) digitalization (on stuff written today, non-exhaustive)
+
+
+# Date based week 5 plan
+
+### **Monday, March 2, 2026**
+- **COMP3711 (D&C & master)**
+    - [ ] active recall: write down the code and analysis of algorithms: tower of hanoi, merge sort, max subarray, etc. on a whitepaper
+    - [ ] practice: D&C tutorial questions
+    - [ ] start master theorem lecture notes: understand + immediate recall
+- **MATH2411 (total & Bayes & stat & R)**
+    - [ ] active recall: everything about total & Bayes
+    - [ ] speedrun: yesterday's problems
+    - [ ] practice: probability tutorial
+    - [ ] start stat, R: understand + immediate recall
+- **COMP2611 (boolean algebra & combinational logic & Sequential Logic)**
+    - [ ] active recall: boolean algebra and combinational logic and logic gates
+    - [ ] practice: lecture problems, tutorial, past papers
+    - [ ] start Sequential Logic, S-R Latch, D Latch, D Flip-Flop (lecture 5 content): understand + immediate recall
+- **LANG2030**
+    - [ ] start unit 1.5 (read + recall + application: write, speak, verify)
+    - [ ] digitalization (on stuff written today, non-exhaustive)
+
+---
+
+### **Tuesday, March 3, 2026**
+- **COMP3711 (D&C & master & randomized algorithm)**
+    - [ ] active recall: write down the summary of D&C on a whitepaper
+    - [ ] active recall: write down everything you know about master theorem on a whitepaper
+    - [ ] speedrun: yesterday's questions
+    - [ ] practice: tutorial questions + related past papers' questions on D&C
+    - [ ] start randomized algorithm lecture notes: understand + immediate recall
+- **MATH2411 (stat & R & random variables intro + discrete)**
+    - [ ] active recall: everything about stat and R you know
+    - [ ] speedrun: yesterday's problems
+    - [ ] practice: lecture problems, past papers problems on stat and probability, also R tutorial practices
+    - [ ] start random variables (intro + discrete): understand + immediate recall
+- **COMP2611 (Sequential logic, 2's complement)**
+    - [ ] active recall: Sequential Logic, S-R Latch, D Latch, D Flip-Flop
+    - [ ] speedrun: yesterday's problems
+    - [ ] practice: lecture problems, tutorial, past papers on sequential logic
+    - [ ] start 2's complement (lecture 6 content): understand + immediate recall
+- **LANG2030**
+    - [ ] active recall: unit 1.5 stuff (stuff that gave you a-ha moment)
+    - [ ] speedrun yesterday's practice (speaking + writing)
+    - [ ] more related practice
+    - [ ] start unit 1.6 (read + recall + application: write, speak, verify)
+    - [ ] digitalization (on stuff written today, non-exhaustive)
+
+---
+
+### **Wednesday, March 4, 2026**
+- **COMP3711 (D&C & randomized algorithm & quicksort)**
+    - [ ] active recall: write down everything you know about randomized algorithm on a whitepaper
+    - [ ] speedrun: yesterday's questions
+    - [ ] practice: related past papers' questions on D&C
+    - [ ] start quicksort and selection (up to quicksort analysis): understand + immediate recall
+- **MATH2411 (random variables discrete + continuous)**
+    - [ ] active recall: everything about random variables (discrete)
+    - [ ] speedrun: yesterday's problems
+    - [ ] practice: homework 1 and lecture problems on random variables
+    - [ ] start (continue) random variables (discrete + continuous): understand + immediate recall
+    - [ ] **DEADLINE**: Finish Homework 1 (Suggested)
+- **COMP2611 (2's complement, Signed/Unsigned Number)**
+    - [ ] active recall: 2's complement, signed/unsigned number
+    - [ ] speedrun: yesterday's problems
+    - [ ] practice: homework 1, lecture problems, tutorial, past papers on 2's complement and signed/unsigned number
+    - [ ] start IEEE754 Rational (Implicit 1, Biased Exponent, Range, Precision and Special Cases): understand + immediate recall
+    - [ ] **DEADLINE**: Finish Homework 1 (Suggested)
+
+---
+
+### **Thursday, March 5, 2026**
+- **COMP3711 (D&C & quicksort & selection)**
+    - [ ] active recall: anything you know about quicksort
+    - [ ] speedrun: yesterday's questions
+    - [ ] practice: related past papers' questions on D&C and lecture/amir problems quicksort
+    - [ ] start Randomized selection: understand + immediate recall
+- **MATH2411 (random variables continuous)**
+    - [ ] active recall: everything about random variables (discrete + continuous)
+    - [ ] speedrun: yesterday's problems (homework and some random variables Q)
+    - [ ] practice: random variables (discrete + continuous), maybe tutorial
+    - [ ] start (continue) random variables (continuous): understand + immediate recall
+    - [ ] **DEADLINE**: Homework 1 due today (or before)
+- **COMP2611 (IEEE754 Rational)**
+    - [ ] active recall: IEEE754 Rational (Implicit 1, Biased Exponent, Range, Precision and Special Cases)
+    - [ ] speedrun: yesterday's problems
+    - [ ] practice: lecture problems, tutorial, past papers on IEEE754 Rational
+    - [ ] start ... (Next Topic)
+
+---
+
+### **Friday, March 6, 2026**
+- **COMP3711 (D&C & selection & heapsort)**
+    - [ ] active recall: anything you know about randomized selection
+    - [ ] speedrun: yesterday's questions
+    - [ ] practice: related past papers' questions on D&C and lecture problems on selection
+    - [ ] start heap sort: understand + immediate recall
+- **MATH2411 (random variables continuous + distribution)**
+    - [ ] active recall: everything about random variables (continuous)
+    - [ ] speedrun: yesterday's problems
+    - [ ] practice: random variables (continuous), maybe tutorial
+    - [ ] start (continue) random variables (distribution): understand + immediate recall
+
+---
+
+### **Saturday, March 7, 2026**
+- **COMP3711 (heapsort & linear time sorting)**
+    - [ ] active recall: anything you know about heapsort
+    - [ ] speedrun: yesterday's questions
+    - [ ] practice: related past papers' questions on lecture/amir problems on heapsort
+    - [ ] start linear time sorting: understand + immediate recall
+- **MATH2411 (random variables distribution + MGF)**
+    - [ ] active recall: everything about random variables (distribution)
+    - [ ] speedrun: yesterday's problems
+    - [ ] practice: random variables (continuous), maybe tutorial
+    - [ ] start (continue) random variables (MGF): understand + immediate recall
+
+---
+
+### **Sunday, March 8, 2026**
+- **COMP3711 (linear time sorting & bst & AVL & Greedy algorithms)**
+    - [ ] active recall: anything you know about linear time sorting
+    - [ ] speedrun: yesterday's questions
+    - [ ] practice: related past papers' questions on linear time sorting
+    - [ ] start COMP3711 greedy and amir COMP3711H bst: understand + immediate recall

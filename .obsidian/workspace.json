@@ -11,10 +11,14 @@
             "id": "f79ca7dab0aa18d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "academics/2026S/plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "plan"
             }
           }
         ]
@@ -166,6 +170,9 @@
   },
   "active": "f79ca7dab0aa18d1",
   "lastOpenFiles": [
+    "academics/2026S/plan_pri.md",
+    "addictive.md",
+    "addictive_algo.md",
     "academics/2026S/attachments/image.png",
     "academics/2026S/COMP3711/problems/usaco/greedy_gifters/q.md",
     "academics/2026S/COMP3711/problems/usaco/greedy_gifters/gift1.out",
@@ -196,8 +203,6 @@
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem1.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/homework1.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/strong_induction_pri.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/strong_induction.md",
-    "academics/2026S/LANG2030/problems/lecture/1.6_exerccise.md",
     "Excalidraw",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-20.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-19.png",
@@ -208,7 +213,6 @@
     "academics/2026S/MATH2411/problem/lecture/attachments/image-15.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-14.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-13.png",
-    "academics/2026S/MATH2411/problem/lecture/attachments/image-12.png",
     "academics/2026S/attachments",
     "code/sort_decreasing.cpp",
     "academics/2026S/COMP3711/problems/lecture_problems/lecture8_"
