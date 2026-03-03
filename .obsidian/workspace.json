@@ -147,9 +147,34 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "48effe9ed239c424",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "academics/2026S/plan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of plan"
+            }
+          },
+          {
+            "id": "7bb6916f58944185",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -168,8 +193,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f79ca7dab0aa18d1",
+  "active": "7bb6916f58944185",
   "lastOpenFiles": [
+    "academics/2026S/LANG2030/problems/lecture/1.6_exercise.md",
+    "code/hex.cpp",
+    "code/binary.cpp",
     "academics/2026S/plan_pri.md",
     "addictive.md",
     "addictive_algo.md",
@@ -202,7 +230,6 @@
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2a.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem1.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/homework1.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/strong_induction_pri.md",
     "Excalidraw",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-20.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-19.png",
@@ -213,8 +240,6 @@
     "academics/2026S/MATH2411/problem/lecture/attachments/image-15.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-14.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-13.png",
-    "academics/2026S/attachments",
-    "code/sort_decreasing.cpp",
-    "academics/2026S/COMP3711/problems/lecture_problems/lecture8_"
+    "academics/2026S/attachments"
   ]
 }

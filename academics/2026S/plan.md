@@ -627,16 +627,16 @@ target:
 
 ### **Monday, March 2, 2026**
 - **COMP3711 (D&C & master)**
-    - [ ] active recall: write down the code and analysis of algorithms: tower of hanoi, merge sort, max subarray, etc. on a whitepaper
+    - [x] active recall: write down the code and analysis of algorithms: tower of hanoi, merge sort, max subarray, etc. on a whitepaper
     - [ ] practice: D&C tutorial questions
     - [ ] start master theorem lecture notes: understand + immediate recall
 - **MATH2411 (total & Bayes & stat & R)**
-    - [ ] active recall: everything about total & Bayes
-    - [ ] speedrun: yesterday's problems
-    - [ ] practice: probability tutorial
+    - [x] active recall: everything about total & Bayes
+    - [x] speedrun: yesterday's problems
+    - [x] practice: probability tutorial
     - [ ] start stat, R: understand + immediate recall
 - **COMP2611 (boolean algebra & combinational logic & Sequential Logic)**
-    - [ ] active recall: boolean algebra and combinational logic and logic gates
+    - [x] active recall: boolean algebra and combinational logic and logic gates
     - [ ] practice: lecture problems, tutorial, past papers
     - [ ] start Sequential Logic, S-R Latch, D Latch, D Flip-Flop (lecture 5 content): understand + immediate recall
 - **LANG2030**
@@ -655,7 +655,7 @@ target:
 - **MATH2411 (stat & R & random variables intro + discrete)**
     - [ ] active recall: everything about stat and R you know
     - [ ] speedrun: yesterday's problems
-    - [ ] practice: lecture problems, past papers problems on stat and probability, also R tutorial practices
+    - [ ] practice: more tutorial questions on probability. lecture problems, past papers problems on stat and probability, also R tutorial practices
     - [ ] start random variables (intro + discrete): understand + immediate recall
 - **COMP2611 (Sequential logic, 2's complement)**
     - [ ] active recall: Sequential Logic, S-R Latch, D Latch, D Flip-Flop
@@ -746,3 +746,30 @@ target:
     - [ ] speedrun: yesterday's questions
     - [ ] practice: related past papers' questions on linear time sorting
     - [ ] start COMP3711 greedy and amir COMP3711H bst: understand + immediate recall
+
+
+# 3/3/2026
+- thought 1: coffee is quite a laxative for me. Drinked it at the start of the day and pooped liquid explosively for 30+ minutes straight (it happened before but this time it's the strongest one so far)
+- thought 2: I think that's an advantage it clears my stomach and feels good afterwards. 
+- thought 3: Bad thing is I need to prevent drinking it in school because I cannot clean the mess (the liquid poop exploded to my cock and balls)
+
+### **Monday, March 3, 2026**
+- **COMP3711 (D&C & master)**
+    - [x] practice: D&C tutorial questions
+    - [ ] start master theorem lecture notes: understand + immediate recall
+- **MATH2411 (total & Bayes & stat & R)**
+    - [ ] start stat, R: understand + immediate recall
+    - [ ] practice: more tutorial questions on probability. lecture problems, past papers problems on stat and probability, also R tutorial practices
+- **COMP2611 (boolean algebra & combinational logic & Sequential Logic)**
+    - [ ] practice: lecture problems, tutorial, past papers
+    - [ ] start Sequential Logic, S-R Latch, D Latch, D Flip-Flop (lecture 5 content): understand + immediate recall
+- **LANG2030**
+    - [ ] start unit 1.5 (at least open the word document and read one paragraph)
+    - [ ] (read + recall + application: write, speak, verify)
+    
+
+
+|Time|Task|
+|-|-|
+|[ ] `4:30 - `|practice: D&C tutorial questions |
+ 
