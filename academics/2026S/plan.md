@@ -698,7 +698,7 @@ target:
     - [ ] understand
     - [ ] immediate recall
 - ### MATH2411 (3 hours)
-  - [ ] speedrun past problems (those you did on 2/3/2025) (20 minutes)
+  - [x] speedrun past problems (those you did on 2/3/2025) (20 minutes)
   - [ ] practice probability (30 minutes)
     - [ ] do new tutorial questions (section B)
   - [ ] start stat & R lecture notes (2 hours)
@@ -727,3 +727,53 @@ target:
 |`15:55 - 16:12`|COMP3711 speedrun yesterday's problem (20 minutes)|
 |`16:12 - 16:55`|COMP3711 practice D&C (tutorial) (40+ minutes)|
 |`16:55 - 17:24`|COMP3711 understanding mistakes (30 minutes)|
+|`17:24 - 21:00`|eat|
+|`21:00 - 21:50`|MATH2411 speedrun past problems|
+
+
+# daily blocks
+
+- ## Block A (must, high energy, 90–120 min)
+  - 1 main subject (e.g. COMP3711)
+  - 30 min: active recall + speedrun (combined)
+  - 60–90 min: new problems/new topic (apply spsa/sla)
+
+- ## Block B (must, high energy, 90–120 min)
+  - 2nd subject (e.g. MATH2411)
+
+- ## Block C (optional/low energy, 30–60 min)
+  - little maintenance for 3rd subject (e.g. COMP2611/LANG2030)
+  - recall + light speedrun, no new topic
+
+## LANG2030
+  - this is a language course focusing on engineering ethical issues and innovations which I haven't fully explored. With group presentations and individual reports as the assessments.
+
+
+# 5/3/2025
+- ## COMP2611 (urgent, homework deadline) (1.5 hours)
+  - [ ] active recall (30 mins)
+    - [ ] logic laws 
+    - [ ] gates
+    - [ ] k-map
+    - [ ] max/min term
+    - [ ] S-R latch
+    - [ ] D latch
+    - [ ] DFF
+  - [ ] homework (1 hour)
+    - [ ] q1
+    - [ ] q2
+    - [ ] q3
+    - [ ] q4
+- ## MATH2411 (1 hour)
+  - [ ] study new concepts and work on new problems (1 hour, apply sla)
+    - [ ] basic statistics (graphs, mean, SD)
+    - [ ] R programming
+- ## COMP3711 (optional)
+  - [ ] speedrun do yesterday's problem (max subarray product)
+  - [ ] start master theorem (glance + write down a few keys)
+- ## LANG2030 (optional)
+  - [ ] open 1.7 and just scout
+
+|time|task|
+|-|-|
+|`4:40 -`|COMP2611 active recall (30 mins)|
