@@ -623,130 +623,45 @@ target:
     - (5) digitalization (on stuff written today, non-exhaustive)
 
 
-# Date based week 5 plan
 
-### **Monday, March 2, 2026**
-- **COMP3711 (D&C & master)**
-    - [x] active recall: write down the code and analysis of algorithms: tower of hanoi, merge sort, max subarray, etc. on a whitepaper
-    - [ ] practice: D&C tutorial questions
-    - [ ] start master theorem lecture notes: understand + immediate recall
-- **MATH2411 (total & Bayes & stat & R)**
-    - [x] active recall: everything about total & Bayes
-    - [x] speedrun: yesterday's problems
-    - [x] practice: probability tutorial
-    - [ ] start stat, R: understand + immediate recall
-- **COMP2611 (boolean algebra & combinational logic & Sequential Logic)**
-    - [x] active recall: boolean algebra and combinational logic and logic gates
-    - [ ] practice: lecture problems, tutorial, past papers
-    - [ ] start Sequential Logic, S-R Latch, D Latch, D Flip-Flop (lecture 5 content): understand + immediate recall
-- **LANG2030**
-    - [ ] start unit 1.5 (read + recall + application: write, speak, verify)
-    - [ ] digitalization (on stuff written today, non-exhaustive)
 
----
+# Plan on the week (new)
+- ## Wednesday (4/3/2025)
+  - ### COMP3711 (3 hours)
+    - [ ] speedrun yesterday's problem (20 minutes)
+    - [ ] practice D&C (tutorial) (30 minutes)
+    - [ ] start master theorem lecture notes (2 hours)
+      - [ ] understand
+      - [ ] immediate recall
+  - ### MATH2411 (3 hours)
+    - [ ] speedrun past problems (those you did on 2/3/2025) (20 minutes)
+    - [ ] practice probability (30 minutes)
+      - [ ] do new tutorial questions (section B)
+    - [ ] start stat & R lecture notes (2 hours)
+      - [ ] understand
+      - [ ] immediate recall
+  - ### COMP2611 (2 (done) + 2 hours = 4 hours)
+    - [x] start S-R Latch, D-latch, DFF (2 hours)
+    - [ ] speedrun yesterday's questions (logic, min/max terms, k-map) (20 minutes)
+    - [ ] do tutorial 1 exercises (30 minutes)
+    - [ ] do tutorial 2 exercises (30 minutes)
+    - [ ] do homework question 1 (30 minutes for 1, 2, 3, 4)
+    - [ ] do homework question 2
+    - [ ] do homework question 3
+    - [ ] do homework question 4
+  - ### additional tasks (if time allows)
+    - lang2030: 
+      - open a 1.7 and just start reading at least one paragraph
+    - digitalization
+      - of stuff you done today
+    - write plan for tomorrow
 
-### **Tuesday, March 3, 2026**
-- **COMP3711 (D&C & master & randomized algorithm)**
-    - [ ] active recall: write down the summary of D&C on a whitepaper
-    - [ ] active recall: write down everything you know about master theorem on a whitepaper
-    - [ ] speedrun: yesterday's questions
-    - [ ] practice: tutorial questions + related past papers' questions on D&C
-    - [ ] start randomized algorithm lecture notes: understand + immediate recall
-- **MATH2411 (stat & R & random variables intro + discrete)**
-    - [ ] active recall: everything about stat and R you know
-    - [ ] speedrun: yesterday's problems
-    - [ ] practice: more tutorial questions on probability. lecture problems, past papers problems on stat and probability, also R tutorial practices
-    - [ ] start random variables (intro + discrete): understand + immediate recall
-- **COMP2611 (Sequential logic, 2's complement)**
-    - [ ] active recall: Sequential Logic, S-R Latch, D Latch, D Flip-Flop
-    - [ ] speedrun: yesterday's problems
-    - [ ] practice: lecture problems, tutorial, past papers on sequential logic
-    - [ ] start 2's complement (lecture 6 content): understand + immediate recall
-- **LANG2030**
-    - [ ] active recall: unit 1.5 stuff (stuff that gave you a-ha moment)
-    - [ ] speedrun yesterday's practice (speaking + writing)
-    - [ ] more related practice
-    - [ ] start unit 1.6 (read + recall + application: write, speak, verify)
-    - [ ] digitalization (on stuff written today, non-exhaustive)
 
----
-
-### **Wednesday, March 4, 2026**
-- **COMP3711 (D&C & randomized algorithm & quicksort)**
-    - [ ] active recall: write down everything you know about randomized algorithm on a whitepaper
-    - [ ] speedrun: yesterday's questions
-    - [ ] practice: related past papers' questions on D&C
-    - [ ] start quicksort and selection (up to quicksort analysis): understand + immediate recall
-- **MATH2411 (random variables discrete + continuous)**
-    - [ ] active recall: everything about random variables (discrete)
-    - [ ] speedrun: yesterday's problems
-    - [ ] practice: homework 1 and lecture problems on random variables
-    - [ ] start (continue) random variables (discrete + continuous): understand + immediate recall
-    - [ ] **DEADLINE**: Finish Homework 1 (Suggested)
-- **COMP2611 (2's complement, Signed/Unsigned Number)**
-    - [ ] active recall: 2's complement, signed/unsigned number
-    - [ ] speedrun: yesterday's problems
-    - [ ] practice: homework 1, lecture problems, tutorial, past papers on 2's complement and signed/unsigned number
-    - [ ] start IEEE754 Rational (Implicit 1, Biased Exponent, Range, Precision and Special Cases): understand + immediate recall
-    - [ ] **DEADLINE**: Finish Homework 1 (Suggested)
-
----
-
-### **Thursday, March 5, 2026**
-- **COMP3711 (D&C & quicksort & selection)**
-    - [ ] active recall: anything you know about quicksort
-    - [ ] speedrun: yesterday's questions
-    - [ ] practice: related past papers' questions on D&C and lecture/amir problems quicksort
-    - [ ] start Randomized selection: understand + immediate recall
-- **MATH2411 (random variables continuous)**
-    - [ ] active recall: everything about random variables (discrete + continuous)
-    - [ ] speedrun: yesterday's problems (homework and some random variables Q)
-    - [ ] practice: random variables (discrete + continuous), maybe tutorial
-    - [ ] start (continue) random variables (continuous): understand + immediate recall
-    - [ ] **DEADLINE**: Homework 1 due today (or before)
-- **COMP2611 (IEEE754 Rational)**
-    - [ ] active recall: IEEE754 Rational (Implicit 1, Biased Exponent, Range, Precision and Special Cases)
-    - [ ] speedrun: yesterday's problems
-    - [ ] practice: lecture problems, tutorial, past papers on IEEE754 Rational
-    - [ ] start ... (Next Topic)
-
----
-
-### **Friday, March 6, 2026**
-- **COMP3711 (D&C & selection & heapsort)**
-    - [ ] active recall: anything you know about randomized selection
-    - [ ] speedrun: yesterday's questions
-    - [ ] practice: related past papers' questions on D&C and lecture problems on selection
-    - [ ] start heap sort: understand + immediate recall
-- **MATH2411 (random variables continuous + distribution)**
-    - [ ] active recall: everything about random variables (continuous)
-    - [ ] speedrun: yesterday's problems
-    - [ ] practice: random variables (continuous), maybe tutorial
-    - [ ] start (continue) random variables (distribution): understand + immediate recall
-
----
-
-### **Saturday, March 7, 2026**
-- **COMP3711 (heapsort & linear time sorting)**
-    - [ ] active recall: anything you know about heapsort
-    - [ ] speedrun: yesterday's questions
-    - [ ] practice: related past papers' questions on lecture/amir problems on heapsort
-    - [ ] start linear time sorting: understand + immediate recall
-- **MATH2411 (random variables distribution + MGF)**
-    - [ ] active recall: everything about random variables (distribution)
-    - [ ] speedrun: yesterday's problems
-    - [ ] practice: random variables (continuous), maybe tutorial
-    - [ ] start (continue) random variables (MGF): understand + immediate recall
-
----
-
-### **Sunday, March 8, 2026**
-- **COMP3711 (linear time sorting & bst & AVL & Greedy algorithms)**
-    - [ ] active recall: anything you know about linear time sorting
-    - [ ] speedrun: yesterday's questions
-    - [ ] practice: related past papers' questions on linear time sorting
-    - [ ] start COMP3711 greedy and amir COMP3711H bst: understand + immediate recall
-
+- ## Thursday (5/3/2025)
+  - ### COMP3711
+    - [ ] speedrun yesterday's problem
+    - [ ] practice D&C (turtorial)
+    - [ ] practice
 
 # 3/3/2026
 - thought 1: coffee is quite a laxative for me. Drinked it at the start of the day and pooped liquid explosively for 30+ minutes straight (it happened before but this time it's the strongest one so far)
@@ -761,15 +676,54 @@ target:
     - [ ] start stat, R: understand + immediate recall
     - [ ] practice: more tutorial questions on probability. lecture problems, past papers problems on stat and probability, also R tutorial practices
 - **COMP2611 (boolean algebra & combinational logic & Sequential Logic)**
-    - [ ] practice: lecture problems, tutorial, past papers
+    - [x] practice: lecture problems
     - [ ] start Sequential Logic, S-R Latch, D Latch, D Flip-Flop (lecture 5 content): understand + immediate recall
 - **LANG2030**
-    - [ ] start unit 1.5 (at least open the word document and read one paragraph)
-    - [ ] (read + recall + application: write, speak, verify)
+    - [x] start unit 1.5 (at least open the word document and read one paragraph)
     
 
 
 |Time|Task|
 |-|-|
-|[ ] `4:30 - `|practice: D&C tutorial questions |
- 
+|[X] `4:30 - 7:00`|practice: D&C tutorial questions |
+|[X] `10:50 - 12:40`|practice: lecture problems (COMP2611) |
+
+
+
+# Wednesday (4/3/2025)
+- ### COMP3711 (3 hours)
+  - [x] speedrun yesterday's problem (20 minutes)
+  - [x] practice D&C (tutorial) (30 minutes)
+  - [ ] start master theorem lecture notes (2 hours)
+    - [ ] understand
+    - [ ] immediate recall
+- ### MATH2411 (3 hours)
+  - [ ] speedrun past problems (those you did on 2/3/2025) (20 minutes)
+  - [ ] practice probability (30 minutes)
+    - [ ] do new tutorial questions (section B)
+  - [ ] start stat & R lecture notes (2 hours)
+    - [ ] understand
+    - [ ] immediate recall
+- ### COMP2611 (2 (done) + 2 hours = 4 hours)
+  - [x] start S-R Latch, D-latch, DFF (2 hours)
+  - [ ] speedrun yesterday's questions (logic, min/max terms, k-map) (20 minutes)
+  - [ ] do tutorial 1 exercises (30 minutes)
+  - [ ] do tutorial 2 exercises (30 minutes)
+  - [ ] do homework question 1 (30 minutes for 1, 2, 3, 4)
+  - [ ] do homework question 2
+  - [ ] do homework question 3
+  - [ ] do homework question 4
+- ### additional tasks (if time allows)
+  - lang2030: 
+    - open a 1.7 and just start reading at least one paragraph
+  - digitalization
+    - of stuff you done today
+  - write plan for tomorrow
+
+|Time|Task|
+|-|-|
+|`13:00 - 15:00`|start Sequential Logic, S-R Latch, D Latch, D Flip-Flop (lecture 5 content): understand + immediate recall|
+|`15:10 - 15:50`|writing new plan|
+|`15:55 - 16:12`|COMP3711 speedrun yesterday's problem (20 minutes)|
+|`16:12 - 16:55`|COMP3711 practice D&C (tutorial) (40+ minutes)|
+|`16:55 - 17:24`|COMP3711 understanding mistakes (30 minutes)|

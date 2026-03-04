@@ -193,8 +193,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7bb6916f58944185",
+  "active": "f79ca7dab0aa18d1",
   "lastOpenFiles": [
+    "code/a.exe",
+    "code/msp.cpp",
     "academics/2026S/LANG2030/problems/lecture/1.6_exercise.md",
     "code/hex.cpp",
     "code/binary.cpp",
@@ -229,7 +231,6 @@
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2b.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem2a.md",
     "academics/2026S/COMP3711/problems/homeworks/homework1/problem1.md",
-    "academics/2026S/COMP3711/problems/homeworks/homework1/homework1.md",
     "Excalidraw",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-20.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-19.png",
@@ -239,7 +240,6 @@
     "academics/2026S/MATH2411/problem/lecture/attachments/image-16.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-15.png",
     "academics/2026S/MATH2411/problem/lecture/attachments/image-14.png",
-    "academics/2026S/MATH2411/problem/lecture/attachments/image-13.png",
-    "academics/2026S/attachments"
+    "academics/2026S/MATH2411/problem/lecture/attachments/image-13.png"
   ]
 }
