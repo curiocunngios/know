@@ -751,19 +751,19 @@ target:
 
 # 5/3/2025
 - ## COMP2611 (urgent, homework deadline) (1.5 hours)
-  - [ ] active recall (30 mins)
-    - [ ] logic laws 
-    - [ ] gates
-    - [ ] k-map
-    - [ ] max/min term
-    - [ ] S-R latch
-    - [ ] D latch
-    - [ ] DFF
-  - [ ] homework (1 hour)
-    - [ ] q1
-    - [ ] q2
-    - [ ] q3
-    - [ ] q4
+  - [x] active recall (30 mins)
+    - [x] logic laws 
+    - [x] gates
+    - [x] k-map
+    - [x] max/min term
+    - [x] S-R latch
+    - [x] D latch
+    - [x] DFF
+  - [x] homework (1 hour)
+    - [x] q1
+    - [x] q2
+    - [x] q3
+    - [x] q4
 - ## MATH2411 (1 hour)
   - [ ] study new concepts and work on new problems (1 hour, apply sla)
     - [ ] basic statistics (graphs, mean, SD)
@@ -776,4 +776,5 @@ target:
 
 |time|task|
 |-|-|
-|`4:40 -`|COMP2611 active recall (30 mins)|
+|`4:40 - 5:35`|COMP2611 active recall (40 mins (10 mins for taking a shit))|
+|`5:40 - `||
