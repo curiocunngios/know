@@ -767,7 +767,7 @@ target:
 - ## MATH2411 (1 hour)
   - [ ] study new concepts and work on new problems (1 hour, apply sla)
     - [ ] basic statistics (graphs, mean, SD)
-    - [ ] R programming
+    - [x] R programming
 - ## COMP3711 (optional)
   - [ ] speedrun do yesterday's problem (max subarray product)
   - [ ] start master theorem (glance + write down a few keys)
@@ -777,4 +777,10 @@ target:
 |time|task|
 |-|-|
 |`4:40 - 5:35`|COMP2611 active recall (40 mins (10 mins for taking a shit))|
-|`5:40 - `||
+|`5:40 - 8:00`|COMP2611 homework|
+|`10:30 - 13:30`|COMP2611 homework|
+|`13:30 - 15:30`|lunch and nap|
+|`15:30 - 16:20`|watch COMP2611 video on 2's complement|
+|`16:30 - 17:50`|COMP2611 lesson|
+|`18:30 - 19:00`|back home and study R|
+
