@@ -749,7 +749,7 @@ target:
   - this is a language course focusing on engineering ethical issues and innovations which I haven't fully explored. With group presentations and individual reports as the assessments.
 
 
-# 5/3/2025
+# 5/3/2026
 - ## COMP2611 (urgent, homework deadline) (1.5 hours)
   - [x] active recall (30 mins)
     - [x] logic laws 
@@ -784,3 +784,41 @@ target:
 |`16:30 - 17:50`|COMP2611 lesson|
 |`18:30 - 19:00`|back home and study R|
 
+
+# 6/3/2026
+- ## MATH2411
+  - [x] active recall (20 minutes)
+    - [x] basic R stuff, anything you remember
+  - [x] study basics statistics: calculating mean and variance, etc. (2 hours)
+    - [x] immediate active recall (after reading and understanding)
+  - [x] practice (2 hours)
+    - [x] homework 1 part 2
+    - [x] homework 1 part 1
+- ## COMP3711
+  - [x] speedrun last time's problem (30 minutes)
+    - [x] max subarray product
+  - [x] practice (30 minutes max) (if can't think of a solution then skip for tomorrow)
+    - [x] open new tutorial file and practice
+  - [x] study master theorem (2 hours)
+
+- ## COMP2611 (optional)
+  - [x] active recall (30 minutes)
+    - [x] more on 2's complement (why it works)
+    - [x] IEEE floating point representation
+- ## LANG2030 (optional)
+  - [ ] start working on the presentation
+    - [ ] research: requirements, intended outcomes (study the related unit notes)
+    - [ ] research: into the actual case 3 and make notes
+
+
+|time|task|
+|-|-|
+|`11:30 - 11:37`|MATH2411 active recall (20 minutes) (I gave up) (it's not effective for `R`)|
+|`11:37 - 12:07`|MATH2411 study basics statistics|
+|`12:07 - 15:30`|MATH2411 homework 1 part 2|
+|`15:30 - 16:15`|MATH2411 homework 1 part 1|
+|`16:25 - 16:32`|COMP3711 speedrun last time's problem|
+|`16:32 - 16:45`|COMP3711 practice|
+|`16:45 - 18:10`|eating break|
+|`18:10 - 18:39`|COMP3711 master theorem|
+|`18:39 - 18:58`|COMP2611 active recall|
