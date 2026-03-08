@@ -822,3 +822,28 @@ target:
 |`16:45 - 18:10`|eating break|
 |`18:10 - 18:39`|COMP3711 master theorem|
 |`18:39 - 18:58`|COMP2611 active recall|
+
+
+# 7/3/2026
+- ## COMP3711
+  - [x] active recall master theorem (20 minutes)
+  - [x] do tutorial exercises on D&C (max 1 hour)
+  - [ ] start randomized algorithm (linked) (2 hours)
+- ## MATH2411 
+  - [ ] start random variables (linked) (2 hours)
+- ## LANG2030 
+  - [ ] start working on the presentation (4 hours)
+    - [ ] research: requirements, intended outcomes (study the related unit notes) (2 hours)
+    - [ ] research: into the actual case 3 and make notes (2 hours)
+
+- ## COMP2611 (optional) 
+  - [ ] homework 2 q1 and q2
+  - [ ] tutorial practice on previous knowledge (combinational, sequential logic)
+
+
+| time            | task                                    |
+| --------------- | --------------------------------------- |
+| `16:00 - 16:13` | COMP3711 active recall (master theorem) |
+| `16:13 - 19:00`      | COMP3711 tutorial exercises (D&C)       |
+| `19:00 - 22:00`      | dinner break       |
+|`22:40 - `| getting the context of case 3 for LANG2030 presentation|
