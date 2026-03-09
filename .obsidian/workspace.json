@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academics/2026S/plan.md",
+                "file": "CV_tbc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plan"
+              "title": "CV_tbc"
             }
           }
         ]
@@ -195,6 +195,11 @@
   },
   "active": "6574d8ce70b8f1a1",
   "lastOpenFiles": [
+    "academics/2026S/LANG2030/problems/presentation1/1.md",
+    "academics/2026S/LANG2030/homeworks/presentation1/legal.md",
+    "academics/2026S/COMP3711/problems/tutorial/median.md",
+    "academics/2026S/MATH2411/problem/homeworks/homework1/CV_tbc.pdf",
+    "academics/2026S/plan.md",
     "academics/2026S/LANG2030/homeworks/presentation1/case3.md",
     "academics/2026S/LANG2030/homeworks/presentation1",
     "academics/2026S/LANG2030/homeworks",
@@ -209,13 +214,11 @@
     "academics/2026S/MATH2411/problem/homeworks/homework1/q1.pdf",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2.pdf",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2.md",
-    "academics/2026S/plan.md",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2.knit.md",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2_files/figure-html/unnamed-chunk-3-1.png",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2_files/figure-html/unnamed-chunk-1-1.png",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2_files/figure-html",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2_files",
-    "academics/2026S/MATH2411/problem/homeworks/homework1/q2.Rmd",
     "academics/2026S/MATH2411/problem/homeworks/q2.knit.md",
     "academics/2026S/MATH2411/problem/homeworks/q2_files/figure-html/unnamed-chunk-3-1.png",
     "academics/2026S/MATH2411/problem/homeworks/q2_files/figure-html/unnamed-chunk-1-1.png",
@@ -237,9 +240,6 @@
     "academics/2026S/LANG2030/problems/lecture/1.6_exercise.md",
     "academics/2026S/plan_pri.md",
     "addictive.md",
-    "addictive_algo.md",
-    "academics/2026S/COMP3711/problems/usaco/greedy_gifters/q.md",
-    "academics/2026S/MATH2411/problem/lecture/probability_basic3.md",
-    "academics/2026S/MATH2411/problem/lecture/probability_basic1.md"
+    "addictive_algo.md"
   ]
 }

@@ -847,3 +847,24 @@ target:
 | `16:13 - 19:00`      | COMP3711 tutorial exercises (D&C)       |
 | `19:00 - 22:00`      | dinner break       |
 |`22:40 - `| getting the context of case 3 for LANG2030 presentation|
+
+
+
+# 9/3/2026
+- ## COMP3711
+  - [ ] tutorial questions on D&C (max 1 hour) (at least understand one single problem entirely)
+  - [ ] start randomized algorithm (linked) (2 hours)
+  - [ ] do 1-2 homework questions
+- ## MATH2411 
+  - [ ] start random variables (linked) (2 hours)
+- ## LANG2030 (optional)
+  - read more materials on case 3
+- ## COMP2611 (optional) 
+  - [ ] homework 2 q1 and q2
+  - [ ] tutorial practice on previous knowledge (combinational, sequential logic)
+- ## COMP3711 (optional)
+  - [ ] understand closest pair of points entirely and find linkage of it with basic concepts
+
+|time|task|
+|-|-|
+|`5:30 - `|COMP3711 tutorial questions and past paper questions on D&C|
