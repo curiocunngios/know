@@ -868,3 +868,36 @@ target:
 |time|task|
 |-|-|
 |`5:30 - `|COMP3711 tutorial questions and past paper questions on D&C|
+
+
+- gg I have done literally nothing
+  - for a few days
+
+
+# 10/3/2026
+- ## COMP3711
+  - [ ] homework problem 1
+    - [ ] learn only the needed concepts, ideas
+    - [ ] active recall by writing tiny notes
+      - don't fully solve yet
+    - [ ] attempt problem 1 using spsa
+      - if stuck, mark down the exact step
+  - [ ] homework problem 2
+    - [ ] learn the core idea only 
+      - [ ] active recall by writing tiny notes  
+    - [ ] attempt 2(a) yourself
+    - [ ] attempt 2(b) yourself
+    - [ ] attempt 2(c) yourself
+  - [ ] conclude problem 1 and 2
+    - [ ] what they need
+    - [ ] core ideas
+    - [ ] things you researched, learnt
+    - [ ] steps you stuck on
+- ## LANG2030
+  - [ ] finalize the powerpoint
+  - [ ] finalize the script (after getting scripts of Andy and Harry so as to be consistent)
+  - [ ] read aloud the script once
+
+|time|task|
+|-|-|
+|`11:20 - `|COMP3711 homework problem 1,learn only the needed concepts and ideas|

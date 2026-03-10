@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV_tbc.md",
+                "file": "academics/2026S/LANG2030/homeworks/presentation1_new/script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CV_tbc"
+              "title": "script"
             }
           }
         ]
@@ -195,6 +195,26 @@
   },
   "active": "6574d8ce70b8f1a1",
   "lastOpenFiles": [
+    "academics/2026S/LANG2030/homeworks/presentation1_new/guide.md",
+    "academics/2026S/LANG2030/homeworks/presentation1_new/slides.md",
+    "academics/2026S/LANG2030/homeworks/presentation1_new/cue_card.md",
+    "academics/2026S/LANG2030/homeworks/presentation1_new/script3.md",
+    "academics/2026S/LANG2030/homeworks/presentation1_new/script2.md",
+    "academics/2026S/COMP3711/problems/homeworks/homework2/homework2.md",
+    "CV_tbc.md",
+    "academics/2026S/LANG2030/homeworks/presentation1_new/script.md",
+    "academics/2026S/LANG2030/homeworks/presentation1_new/harding.md",
+    "academics/2026S/LANG2030/homeworks/presentation1_new/grading.md",
+    "academics/2026S/LANG2030/homeworks/presentation1_new/1.md",
+    "academics/2026S/LANG2030/homeworks/presentation1_new",
+    "academics/2026S/LANG2030/problems/presentation1_new/harding.md",
+    "academics/2026S/LANG2030/problems/presentation1_new/script.md",
+    "academics/2026S/LANG2030/problems/presentation1_new/grading.md",
+    "academics/2026S/LANG2030/problems/presentation1_new/1.md",
+    "academics/2026S/LANG2030/problems/presentation1_new",
+    "academics/2026S/LANG2030/problems/presentation1/grading.md",
+    "academics/2026S/LANG2030/problems/presentation1/script.md",
+    "academics/2026S/LANG2030/problems/presentation1/harding.md",
     "academics/2026S/LANG2030/problems/presentation1/1.md",
     "academics/2026S/LANG2030/homeworks/presentation1/legal.md",
     "academics/2026S/COMP3711/problems/tutorial/median.md",
@@ -208,38 +228,18 @@
     "academics/2026S/MATH2411/problem/homeworks/homework1/homework1_part2.md",
     "academics/2026S/COMP2611/problems/homeworks/homework1/q2.md",
     "academics/2026S/MATH2411/problem/homeworks/homework1/homework1_part2.pdf",
-    "academics/2026S/MATH2411/problem/homeworks/homework1/q3.md",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q3.pdf",
-    "academics/2026S/MATH2411/problem/homeworks/homework1/q1.md",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q1.pdf",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2.pdf",
-    "academics/2026S/MATH2411/problem/homeworks/homework1/q2.md",
-    "academics/2026S/MATH2411/problem/homeworks/homework1/q2.knit.md",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2_files/figure-html/unnamed-chunk-3-1.png",
     "academics/2026S/MATH2411/problem/homeworks/homework1/q2_files/figure-html/unnamed-chunk-1-1.png",
-    "academics/2026S/MATH2411/problem/homeworks/homework1/q2_files/figure-html",
-    "academics/2026S/MATH2411/problem/homeworks/homework1/q2_files",
-    "academics/2026S/MATH2411/problem/homeworks/q2.knit.md",
     "academics/2026S/MATH2411/problem/homeworks/q2_files/figure-html/unnamed-chunk-3-1.png",
     "academics/2026S/MATH2411/problem/homeworks/q2_files/figure-html/unnamed-chunk-1-1.png",
-    "academics/2026S/MATH2411/problem/homeworks/q2.md",
-    "academics/2026S/COMP2611/problems/homeworks/homework1/q4.md",
-    "academics/2026S/COMP2611/problems/homeworks/homework1/q3.md",
-    "academics/2026S/COMP2611/problems/homeworks/homework1/q1.md",
     "academics/2026S/COMP2611/problems/homeworks/homework1/attachments/image-7.png",
-    "academics/2026S/COMP2611/problems/homeworks/homework1/homework1.md",
-    "Excalidraw/Drawing 2026-02-25 18.13.11.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-25 18.14.58.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-05 12.10.04.excalidraw.md",
     "academics/2026S/COMP2611/problems/homeworks/homework1/attachments/image-6.png",
     "Pasted Image 20260305121006_484.png",
     "academics/2026S/COMP2611/problems/homeworks/homework1/attachments/image-5.png",
     "academics/2026S/COMP2611/problems/homeworks/homework1/attachments/image-4.png",
-    "academics/2026S/COMP2611/problems/homeworks/homework1/attachments/image-3.png",
-    "plan_pri.md",
-    "academics/2026S/LANG2030/problems/lecture/1.6_exercise.md",
-    "academics/2026S/plan_pri.md",
-    "addictive.md",
-    "addictive_algo.md"
+    "academics/2026S/COMP2611/problems/homeworks/homework1/attachments/image-3.png"
   ]
 }
