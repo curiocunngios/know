@@ -876,11 +876,11 @@ target:
 
 # 10/3/2026
 - ## COMP3711
-  - [ ] homework problem 1
-    - [ ] learn only the needed concepts, ideas
-    - [ ] active recall by writing tiny notes
+  - [x] homework problem 1
+    - [x] learn only the needed concepts, ideas
+    - [x] active recall by writing tiny notes
       - don't fully solve yet
-    - [ ] attempt problem 1 using spsa
+    - [x] attempt problem 1 using spsa
       - if stuck, mark down the exact step
   - [ ] homework problem 2
     - [ ] learn the core idea only 
@@ -901,3 +901,262 @@ target:
 |time|task|
 |-|-|
 |`11:20 - `|COMP3711 homework problem 1,learn only the needed concepts and ideas|
+
+- only done problem 1, barely at the end of the day
+
+
+# 11/3/2026
+- ## COMP3711
+  - [x] homework problem 2
+    - [x] learn the core idea only 
+      - [x] active recall by writing tiny notes  
+    - [x] attempt 2(a) yourself
+    - [x] attempt 2(b) yourself
+    - [x] attempt 2(c) yourself
+
+- ## LANG2030
+  - [x] finalize the powerpoint
+  - [x] finalize the script (after getting scripts of Andy and Harry so as to be consistent)
+  - [x] memorize the structure and some hard sentences of the script
+  - [x] practice a few times
+    - [x] read aloud
+    - [x] read with cue card
+
+|time|task|
+|-|-|
+|`10:00 - `|problem 2 learn the core idea only|
+
+
+- not bad but I forgot about the time
+
+
+# 12/3/2026
+- ## COMP3711
+  - [ ] homework problem 3
+    - [ ] learn the core idea
+    - [ ] attempt it
+  - [ ] homework problem 4
+    - [ ] learn the core idea
+    - [ ] attempt it
+- ## COMP2611
+  - [ ] learn the missing stuff from the last lesson
+  - [ ] active recall them
+  - [ ] lesson time
+
+
+
+
+# 14/3/2026 2:16 am
+- did absolutely nothing over the past few days, it is so over.
+- let's start cramming again I guess
+
+- ### COMP3711
+  - [ ] block 1
+    - [ ] quicksort
+  - [ ] block 2
+    - [ ] correctness proof
+  - [ ] block 3
+    - [ ] tracing
+  - [ ] block 4
+    - [ ] design & math
+
+
+|time|task|
+|-|-|
+|`2:20 - `|comp3711 block 1|
+
+- gg barely did anything lol (learn how the partition of quicksort works)
+
+
+# 15/3/2026 COMP3711 
+- today is won if you could do all the following
+## block 1: quicksort (2 - 3 hours)
+### goal
+Learn quicksort properly.
+- [ ] I can state the core idea of quicksort in plain English.
+- [ ] I can trace one nontrivial example by hand.
+- [ ] I can write the algorithm skeleton from memory.
+- [ ] I can state the running time and why.
+- [ ] I can give a short correctness explanation.
+
+### tasks
+- [ ] stage 1: read and learn (actively)
+	- by active I mean for example writing down thoughts, structures on blank paper to visualize
+  - [x] Read only enough to understand what partition does.
+    - [x] Answer in plain English: 
+      - [x] what is the pivot?
+      - [x] after partition, what is guaranteed on the left of the pivot?
+      - [x] after partition, what is guaranteed on the right of the pivot?
+      - [x] what final position becomes correct after partition?
+  - [x] Understand the recursion structure of quicksort.
+    - [x] after partition, what are the two subproblems?
+    - [x] what is the base case?
+    - [x] why does the recursion eventually stop?
+    - [x] why does solving the two subproblems sort the whole array?
+  - [x] Understand the runtime cases.
+    - [x] what kind of split causes the worst case?
+    - [x] why does that lead to roughly quadratic time?
+    - [x] what kind of split causes the balanced case?
+    - [x] why does that lead to roughly n log n time?
+    - [x] why does randomization help avoid consistently bad splits?
+- [x] stage 2: active recall:
+  - [x] Close the notes and 
+    - [x] write the partition skeleton from memory.
+    - [x] write the quicksort recursive skeleton from memory.
+- [x] stage 3: practice
+  - [x] Trace quicksort on 2 small arrays immediately after learning it.
+  - [x] Write a short correctness explanation of 4 to 6 lines.
+
+### done when
+the following sentence makes ton of sense:
+- partition puts the pivot into its final sorted position; the left and right parts become the recursive subproblems; worst case comes from terrible splits; balanced splits give n log n behavior.
+
+---
+
+## block 2: heap, heapify, build-heap, heapsort (2 - 3 hours)
+### goal
+learn heap and heapsort properly.
+
+- [ ] I can explain the heap as both a tree and an array.
+- [ ] I can trace heapify by hand.
+- [ ] I can write heapify, build-heap, and heapsort skeletons from memory.
+- [ ] I can state the running time of the main operations and why.
+- [ ] I can give a short correctness explanation.
+
+### tasks
+- [ ] stage 1: read and learn (actively)
+  - [ ] learn the heap property.
+  - [ ] learn how parent and child indices are computed.
+  - [ ] given an index, practice finding its parent and children quickly.
+  - [ ] understand heapify.
+    - [ ] what does heapify assume is already true?
+    - [ ] what local part may be broken before heapify?
+    - [ ] how does heapify repair the heap?
+    - [ ] why does heapify move downward?
+  - [ ] understand build-heap.
+    - [ ] why is an arbitrary array not automatically a heap?
+    - [ ] why does processing internal nodes bottom-up work?
+    - [ ] what is build-heap doing for heapsort?
+  - [ ] understand heapsort.
+    - [ ] after building the heap, what is at the root?
+    - [ ] what happens when the root is swapped with the end?
+    - [ ] what part is sorted after each extraction?
+    - [ ] what part still needs heapify?
+    - [ ] why does repeating this sort the array?
+  - [ ] understand the runtime cases.
+    - [ ] what is the time of heapify?
+    - [ ] what is the time of build-heap?
+    - [ ] what is the time of heapsort?
+    - [ ] why is heapsort not quadratic?
+
+- [ ] stage 2: active recall
+  - [ ] close the notes and
+    - [ ] write heapify from memory.
+    - [ ] write build-heap from memory.
+    - [ ] write heapsort from memory.
+  - [ ] draw a heap both as a tree and as an array from memory.
+  - [ ] write down parent/left child/right child index formulas from memory.
+
+- [ ] stage 3: practice
+  - [ ] trace one heapify example.
+  - [ ] trace one build-heap example.
+  - [ ] trace one full heapsort example.
+  - [ ] write a short correctness explanation of 4 to 6 lines.
+
+### done when
+the following sentence makes ton of sense:
+- a heap keeps the extreme element at the root; heapify repairs one broken root-to-leaf region; build-heap turns an arbitrary array into a heap; heapsort repeatedly places one final element correctly.
+
+---
+
+## block 3: tracing block (1 - 1.5 hours)
+### goal
+stop feeling blurry when reading recursive or state-changing algorithms.
+
+- [ ] I can follow quicksort step by step without getting lost.
+- [ ] I can follow heapify and heapsort step by step without getting lost.
+- [ ] I can say the key invariant of each trace in plain English.
+
+### tasks
+- [ ] stage 1: quicksort tracing
+  - [ ] trace quicksort on 3 arrays.
+    - [ ] one random-looking array
+    - [ ] one already sorted array
+    - [ ] one reverse-sorted array
+  - [ ] for each trace, write:
+    - [ ] pivot
+    - [ ] partition result
+    - [ ] recursive subarrays
+    - [ ] final result
+  - [ ] after each trace, write the key invariant in one short sentence.
+
+- [ ] stage 2: heap tracing
+  - [ ] trace heapify or heapsort on 3 arrays total.
+    - [ ] at least one build-heap trace
+    - [ ] at least one heapify trace
+    - [ ] at least one full heapsort trace
+  - [ ] for each trace, write:
+    - [ ] current array
+    - [ ] current heap size
+    - [ ] swap made
+    - [ ] resulting array
+  - [ ] after each trace, write the key invariant in one short sentence.
+
+- [ ] stage 3: mini recall
+  - [ ] without looking, explain why quicksort tracing branches into two recursive calls.
+  - [ ] without looking, explain why heapsort keeps shrinking the heap.
+  - [ ] without looking, explain what part is already correct after each major step.
+
+### done when
+- [ ] I can follow the state changes without rereading the algorithm every few minutes.
+- [ ] tracing no longer feels like the algorithm is teleporting.
+
+---
+
+## a+ block (1.5 - 2.5 hours)
+### goal
+convert today's learning into stronger exam-level skill.
+
+- [ ] I can use the new topics on actual questions instead of just understanding the lecture idea.
+- [ ] I can summarize quicksort and heapsort on one page from my own understanding.
+
+### tasks
+- [ ] stage 1: do related questions
+  - [ ] do ss3 fully.
+  - [ ] do ss4 fully.
+  - [ ] do ss8 fully.
+
+- [ ] stage 2: active recall and compression
+  - [ ] write a one-page recall sheet for quicksort and heapsort.
+  - [ ] include:
+    - [ ] quicksort idea
+    - [ ] partition guarantee
+    - [ ] quicksort runtime cases
+    - [ ] heap property
+    - [ ] heapify idea
+    - [ ] build-heap idea
+    - [ ] heapsort loop
+    - [ ] common mistakes
+
+- [ ] stage 3: stress test
+  - [ ] close everything and try to explain quicksort in under 2 minutes.
+  - [ ] close everything and try to explain heapsort in under 2 minutes.
+  - [ ] if I get stuck, patch only that exact gap and test again.
+
+### done when
+- [ ] the recall sheet fits on one page.
+- [ ] the recall sheet is written from my own understanding, not copied line-by-line.
+- [ ] I can explain quicksort and heapsort briefly and cleanly without panic.
+
+
+
+# 15/3/2026 documented time table:
+- the timetable is not written before I start the tasks
+- it is written while I am doing the tasks to document how much time I need 
+  - under 200 mg of caffeine tablet for future references
+
+|time|task|
+|-|-|
+|`15:30 - 16:10`|COMP3711 block 1 stage 1: read and learn actively|
+|`16:10- 16:10`|COMP3711 block 1 stage 2: active recall (done previously)|
+|`16:10- 20:20`|finished block 1 and dinner break|
