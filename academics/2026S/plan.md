@@ -1135,3 +1135,44 @@ do the most relevant heap / quicksort questions.
 |`17:50 - 18:13`|comp2611 homework 2|
 |`18:13 - 22:00`|comp2611 homework 2 q2, 3 + dinner break|
 |`22:10 - 23:50`|watch lol games lol|
+|`00:00 - `||
+
+
+
+
+# 23/3/2027
+- fucked up in all midterms
+- but I still have hope
+- for example the content of comp3711 in later parts are known to be harder
+  - and if I am able to do exceptionally better in the later part 
+  - that's gonna be it
+- the targets are clear:
+  - math
+    - probability, counting, waiting time, etc.
+  - algorithmic problem-solving
+    - playing with numbers
+    - proofing correctness
+  - computer internals
+## tasks today:
+- ### COMP3711
+  - finish 16, 18 march videos
+  - active recall
+- ### COMP2611 
+  - finish 17, 19 march videos
+  - active recall
+
+- think about one key question today before sleep: how to thrive in the world of entertainment, disturbance
+## Documented timetable:
+
+|time|task|
+|-|-|
+|`21:30 - `||
+
+
+# 30/3/2026
+- reading GAMERS and it made me thrilled because I liked the main character 
+  - 雨野: king of pure (e.g. joy like a child), self-belief, care-free, courage, 樂天, non-competitive
+  - 祐: king of grind, analysis, observations, maturity, ant
+
+# 27/4/2026
+- new strategy: handwritten daily plan and notes to be typed and digitalized later when free of pressure
