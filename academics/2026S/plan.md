@@ -1176,3 +1176,42 @@ do the most relevant heap / quicksort questions.
 
 # 27/4/2026
 - new strategy: handwritten daily plan and notes to be typed and digitalized later when free of pressure
+
+# 29/4/2026
+- goals today are:
+  - revise 2611 (50 mins)
+    - read slides and extract rough ideas
+    - also as a warmup before visiting 2411 which are completely new to you
+  - grind 2411
+    - read slides and extract rough ideas
+    - measure the time taken for each slide or sequence of slides
+      - take the average afterwards
+      - repeat measurement later for other new stuff you got to learn 
+      - purpose: to understand the speed of the system for refinement and planning
+    - block session by 50 mins and take short 10 mins break activites:
+      - phoneless walk at home
+      - play guitar mindlessly, use familiar pieces or easy to read pieces, no new learning needed
+      - mindless exploration on stuff you are perhaps interested in:
+        - pwn
+        - arch
+        - web
+    - go as far as you can from estimators notes
+      - signs to take slightly longer break (you can't keep going anymore): 
+        - eyes could barely remain open
+        - brain simply slow 
+          - reading
+          - comprehending
+        - reading same sentence over and over again
+        - lost mindfulness
+        - cannot focus (repeatedly)
+      - slightly longer break:
+        - outdoor fast-paced walk for 30 mins - 1 hour
+        - 5 x 1 min rope jumping
+        - longer guitar playing session
+        - small food
+          - boiled egg with whote wheat bread 
+          - fruits 
+            - oranges
+            - banana
+  - develop skill to explore 
+    - don't have to focus on this goal, you get trained by exploring 2411 and solving confusions on your own on the way
