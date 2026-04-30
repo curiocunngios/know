@@ -71,3 +71,23 @@
 ![alt text](attachments/image-15.png)
 - the ideas here are very clear, don't think I need to write in my own words lol
 
+# 30/4/2026
+![alt text](attachments/image-16.png)
+- state and give exmaples on the fact that population moment is $E(X^r)$
+
+
+
+![alt text](attachments/image-17.png)
+- summarizes what is MME (method of moments). It just replaces the population moments e.g. $E(X)$ by sample moments $\bar{X}$ in an equation involving for example the population mean $\mu$ (you have got to find ways to write an equation of $E(X)$ in terms of the unknown parameters). There are other restrictions expained in the slide 
+
+![alt text](attachments/image-18.png)
+- now it has come to MLE, my guess is that it finds the $\hat{\theta}$ that gives a maximum probability of sample data happening just by telling from this slide
+
+![alt text](attachments/image-19.png)
+- a few messages from this slide:
+  - use lower case letter $x$ in the calculation of the maximum $\hat{\theta}$ since we want to say that we are optimizing with observed values (in fact it seems like most of the time we don't need to use those values, idk)
+  - some new things:
+    - arg max($\theta$) chooses the $\theta$ when maximum happens
+    - joint pmf is the probability involve multiple r.v. 
+    - marginal is just one r.v. involved
+
