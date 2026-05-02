@@ -177,3 +177,164 @@
 - the denominator are the critical values, I guess we need to calculate them separately in `R`
 - then the remaining slides shows some examples to reinforces students' understanding, I would do them later, for sure.
 
+# 2/5/2026 hypothesis testing:
+![alt text](attachments/image-38.png)
+- from just the examples. It seems to be that the null hypothesis $H_0$ is ass 
+- But we don't know much now, they are still not properly introduced
+
+![alt text](attachments/image-39.png)
+- never mind. It's just that null hypothesis always assume things to be true and alternative hypothesis is the complement of null hypothesis
+- few questions in my mind:
+  - what does it even mean by having or not having the '=' sign
+  - "it's the hypothesis that represent the underlying research question" 
+    - how does "coin is biased" reflect the underlying research question at all
+- but at least we got the definition: Hypothesis is a statement about the model 
+
+![alt text](attachments/image-40.png)
+![alt text](attachments/image-41.png)
+![alt text](attachments/image-42.png)
+- a few key messages here:
+  - **test statistic**: generally a function to determine which hypothesis to choose
+  - **decision rule**: rule to decide which hypothesis to choose based on the test statistic
+  - if we can't reject a hypothesis, that doesn't mean we accept it either. 
+- the image of hypothesis testing is getting a little bit clearer
+
+![alt text](attachments/image-43.png)
+- shows what it was saying about the '=' sign
+- shows even more clearly that there are 3 components involved:
+  - null/alternative hypothesis
+  - test statistic
+  - decision rule
+
+![alt text](attachments/image-44.png)
+- a little bit more clearer with a high-level overview:
+  - first have a hypothesis
+  - assume some certain things:
+    - e.g. independence
+    - e.g. follows normal distribution
+  - test the statistic and its distribution (don't know how)
+  - see the signifiance level 
+  - by using the CI I guess?
+  - conclusion: whether reject $H_0$ or not 
+
+
+![alt text](attachments/image-45.png)
+![alt text](attachments/image-46.png)
+- says that there is a thing called the "type I error probability" or shortly speaking "type I error" that tells the probability of wrongly rejecting $H_0$ while it being true. Such a probability is $\alpha$
+- also there's a thing called the "type II error", which is to not reject $H_0$ while $H_1$ is true $\beta$
+
+![alt text](attachments/image-47.png)
+![alt text](attachments/image-48.png)
+![alt text](attachments/image-49.png)
+![alt text](attachments/image-50.png)
+![alt text](attachments/image-51.png)
+![alt text](attachments/image-52.png)
+- this sequence of slides is basically show that there's a trade-off between minimizing $\alpha$ or $\beta$ so they can't be minimized simultaneously. One go down the other goes up
+
+![alt text](attachments/image-53.png)
+![alt text](attachments/image-54.png)
+- says that we can choose $c$ by fixing type I error $\alpha$ to be a specific small value e.g. $0.05$ as shown on the slides
+
+![alt text](attachments/image-55.png)
+- shows how to "normalize" the $P(\bar{X} > c) = 0.05$ into $P(\frac{\bar{X} - \mu} {\sigma/\sqrt{n}} > \frac{c - \mu}{\sigma/\sqrt{n}}) = 0.05$ and then use the normalize distribution to solve for $c$ given that it's a hypothesis test and $\mu, \sigma, n$ are known 
+- here $z_\alpha$ again (learnt from CI) is just a point on the x-axis where the probability (the area under the curve) is exactly $\alpha$
+
+
+![alt text](attachments/image-56.png)
+generalize $c$
+
+
+![alt text](attachments/image-57.png)
+- brings out 3 messages
+  - this type of test is called one-sided greater (or right) test
+  - with only '=' sign then it's called simple hypothesis
+  - with '>' or '<' sign it's called composite hypothesis
+
+
+![alt text](attachments/image-58.png)
+- introduce 4 types of tests, default is two-sided test
+
+
+![alt text](attachments/image-59.png)
+- simply just makes sense by intuition that if the hypothesis is '<' (one-side less test then it makes sense to make the rejection regionn $\bar{x} < \mu_{0} - \mathcal{z}_{\alpha}\frac{\sigma}{\sqrt{n}}$ instead of '>'
+
+![alt text](attachments/image-60.png)
+- same idea, this time it's a $\neq$ sign so of course either '>' or '<' would be good
+
+![alt text](attachments/image-61.png)
+- for simple test involving $\mu{1}$ as well, we can't say much when we don't know whether it's greater or less than $\mu{0}$. When it is known, just switch it to one-sided test
+- and then it gives some examples apply the rejection region of the tests
+
+![alt text](attachments/image-62.png)
+![alt text](attachments/image-63.png)
+![alt text](attachments/image-64.png)
+- introduces the importance of **power:** $1 - \beta$, which we want it to be as large as possible since $\beta$ is the type II error, we don't want type II error to happen when we falls into the conclusion of not rejecting $H_0$. I guess that's what these slides want to say
+
+![alt text](attachments/image-65.png)
+![alt text](attachments/image-66.png)
+![alt text](attachments/image-67.png)
+![alt text](attachments/image-68.png)
+- shows how $1 - \beta$ changes when we increase the $\mu_{1}$ for the simple test (simple alternative)
+- the conclusion is that it increases 
+
+![alt text](attachments/image-69.png)
+![alt text](attachments/image-70.png)
+- to deal with (determine the power) on composite alternative 
+- we need to make an additional assumption on the value of $\mu$ under $H_1$, call it $\mu_{1}$ effectively turning it into a simple test
+- after that we get an formula showing that some of the elements like $\sigma^2$ and $\mu_{1}$ affects the power 
+
+![alt text](attachments/image-71.png)
+![alt text](attachments/image-72.png)
+- shows that $n$ also affects the power and how to calculate a specific $n$ that gives at least a certain value of power
+
+
+![alt text](attachments/image-73.png)
+![alt text](attachments/image-74.png)
+- an excellent example showing how you make the assumption to determine the power under composite alternative
+
+![alt text](attachments/image-75.png)
+- a little confusion I had here was that it switch to start with $1 - \beta$ instead of $\beta$
+  - to clarify, $\beta$ means: "do not reject $H_0$ when $H_1$ is true"
+  - $1 - \beta$ means: "correctly rejecting $H_0$ when $H_1$ is true"
+  - so the slide is correct
+
+![alt text](attachments/image-76.png)
+![alt text](attachments/image-77.png)
+- summary slides with some sentences I don't entirely understand, I guess I would come back later
+
+![alt text](attachments/image-78.png)
+![alt text](attachments/image-79.png)
+- message: when $\sigma$ is unknown, then simply uses the $t$ distribution again lmao. Just like previously how it was done during the CI on $\mu$
+
+![alt text](attachments/image-80.png)
+- just giving new names : t-statistic and t-value to the new things introduced lol 
+
+![alt text](attachments/image-81.png)
+- same as when $\sigma$ was known
+
+
+![alt text](attachments/image-82.png)
+- introduces the p-value, which I only have a very high-level idea of what it is:
+  - I think it is the area to the right of the observed t-value
+
+![alt text](attachments/image-84.png)
+- don't entirely get it
+
+![alt text](attachments/image-83.png)
+- it seemed like the significance is not used at all, so it doesn't matter at all in determining whether to reject $H_0$ using p-value I guess
+  - correction: the significance it indeed used for comparison with the p-value
+  - because the rule here is that we reject $H_0$ for a p-value smaller than $\alpha$
+![alt text](attachments/image-85.png)
+- confusion:
+  - why t < but not >:
+    - probably because that is a one-sided less test
+
+
+![alt text](attachments/image-86.png)
+- don't get it. Come back later
+
+![alt text](attachments/image-87.png)
+- oh god now it comes to vari-fucking-ance
+
+![alt text](attachments/image-88.png)
+- oh here we go, chi-square with variance related stuff
