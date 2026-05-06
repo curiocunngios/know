@@ -338,3 +338,135 @@ generalize $c$
 
 ![alt text](attachments/image-88.png)
 - oh here we go, chi-square with variance related stuff
+
+
+# 3/5/2026 two-sample hypothesis testing
+![alt text](attachments/image-90.png)
+![alt text](attachments/image-89.png)
+- now we want to compare some sampling results with other sampling result to give some more meaningful information
+- here it comes the two sample hypothesis testing 
+- I guess the base idea is the same but just a little bit more complicated
+
+![alt text](attachments/image-91.png)
+- confusion:
+  - why is it '-' for the population mean but + for the variance part
+  - I would ignore this detail and think about this later
+
+![alt text](attachments/image-92.png)
+- confusions:
+  - why $\alpha/2$
+  - why $\bar{X} - \bar{Y} - 0$
+  - how did it solve $c$ 
+- I think these can all be answers and linked in my mind once I have sufficient foundation on the previous lecture slides because I do recall seeing similar things
+- so my plan is:
+  - continue speedrunning the lecture progress up to almost finishing linear regression (lecture progress)
+  - get all the high level ideas at minimum
+  - go back to do exercises while re-reading the slides
+  - get all the sufficient foundation and confidence 
+  - come back to clear the confusion points marked
+
+![alt text](attachments/image-93.png)
+- so considering the testing when it comes to unknown variance and standard deviation
+- we have two variance for 2 sampling pool 
+- pick which one?
+- the answer is combine them together with that formula above
+
+![alt text](attachments/image-94.png)
+- and lastly...we make use of t-distribution again 
+
+![alt text](attachments/image-95.png)
+- confusion:
+  - why considering whether $0 \in \text{CI}$
+    - perhaps because 0 is the result of $\mu_{X} - \mu_{Y} = 0$, it's like the $\mu_0$ in one-sample test maybe, not certain
+
+- just forgot, one very important thing is that the variance are actually equal:
+
+![alt text](attachments/image-96.png)
+- earlier we had the question of whether choosing $\S^2_{n - 1, X}$ or $\S^2_{m - 1, Y}$ was because that is not population variance. They are sampling variance and could be different.
+- So we decided to combine them (why combining like that would work?)
+
+![alt text](attachments/image-97.png)
+- now it comes to unknown variance
+- the idea is that we don't use the combined one: $s^2_{p}$
+- we use both sampling variance and it would approximately follows the t-distribution 
+- and make sure that both sample sizes are $\geq 5$ to be accurate
+
+![alt text](attachments/image-98.png)
+![alt text](attachments/image-99.png)
+- I don't get these two slides at all lule
+
+# 4/5/2026 ANOVA
+![alt text](attachments/image-100.png)
+- introduce new vocabularies:
+  - factor: categorical variable denoting the groups
+  - dependent variable: the main numeric variables of interest 
+  - level: possible values of factor
+
+# 5/5/2026 ANOVA
+
+![alt text](attachments/image-101.png)
+- just a little recap on median
+
+![alt text](attachments/image-102.png)
+- quantiles (learnt in comp3711 homework) is a generalization of the median 
+
+![alt text](attachments/image-103.png)
+- just showing how `R` format and display the factor and levels for a certain pool of data?
+
+![alt text](attachments/image-104.png)
+- don't get the symbol below, like what the hell is that $\epsilon$ thingy lol 
+
+![alt text](attachments/image-105.png)
+- still don't know what is the meaning of the $\epsilon$ symbol here. But at least we know that it follows the normal distribution with mean = 0 and variance equals the all the variance of the normal distribution that all the random samples follow
+  - I am just going to remember this information and see if keep reading would make sense
+- "Not the alternative is not "all the means are different"" is a great call
+  - I guess "not the alternative" means that we do not reject $H_0$? lol, so what does that mean lol?
+
+
+![alt text](attachments/image-106.png)
+- the definition of total variance ($SST$)
+
+![alt text](attachments/image-107.png)
+- the definition of between variance ($SS_{Treat}$)
+
+![alt text](attachments/image-108.png)
+- the definition of Within variance ($SSE$)
+
+![alt text](attachments/image-109.png)
+- don't know what the $\bar{y}_{i\cdot}$ is (oh does that mean the sample mean of group $i$? Just my small guess after reading future slides)
+
+![alt text](attachments/image-110.png)
+- give the ways to solve the problem: whether all the mean are the same
+  - this can be tell if the F statistic (a test statistic) is large
+
+![alt text](attachments/image-111.png)
+- says that the denominator like $k - 1$, $n - k$ and their sum: $n - 1$ is called the degree of freedom (df)
+- introduces a new theorem: $E(MS_{Treat}) = E(MSE) = E(MST) \quad \text{what does T stand for here} = \sigma^2$ somehow
+
+![alt text](attachments/image-112.png)
+- alright a new distribution called the F-distribution, that's it
+- I don't get it of course but I can observe from the given graph that larger dfs give bell curved shape (approximate to normal distribution perhaps?)
+
+![alt text](attachments/image-113.png)
+- again there's a critical value: $F_{k - 1, n - k, \alpha}$ under the F-distribution. Just like t-distribution and standardized normal distribution, nice.
+- and then it shows some examples of calculating the F and using R
+
+![alt text](attachments/image-114.png)
+- when the equal variance assumption does not hold, use Welch's variance ANOVA (hmm Welch seems familiar)
+
+![alt text](attachments/image-115.png)
+- bring up an important fact that when the group numbers $k = 2$, both tests can be used. So which one? let's read on
+
+![alt text](attachments/image-116.png)
+- where is even the calculation lmao
+
+![alt text](attachments/image-117.png)
+- ok so they are completely equivalent
+
+![alt text](attachments/image-118.png)
+- asks a very specific question (exactly what pair of mean is different) and I don't get the problem of performing two sample t test $k(k - 1)/2$ (how does this number come from) times
+- and a very specific distribution and values form a CI to solve this problem
+- and here it comes an example again
+
+# 6/5/2026 linear regression
+
