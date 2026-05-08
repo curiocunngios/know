@@ -469,4 +469,104 @@ generalize $c$
 - and here it comes an example again
 
 # 6/5/2026 linear regression
+![alt text](attachments/image-119.png)
+- very nicely set the "problem" of what linear regression is probably going to "solve". Which is, basically, probably, the relation between two variables in a specific context 
+
+![alt text](attachments/image-120.png)
+- introduce an example of a graphical analysis of the relation of 2 variables
+
+![alt text](attachments/image-121.png)
+- introduced new vocabularies:
+  - regressand: $Y$, the dependent variable (why dependent? what does it do?)
+  - regressor: $x$, the independent variable (why independent? what does it do?)
+  - $\beta_1$ being the slope and $\beta_0$ being the intercept (what is an intercept?)
+  - for this course, $Y$ is an r.v. but $x$ is not an r.v. for simplicity
+  - how about that fucking $\epsilon_i$ still? what the hell is that I still don't know. Perhaps just another r.v. that happens to follow the normal distribution?
+  - also what is $x$? fixed sample point values?
+
+![alt text](attachments/image-122.png)
+- so I guess the target is that we want to find the parameters $\beta_0, \beta_1$ (but why?)
+  - and to find these 2 parameters, we use estimators 
+  - and the idea seems to be that we draw a straight line such that the deviations of sample points from that straight line is the smallest
+  - but I don't know what is $y_i$ in that equation involving the summation? Perhaps that is the sample points?
+  - 
+
+![alt text](attachments/image-123.png)
+- this slides show what exactly the values of $\beta_1$ and $\beta_0$ would be
+- what the hell is a $S_{xy}$ and what is a $S_{xx}$ ??
+
+![alt text](attachments/image-124.png)
+- don't get the proof at all, like what is a $\partial$ in the equations lol. It's literally my first time seeing all these
+- then it shows some examples of using `R` to find that straight line for some scenarios
+
+![alt text](attachments/image-125.png)
+- now I really am starting to realize I don't get a single one of these variables or symbols. Like what does $Y_i$ even represent, what $x_i$ represents. All I know is that the $\beta$s are slope and intercept but I still don't know specifically what do they do, contribute in the equations
+
+![alt text](attachments/image-126.png)
+- basically showing and proofing how good and unbiased the estimators are
+
+![alt text](attachments/image-127.png)
+- information:
+  - both estimators have the specific variance value shown in the picture
+  - both estimators follow the normal distribution with their weird Var value and mean ($E()$)
+
+![alt text](attachments/image-128.png)
+- here it comes the CI as well LULE
+
+![alt text](attachments/image-129.png)
+- what is a $p(y_i)$ and why is $\sigma^2$ involved in the $f(\beta_0, \beta_1, \sigma^2)$ lol
+
+![alt text](attachments/image-130.png)
+- what the fuck is going on 
+- why are we suddenly interested in $\hat{\sigma}_{MLE}^2$
+- so turns out $\epsilon_i$ is the noise? what is a noise lol 
+
+![alt text](attachments/image-131.png)
+- just the CI i guess...
+
+![alt text](attachments/image-132.png)
+- things has become a little clearer with this example
+- $x_i$ father's height seems to be an ordinary fixed sample point
+- $Y_i$ is actually son's height, I remember they call $Y_i$ the dependent variable. Which yes, makes a lot of sense in this case
+- testing whether $\beta_1 = 0$ or not also makes ton of sense since it's the variable (slope) attached to father's height $x$ the independent variable that the $Y$ (dependent variable) might depends on
+- still don't know exactly what is $\epsilon$
+
+# 8/5/2026 linear regression (cont.)
+![alt text](attachments/image-133.png)
+- so the answer of "which number gives the strength of the linear relation" is given on the slide
+  - it's $|\beta_1|$
+
+![alt text](attachments/image-134.png)
+- but what is "the average" tho?
+- it most probably means the average height of a specific group of data e.g. the sons height group or the father's height group
+- but why is it equivalent to $\beta_1 < 1$? idk.
+- and here it comes the examples
+
+![alt text](attachments/image-135.png)
+![alt text](attachments/image-136.png)
+- no idea what that whole thing is
+- but basically I guess to predict it's all about taking the expected value $E()$ and using estimators that's the big idea.
+
+![alt text](attachments/image-137.png)
+- no idea what the bottom two line means
+
+![alt text](attachments/image-138.png)
+- two new vocabs:
+  - interpolation: $x_{new}$ is within the range of the samples
+  - extrapolation: not within, even the linear relation may not hold
+
+![alt text](attachments/image-139.png)
+![alt text](attachments/image-140.png)
+- yet another formula, this time on determining whether variable explains $y$ better
+
+
+![alt text](attachments/image-141.png)
+- no idea what the hell is going on 
+
+![alt text](attachments/image-142.png)
+![alt text](attachments/image-143.png)
+- another new symbol lol, what?
+
+![alt text](attachments/image-144.png)
+- this example seems quite good, let's try this later
 
