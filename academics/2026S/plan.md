@@ -1215,3 +1215,63 @@ do the most relevant heap / quicksort questions.
             - banana
   - develop skill to explore 
     - don't have to focus on this goal, you get trained by exploring 2411 and solving confusions on your own on the way
+
+## comp2611
+- exactly one week before comp2611 final exam
+- Progress: good. Finished every single lesson
+- problems:
+  - familiarly with reading green sheet
+  - memorizing what exactly each instructions do 
+    - don't really need to but better for speed
+  - instruction encodings
+  - endianness (forgot the details)
+
+- stage 1: revision
+  - fill the holes (revise the problems above)
+  - do revision
+    - digitalize the stuff you wrote on ipad (active recall stuff)
+  - takes 2 days approximately
+- stage 2: grind
+  - keep practice doing final exam papers
+
+## math2411
+- progress: the frame has been expanded to having a very high level idea of linear regression
+- stage 1:
+  - lecture exercises
+  - fill up the holes by doing and understand all the exercises in **lecture notes** first
+  - to do so easily, simply visit [rough.md](./MATH2411/rough.md) together with lecture notes opened showing example questions
+  - for those that you have to use `R`
+    - get a basic idea of how the commands work
+    - jot it down (markdown)
+  - most important thing is that you know how to use the formula and understand the correctness and timing and using them
+- stage 2:
+  - more exercises
+  - strengthen the understanding by finishing all the exercises released by the lecturer as well tutorial exercises
+
+## lang2030
+- you know what to do
+
+# 9/5/2026
+## block 1
+- comp2611 fill in the holes and mark it down
+  - the problems mentioned above (instructions, instructions encoding etc.)
+- math2411 estimators and CI revisit
+
+## block 2
+- comp2611 type out the active recalled notes
+  - at the same time jot notes for the final lecture about cache
+
+## block 3
+- math2411 hypothesis testing revisit
+- comp2611 start homework 4 and PA
+
+## block X
+- Only if you still have many energy, go on:
+  - math2411 ANOVA revisit
+  - ...
+
+between tasks:
+- take small breaks:
+  - explore archwiki
+  - guitar
+  - walk
