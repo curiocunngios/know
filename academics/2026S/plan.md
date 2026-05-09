@@ -108,19 +108,19 @@ GOAL: level up to 2
   - yes, I need the minimal goal of the day
   - here it is:
 
-|Time|Task|
-|-|-|
-|✅`13:30 - 14:30`|Review and refine COMP3711 main note up to before D&C (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
-|✅`14:40 - 15:45`|Revision on COMP2611, review the lecture note up to until the stuff that have been covered in the lecture. Type and copy the lecture notes content to the main note. Get a basic understanding|
-|✅`16:00 - 17:20`| Catch up on MATH2411 by self-studyding it (would not be very easy with the lecture notes given). Type and copy the lecture notes content to the main note. Get a basic understanding. (newly added as I forgot to mention when to stop) -> stop before probability|
-|✅`17:20 - 20:10`|Dinner break|
-|✅`20:20 - 21:50`|Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible |
-|✅`22:00 - 23:20`|self-study the rest of the master theorem slides. You don't have to finish, just see how far you can go within the 2-hours time limit.|
-|✅`23:30 - 00:20`|Review and refine COMP3711 main note up to before master theorem (D&C) (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase|
-|✅`00:30 - 01:30`|find and complete one related leetcode problem|
-|✅`01:30 - 01:50`|Write down tomorrow's plan|
-|✅`02:00 - 02:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
-|✅`03:00 - 04:00`|game break. Play whatever games you like|
+| Time             | Task                                                                                                                                                                                                                                                               |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ✅`13:30 - 14:30` | Review and refine COMP3711 main note up to before D&C (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase                           |
+| ✅`14:40 - 15:45` | Revision on COMP2611, review the lecture note up to until the stuff that have been covered in the lecture. Type and copy the lecture notes content to the main note. Get a basic understanding                                                                     |
+| ✅`16:00 - 17:20` | Catch up on MATH2411 by self-studyding it (would not be very easy with the lecture notes given). Type and copy the lecture notes content to the main note. Get a basic understanding. (newly added as I forgot to mention when to stop) -> stop before probability |
+| ✅`17:20 - 20:10` | Dinner break                                                                                                                                                                                                                                                       |
+| ✅`20:20 - 21:50` | Start COMP3711 homework1. At least finish the first question and a little bit of the second question. Type out the entire homework descriptions and questions. Make it as nice as possible                                                                         |
+| ✅`22:00 - 23:20` | self-study the rest of the master theorem slides. You don't have to finish, just see how far you can go within the 2-hours time limit.                                                                                                                             |
+| ✅`23:30 - 00:20` | Review and refine COMP3711 main note up to before master theorem (D&C) (google + COMP3711H notes). Basically what exactly you need to do: look at the notes you have written or copied from lecture notes, if you don't get it -> research and paraphrase          |
+| ✅`00:30 - 01:30` | find and complete one related leetcode problem                                                                                                                                                                                                                     |
+| ✅`01:30 - 01:50` | Write down tomorrow's plan                                                                                                                                                                                                                                         |
+| ✅`02:00 - 02:50` | Go down stairs to have a nice little walk while looking at the stars + shower                                                                                                                                                                                      |
+| ✅`03:00 - 04:00` | game break. Play whatever games you like                                                                                                                                                                                                                           |
 
 - ## thoughts 2
   - a bit heart broken by the $2^{\sqrt{\log{n}}}$ vs $n$ question in the homework. 
@@ -135,19 +135,19 @@ GOAL: level up to 2
     - to prevent getting stuck on them and think for hours during the exam 
 
 # 21/2/2025:
-|Time|Task|
-|-|-|
-|⏱️`12:00 - 15:55`|Do COMP3711 homework1. At least finish the second question.|
-|⏱️`16:00 - 17:50`|Review and refine COMP2611 main note up to lecture progress|
-|⏱️`18:00 - 19:20`| Catch up on MATH2411 (probability) stop when dinner|
-|⏱️`19:20 - 20:20`|Dinner break|
-|⏱️`20:20 - 21:50`|Self-study COMP3711 randomized theorem lecture notes.|
-|⏱️`22:00 - 23:20`|review and refine master theorem notes|
-|⏱️`23:30 - 00:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
-|⏱️`00:30 - 02:20`|understand the D&C solution of reversebits (leetcode)|
-|⏱️`02:30 - 02:50`|Write down tomorrow's plan|
-|⏱️`03:00 - 03:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
-|⏱️`04:00 - 05:00`|game break. Play whatever games you like|
+| Time             | Task                                                                           |
+| ---------------- | ------------------------------------------------------------------------------ |
+| ⏱️`12:00 - 15:55` | Do COMP3711 homework1. At least finish the second question.                    |
+| ⏱️`16:00 - 17:50` | Review and refine COMP2611 main note up to lecture progress                    |
+| ⏱️`18:00 - 19:20` | Catch up on MATH2411 (probability) stop when dinner                            |
+| ⏱️`19:20 - 20:20` | Dinner break                                                                   |
+| ⏱️`20:20 - 21:50` | Self-study COMP3711 randomized theorem lecture notes.                          |
+| ⏱️`22:00 - 23:20` | review and refine master theorem notes                                         |
+| ⏱️`23:30 - 00:20` | study LANG2030 (prepare for next class). Read the lecture notes and make notes |
+| ⏱️`00:30 - 02:20` | understand the D&C solution of reversebits (leetcode)                          |
+| ⏱️`02:30 - 02:50` | Write down tomorrow's plan                                                     |
+| ⏱️`03:00 - 03:50` | Go down stairs to have a nice little walk while looking at the stars + shower  |
+| ⏱️`04:00 - 05:00` | game break. Play whatever games you like                                       |
 
 - ### 21:11 
   - I failed the above plan 
@@ -174,26 +174,26 @@ GOAL: level up to 2
   - how?
     - let's make a new plan
 
-|Time|Task|
-|-|-|
-|✅`21:40 - 21:50`|review and refine COMP2611 notes you made. Just scroll through it and see if there's thing you don't get|
-|✅`22:00 - 23:20`|Catch up of MATH2411 probability (up to definition of probability)|
-|✅`23:30 - 00:20`|self-study randomized algorithm (up to the hiring problem)|
-|⏱️`00:30 - 01:20`|understand the D&C solution of reversebits (leetcode)|
-|⏱️`01:30 - 02:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
-|⏱️`02:30 - 02:50`|Write down tomorrow's plan|
-|⏱️`03:00 - 03:50`|Go down stairs to have a nice little walk while looking at the stars + shower|
-|⏱️`04:00 - 05:00`|game break. Play whatever games you like|
+| Time             | Task                                                                                                     |
+| ---------------- | -------------------------------------------------------------------------------------------------------- |
+| ✅`21:40 - 21:50` | review and refine COMP2611 notes you made. Just scroll through it and see if there's thing you don't get |
+| ✅`22:00 - 23:20` | Catch up of MATH2411 probability (up to definition of probability)                                       |
+| ✅`23:30 - 00:20` | self-study randomized algorithm (up to the hiring problem)                                               |
+| ⏱️`00:30 - 01:20` | understand the D&C solution of reversebits (leetcode)                                                    |
+| ⏱️`01:30 - 02:20` | study LANG2030 (prepare for next class). Read the lecture notes and make notes                           |
+| ⏱️`02:30 - 02:50` | Write down tomorrow's plan                                                                               |
+| ⏱️`03:00 - 03:50` | Go down stairs to have a nice little walk while looking at the stars + shower                            |
+| ⏱️`04:00 - 05:00` | game break. Play whatever games you like                                                                 |
 
 
 # 22/2/2026
-|Time|Task|
-|-|-|
-|✅`20:00 - 21:20`|Make some progress on COMP3711 homework within this time. If you managed to finish one question within this time. Move on to the next task| 
-|✅`21:30 - 21:50`|complete at least one sub-problem question from COMP2611 homework|
-|✅`22:00 - 23:20`|Catch up of MATH2411 probability (finish probability definition and properties)|
-|✅`23:30 - 00:20`|self-study randomized algorithm (finish the hiring problem)|
-|⏱️`00:30 - 01:20`|study LANG2030 (prepare for next class). Read the lecture notes and make notes|
+| Time             | Task                                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| ✅`20:00 - 21:20` | Make some progress on COMP3711 homework within this time. If you managed to finish one question within this time. Move on to the next task |
+| ✅`21:30 - 21:50` | complete at least one sub-problem question from COMP2611 homework                                                                          |
+| ✅`22:00 - 23:20` | Catch up of MATH2411 probability (finish probability definition and properties)                                                            |
+| ✅`23:30 - 00:20` | self-study randomized algorithm (finish the hiring problem)                                                                                |
+| ⏱️`00:30 - 01:20` | study LANG2030 (prepare for next class). Read the lecture notes and make notes                                                             |
 - spent an embarrassingly huge amount of time on task 1
 - I didn't understand and follow the task completely
 - even though the task has already told me the entire algorithm...
@@ -244,35 +244,35 @@ target:
 - practice probability and random variables 
   - lecture problems
 
-|Time|Task|
-|-|-|
-|⏱️`12:30 - 14:50`|read and make notes on math2411 slides| 
-|⏱️`15:00 - 16:20`|MATH2411 lesson|
-|⏱️`17:00 - 17:50`|COMP3711 tutorial|
-|⏱️`18:00 - 18:50`|work on COMP3711 (ask questions/read slides)|
-|⏱️`19:00 - 20:20`|read and make notes on LANG2030 slides|
-|⏱️`20:30 - 21:20`|read and make notes on COMP2611 slides|
-|⏱️`21:30 - 22:50`|dinner break|
-|⏱️`23:00 - 23:50`|COMP3711 homework|
-|⏱️`00:00 - 00:50`|COMP2611 homework|
-|⏱️`01:00 - 01:50`|MATH2411 practices|
+| Time             | Task                                         |
+| ---------------- | -------------------------------------------- |
+| ⏱️`12:30 - 14:50` | read and make notes on math2411 slides       |
+| ⏱️`15:00 - 16:20` | MATH2411 lesson                              |
+| ⏱️`17:00 - 17:50` | COMP3711 tutorial                            |
+| ⏱️`18:00 - 18:50` | work on COMP3711 (ask questions/read slides) |
+| ⏱️`19:00 - 20:20` | read and make notes on LANG2030 slides       |
+| ⏱️`20:30 - 21:20` | read and make notes on COMP2611 slides       |
+| ⏱️`21:30 - 22:50` | dinner break                                 |
+| ⏱️`23:00 - 23:50` | COMP3711 homework                            |
+| ⏱️`00:00 - 00:50` | COMP2611 homework                            |
+| ⏱️`01:00 - 01:50` | MATH2411 practices                           |
 
 ## new plan
 - since I feel pretty energized right now (12:51)
 - let me work on exercises first
 
-| Time             | Task                                         |
-| ---------------- | -------------------------------------------- |
-| ✅`13:00 - 13:50` | read and make notes on math2411 slides       |
-| ⏱️`14:00 - 14:50` | MATH2411 exercises                           |
-| ✅`15:00 - 16:20` | MATH2411 lesson  (skipped lol)               |
-| ⏱️`16:30 - 18:50` | COMP3711 (attend tutorial/ask questions)     |
-| ⏱️`19:00 - 20:20` | read and make notes on LANG2030 slides       |
-| ⏱️`20:30 - 21:20` | read and make notes on COMP2611 slides       |
-| ✅`21:30 - 22:50` | dinner break                                 |
-| ✅`23:00 - 23:50` | COMP3711 homework                            |
-| ⏱️`00:00 - 00:50` | COMP2611 homework                            |
-| ⏱️`01:00 - 01:50` | MATH2411 practices                           |
+| Time             | Task                                     |
+| ---------------- | ---------------------------------------- |
+| ✅`13:00 - 13:50` | read and make notes on math2411 slides   |
+| ⏱️`14:00 - 14:50` | MATH2411 exercises                       |
+| ✅`15:00 - 16:20` | MATH2411 lesson  (skipped lol)           |
+| ⏱️`16:30 - 18:50` | COMP3711 (attend tutorial/ask questions) |
+| ⏱️`19:00 - 20:20` | read and make notes on LANG2030 slides   |
+| ⏱️`20:30 - 21:20` | read and make notes on COMP2611 slides   |
+| ✅`21:30 - 22:50` | dinner break                             |
+| ✅`23:00 - 23:50` | COMP3711 homework                        |
+| ⏱️`00:00 - 00:50` | COMP2611 homework                        |
+| ⏱️`01:00 - 01:50` | MATH2411 practices                       |
 
 
 - actually, just do the original plan but you don't have to follow the exactly the order. 
@@ -281,16 +281,16 @@ target:
     - work on understanding and exercises 
 
 # 24/2/2026
-| Time             | Task                                     |
-| ---------------- | ---------------------------------------- |
-| ✅`11:00 - 13:50` | COMP3711 homework                        |
-| ⏱️`14:00 - 14:50` | read and make notes on LANG2030 slides   |
-| ⏱️`15:00 - 16:20` | MATH2411 practices                       |
-| ✅`16:30 - 17:50` | COMP2611 lesson                          |
-| ⏱️`18:00 - 20:20` | COMP2611 homework                        |
-| ⏱️`20:30 - 21:20` | read and make notes on COMP2611 slides   |
-| ⏱️`21:30 - 22:50` | read and make notes on MATH2411 slides   |
-| ⏱️`23:00 - 23:50` | read and make notes on COMP3711 slides   |
+| Time             | Task                                   |
+| ---------------- | -------------------------------------- |
+| ✅`11:00 - 13:50` | COMP3711 homework                      |
+| ⏱️`14:00 - 14:50` | read and make notes on LANG2030 slides |
+| ⏱️`15:00 - 16:20` | MATH2411 practices                     |
+| ✅`16:30 - 17:50` | COMP2611 lesson                        |
+| ⏱️`18:00 - 20:20` | COMP2611 homework                      |
+| ⏱️`20:30 - 21:20` | read and make notes on COMP2611 slides |
+| ⏱️`21:30 - 22:50` | read and make notes on MATH2411 slides |
+| ⏱️`23:00 - 23:50` | read and make notes on COMP3711 slides |
 
 # 25/2/2026:
 | Time             | Task                                   |
@@ -306,12 +306,12 @@ target:
 
 
 # 28/2/2026
-|Time|Task|
-|-|-|
-|✅`6:00 - 10:00`|probability exercises and greedy gifters from usaco|
-|✅`10:00 - 14:30`|sleep|
-|✅`14:30 - 17:30`|walk and eat|
-|✅`17:30 - 22:00`|More probability|
+| Time             | Task                                                |
+| ---------------- | --------------------------------------------------- |
+| ✅`6:00 - 10:00`  | probability exercises and greedy gifters from usaco |
+| ✅`10:00 - 14:30` | sleep                                               |
+| ✅`14:30 - 17:30` | walk and eat                                        |
+| ✅`17:30 - 22:00` | More probability                                    |
 
 # rough plan on next few days
 - ## Math2411:
@@ -447,21 +447,21 @@ target:
 
 
 # 1/3/2026 
-|Time|Task|
-|-|-|
-|✅`6:00 - 7:20`|MATH2411 (1)|
-|✅`7:50 - 8:30`|MATH2411 (2)|
-|✅`14:30 - 15:50`|MATH2411 (3) (probability)|
+| Time             | Task                       |
+| ---------------- | -------------------------- |
+| ✅`6:00 - 7:20`   | MATH2411 (1)               |
+| ✅`7:50 - 8:30`   | MATH2411 (2)               |
+| ✅`14:30 - 15:50` | MATH2411 (3) (probability) |
 
 
 # 2/3/2026 
-|Time|Task|
-|-|-|
-|✅`3:20 - 3:40`|MATH2411 (1) (total, Bayes)|
-|✅`3:45 - 4:07`|MATH2411 (2) (total, Bayes)|
-|✅`4:10 - 4:50`|Spent time typing to friends on whatsapp while watching LEC|
-|✅`5:00 - 7:10`|MATH2411 (3) (probability)|
-|✅`7:30 - 8:30`|COMP3711 (1) (3) (binary search) |
+| Time           | Task                                                        |
+| -------------- | ----------------------------------------------------------- |
+| ✅`3:20 - 3:40` | MATH2411 (1) (total, Bayes)                                 |
+| ✅`3:45 - 4:07` | MATH2411 (2) (total, Bayes)                                 |
+| ✅`4:10 - 4:50` | Spent time typing to friends on whatsapp while watching LEC |
+| ✅`5:00 - 7:10` | MATH2411 (3) (probability)                                  |
+| ✅`7:30 - 8:30` | COMP3711 (1) (3) (binary search)                            |
 - ## reflection
   - did not apply speed problem solving algorithm
     - wastes too much time on trying to solve last q of MATH2411 (3) (probability)
@@ -683,10 +683,10 @@ target:
     
 
 
-|Time|Task|
-|-|-|
-|[X] `4:30 - 7:00`|practice: D&C tutorial questions |
-|[X] `10:50 - 12:40`|practice: lecture problems (COMP2611) |
+| Time                | Task                                  |
+| ------------------- | ------------------------------------- |
+| [X] `4:30 - 7:00`   | practice: D&C tutorial questions      |
+| [X] `10:50 - 12:40` | practice: lecture problems (COMP2611) |
 
 
 
@@ -720,15 +720,15 @@ target:
     - of stuff you done today
   - write plan for tomorrow
 
-|Time|Task|
-|-|-|
-|`13:00 - 15:00`|start Sequential Logic, S-R Latch, D Latch, D Flip-Flop (lecture 5 content): understand + immediate recall|
-|`15:10 - 15:50`|writing new plan|
-|`15:55 - 16:12`|COMP3711 speedrun yesterday's problem (20 minutes)|
-|`16:12 - 16:55`|COMP3711 practice D&C (tutorial) (40+ minutes)|
-|`16:55 - 17:24`|COMP3711 understanding mistakes (30 minutes)|
-|`17:24 - 21:00`|eat|
-|`21:00 - 21:50`|MATH2411 speedrun past problems|
+| Time            | Task                                                                                                       |
+| --------------- | ---------------------------------------------------------------------------------------------------------- |
+| `13:00 - 15:00` | start Sequential Logic, S-R Latch, D Latch, D Flip-Flop (lecture 5 content): understand + immediate recall |
+| `15:10 - 15:50` | writing new plan                                                                                           |
+| `15:55 - 16:12` | COMP3711 speedrun yesterday's problem (20 minutes)                                                         |
+| `16:12 - 16:55` | COMP3711 practice D&C (tutorial) (40+ minutes)                                                             |
+| `16:55 - 17:24` | COMP3711 understanding mistakes (30 minutes)                                                               |
+| `17:24 - 21:00` | eat                                                                                                        |
+| `21:00 - 21:50` | MATH2411 speedrun past problems                                                                            |
 
 
 # daily blocks
@@ -774,15 +774,15 @@ target:
 - ## LANG2030 (optional)
   - [ ] open 1.7 and just scout
 
-|time|task|
-|-|-|
-|`4:40 - 5:35`|COMP2611 active recall (40 mins (10 mins for taking a shit))|
-|`5:40 - 8:00`|COMP2611 homework|
-|`10:30 - 13:30`|COMP2611 homework|
-|`13:30 - 15:30`|lunch and nap|
-|`15:30 - 16:20`|watch COMP2611 video on 2's complement|
-|`16:30 - 17:50`|COMP2611 lesson|
-|`18:30 - 19:00`|back home and study R|
+| time            | task                                                         |
+| --------------- | ------------------------------------------------------------ |
+| `4:40 - 5:35`   | COMP2611 active recall (40 mins (10 mins for taking a shit)) |
+| `5:40 - 8:00`   | COMP2611 homework                                            |
+| `10:30 - 13:30` | COMP2611 homework                                            |
+| `13:30 - 15:30` | lunch and nap                                                |
+| `15:30 - 16:20` | watch COMP2611 video on 2's complement                       |
+| `16:30 - 17:50` | COMP2611 lesson                                              |
+| `18:30 - 19:00` | back home and study R                                        |
 
 
 # 6/3/2026
@@ -811,17 +811,17 @@ target:
     - [ ] research: into the actual case 3 and make notes
 
 
-|time|task|
-|-|-|
-|`11:30 - 11:37`|MATH2411 active recall (20 minutes) (I gave up) (it's not effective for `R`)|
-|`11:37 - 12:07`|MATH2411 study basics statistics|
-|`12:07 - 15:30`|MATH2411 homework 1 part 2|
-|`15:30 - 16:15`|MATH2411 homework 1 part 1|
-|`16:25 - 16:32`|COMP3711 speedrun last time's problem|
-|`16:32 - 16:45`|COMP3711 practice|
-|`16:45 - 18:10`|eating break|
-|`18:10 - 18:39`|COMP3711 master theorem|
-|`18:39 - 18:58`|COMP2611 active recall|
+| time            | task                                                                         |
+| --------------- | ---------------------------------------------------------------------------- |
+| `11:30 - 11:37` | MATH2411 active recall (20 minutes) (I gave up) (it's not effective for `R`) |
+| `11:37 - 12:07` | MATH2411 study basics statistics                                             |
+| `12:07 - 15:30` | MATH2411 homework 1 part 2                                                   |
+| `15:30 - 16:15` | MATH2411 homework 1 part 1                                                   |
+| `16:25 - 16:32` | COMP3711 speedrun last time's problem                                        |
+| `16:32 - 16:45` | COMP3711 practice                                                            |
+| `16:45 - 18:10` | eating break                                                                 |
+| `18:10 - 18:39` | COMP3711 master theorem                                                      |
+| `18:39 - 18:58` | COMP2611 active recall                                                       |
 
 
 # 7/3/2026
@@ -841,12 +841,12 @@ target:
   - [ ] tutorial practice on previous knowledge (combinational, sequential logic)
 
 
-| time            | task                                    |
-| --------------- | --------------------------------------- |
-| `16:00 - 16:13` | COMP3711 active recall (master theorem) |
-| `16:13 - 19:00`      | COMP3711 tutorial exercises (D&C)       |
-| `19:00 - 22:00`      | dinner break       |
-|`22:40 - `| getting the context of case 3 for LANG2030 presentation|
+| time            | task                                                    |
+| --------------- | ------------------------------------------------------- |
+| `16:00 - 16:13` | COMP3711 active recall (master theorem)                 |
+| `16:13 - 19:00` | COMP3711 tutorial exercises (D&C)                       |
+| `19:00 - 22:00` | dinner break                                            |
+| `22:40 - `      | getting the context of case 3 for LANG2030 presentation |
 
 
 
@@ -865,9 +865,9 @@ target:
 - ## COMP3711 (optional)
   - [ ] understand closest pair of points entirely and find linkage of it with basic concepts
 
-|time|task|
-|-|-|
-|`5:30 - `|COMP3711 tutorial questions and past paper questions on D&C|
+| time      | task                                                        |
+| --------- | ----------------------------------------------------------- |
+| `5:30 - ` | COMP3711 tutorial questions and past paper questions on D&C |
 
 
 - gg I have done literally nothing
@@ -898,9 +898,9 @@ target:
   - [ ] finalize the script (after getting scripts of Andy and Harry so as to be consistent)
   - [ ] read aloud the script once
 
-|time|task|
-|-|-|
-|`11:20 - `|COMP3711 homework problem 1,learn only the needed concepts and ideas|
+| time       | task                                                                 |
+| ---------- | -------------------------------------------------------------------- |
+| `11:20 - ` | COMP3711 homework problem 1,learn only the needed concepts and ideas |
 
 - only done problem 1, barely at the end of the day
 
@@ -922,9 +922,9 @@ target:
     - [x] read aloud
     - [x] read with cue card
 
-|time|task|
-|-|-|
-|`10:00 - `|problem 2 learn the core idea only|
+| time       | task                               |
+| ---------- | ---------------------------------- |
+| `10:00 - ` | problem 2 learn the core idea only |
 
 
 - not bad but I forgot about the time
@@ -961,9 +961,9 @@ target:
     - [ ] design & math
 
 
-|time|task|
-|-|-|
-|`2:20 - `|comp3711 block 1|
+| time      | task             |
+| --------- | ---------------- |
+| `2:20 - ` | comp3711 block 1 |
 
 - gg barely did anything lol (learn how the partition of quicksort works)
 
@@ -1021,14 +1021,14 @@ the following sentence makes ton of sense:
 - it is written while I am doing the tasks to document how much time I need 
   - under 200 mg of caffeine tablet for future references
 
-|time|task|
-|-|-|
-|`15:30 - 16:10`|COMP3711 block 1 stage 1: read and learn actively|
-|`16:10 - 16:10`|COMP3711 block 1 stage 2: active recall (done previously)|
-|`16:10 - 20:20`|finished block 1 and dinner break|
-|`20:10 - 22:20`|nap break + painkiller for headache|
-|`22:30 - 01:00`|quicksort analysis and randomized selection|
-|`01:10 - 02:00`|watched heap and heap sort lecture video and understood everything|
+| time            | task                                                               |
+| --------------- | ------------------------------------------------------------------ |
+| `15:30 - 16:10` | COMP3711 block 1 stage 1: read and learn actively                  |
+| `16:10 - 16:10` | COMP3711 block 1 stage 2: active recall (done previously)          |
+| `16:10 - 20:20` | finished block 1 and dinner break                                  |
+| `20:10 - 22:20` | nap break + painkiller for headache                                |
+| `22:30 - 01:00` | quicksort analysis and randomized selection                        |
+| `01:10 - 02:00` | watched heap and heap sort lecture video and understood everything |
 
 
 
@@ -1104,14 +1104,14 @@ do the most relevant heap / quicksort questions.
 ## LANG2030
 - [ ] start analytical report
 
-|time|task|
-|-|-|
-|`13:00 - 13:57`|COMP3711 active recall finished analysis of quicksort|
-|`14:00 - 15:50`|breakfast break (4 eggs)|
-|`15:50 - 16:50`|COMP3711 active recall finished idea and analysis of randomized selection|
-|`16:50 - 17:26`|COMP3711 active recall on heap and heapsort|
-|`17:30 - 20:30`|dinner break|
-|`20:50 - ???`|COMP3711 exercises (only read the problems of heapsort lecture notes then watch the videos)|
+| time            | task                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------- |
+| `13:00 - 13:57` | COMP3711 active recall finished analysis of quicksort                                       |
+| `14:00 - 15:50` | breakfast break (4 eggs)                                                                    |
+| `15:50 - 16:50` | COMP3711 active recall finished idea and analysis of randomized selection                   |
+| `16:50 - 17:26` | COMP3711 active recall on heap and heapsort                                                 |
+| `17:30 - 20:30` | dinner break                                                                                |
+| `20:50 - ???`   | COMP3711 exercises (only read the problems of heapsort lecture notes then watch the videos) |
 
 
 
@@ -1123,19 +1123,19 @@ do the most relevant heap / quicksort questions.
     - [x] ss4 (d)
     - [x] ss8 
 
-|time|task|
-|-|-|
-|`03:00 - 07:00`|ss1 - ss10|
+| time            | task       |
+| --------------- | ---------- |
+| `03:00 - 07:00` | ss1 - ss10 |
 
 
 # 18/3/2026
-|time|task|
-|-|-|
-|`17:50 - 18:13`|comp2611 homework 2 q1|
-|`17:50 - 18:13`|comp2611 homework 2|
-|`18:13 - 22:00`|comp2611 homework 2 q2, 3 + dinner break|
-|`22:10 - 23:50`|watch lol games lol|
-|`00:00 - `||
+| time            | task                                     |
+| --------------- | ---------------------------------------- |
+| `17:50 - 18:13` | comp2611 homework 2 q1                   |
+| `17:50 - 18:13` | comp2611 homework 2                      |
+| `18:13 - 22:00` | comp2611 homework 2 q2, 3 + dinner break |
+| `22:10 - 23:50` | watch lol games lol                      |
+| `00:00 - `      |                                          |
 
 
 
@@ -1164,9 +1164,9 @@ do the most relevant heap / quicksort questions.
 - think about one key question today before sleep: how to thrive in the world of entertainment, disturbance
 ## Documented timetable:
 
-|time|task|
-|-|-|
-|`21:30 - `||
+| time       | task |
+| ---------- | ---- |
+| `21:30 - ` |      |
 
 
 # 30/3/2026
@@ -1255,11 +1255,11 @@ do the most relevant heap / quicksort questions.
 ## block 1
 - comp2611 fill in the holes and mark it down
   - the problems mentioned above (instructions, instructions encoding etc.)
-- math2411 estimators and CI revisit
-
-## block 2
 - comp2611 type out the active recalled notes
   - at the same time jot notes for the final lecture about cache
+
+## block 2
+- math2411 estimators and CI revisit
 
 ## block 3
 - math2411 hypothesis testing revisit
