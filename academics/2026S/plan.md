@@ -1253,10 +1253,10 @@ do the most relevant heap / quicksort questions.
 
 # 9/5/2026
 ## block 1
-- comp2611 fill in the holes and mark it down
-  - the problems mentioned above (instructions, instructions encoding etc.)
-- comp2611 type out the active recalled notes
-  - at the same time jot notes for the final lecture about cache
+- [x] comp2611 fill in the holes and mark it down
+  - [x] the problems mentioned above (instructions, instructions encoding etc.)
+- [x] comp2611 type out the active recalled notes
+  - [x] at the same time jot notes for the final lecture about cache
 
 ## block 2
 - math2411 estimators and CI revisit

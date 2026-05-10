@@ -1,13 +1,23 @@
 # description
 - very rough notes that can be taken by text, no drawing needed
 - usually for extraction of key ideas 
+- I most likely only mark down key ideas I roughly got from purely reading the material and that I did not know those messages very well beforehand.
 
 # 29//4/2026 math2411 estimators
 ![alt text](attachments/image.png)
-- basically says that the motivation of estimators are to use sample data (data picked from the population) to **guess** the parameter (a *true* number that describes all the data, not just a group of data)
+- the message is that:
+  - from now on, the course will now use r.v. (random variables) to interpret sample data (haven't observed ones)
+- the following is true but the slide did not explicitly says it:
+  - the motivation of estimators are to use sample data (data picked from the population) to **guess** the parameter (a *true* number that describes all the data, not just a group of data)
 
 ![alt text](attachments/image-1.png)
-- confusion: 
+- this slide bring up some important vocabularies and concepts:
+  - if the population is <u>unknown</u>, then we don't know its [distribution](../../../../notes/distribution.md) as well.
+  - A sample is a collection of data of the r.v. $X$, if they are observed then we should use the lower case letter $x$ to represent them.
+  - A parameter (a numeric value that gives some meaningful information of the population e.g. population mean) should be mathematically represented with symbols like $\mu$ (perhaps to form a concise mathematical sentence that tells a meaning)
+  - A statistic (a numeric value that gives some meaningful information about the sample e.g. sample mean) should be mathematically represetned with symbols like $\bar{x}$ (sample mean), $s_{n - 1}^2$ (sample variance with degree of freedom equals to $n - 1$)
+  - the motivation of statistic (information from the sample) is to be used to guess the information about the population
+- confusion (old): 
   - "A UNKNOWN population: An UNKNOWN distribution of the r.v. 𝑿, A sample: A collection of data of 𝑿. "
   - how does random variable relates with population and sample?
   - my knowledge/assumption: random variable is functions that assigns a number to a probabilistic event
@@ -21,7 +31,8 @@
 - tells us that the sample mean in fact varies (by choosing different samples), so the motivation of using r.v. here is exactly this. To record the unobserved state.
 
 ![alt text](attachments/image-4.png)
-- introduce $\overline{X}$, a random variable defined to be taking all the sample means.
+- introduce $\bar{X}$, a random variable defined to be taking all the sample means.
+- which its realization, the actual value, is exactly a sample mean of a particular set of sample.
 
 ![alt text](attachments/image-5.png)
 - confusion: 
@@ -36,30 +47,60 @@
 - message of the slide: Estimator is used to guess and give some additional information about the population. We use r.v. $X_1, ..., X_n$ for all the mathematical calculations involved to present because the sampling selection is a random process. Estimate is just the result of the estimator function when values are observed and applied.
 
 ![alt text](attachments/image-7.png)
-- confusion:
+- confusion (old):
   - why is cdf: $F(x;\theta)$ used here
+    - **guess**: most likely nothing special. It just shows an example that the population follows or can be modelled by a specific pdf or cdf with $x$ being the statistic and $\theta$ being a parameter
+    - it is probably just trying to **generalize** the case.
   - what is the meaning of a $;$
+    - not sure. My **guess** is that it is just a separator like a "," to separate "inputs" or "variables" involved in the function.
   - why does $X \sim$ i.e. "follows the distribution"?  
+    - same **guess** as above, it probably is just generalizing the case, saying that $X$ is modelled by that specific function so it follows that specific distribution.
 - this is more like a summary slide. There are several key ideas told in this slide that have been told earlier. I do have some small confusions written above. But I am going to delaying research them since I don't have much time right now. They seems trivial and I guess I would know them later after studying the later contents. By that time I might come back and put the answers here. Don't have to worry about these small confusions at the moment I guess.
 
 ![alt text](attachments/image-8.png)
+- the message is that a statistic is a function that:
+  - does not depend on any population parameter.
+  - composed of random samples.
 - a very clean slide that tells the definition of **statistic** after having given the prior basic fundational ideas. The definition is that statistic is any function **of** r.v. or **random sample** more precisely. It does not depend on unknown parameter.
 
 
-![alt text](attachments/image-9.png)
-![alt text](attachments/image-10.png)
-- the message is just that $E(\bar{X}) = \mu,\quad Var(\bar{X}) = \frac{\omega}{n}, \quad E(s_{n - 1}^2) = (\omega)^2$
-- and for their implications, I don't know at this moment.
 
+![alt text](attachments/image-9.png)
+- the key takeaway of this slide is to remember that:
+  - once we have the following assumptions:
+    - $E(X) = \mu$
+    - $Var(X) = \sigma^{2}$
+  - then, we can conclude:
+    - $E(\bar{X}) = \mu$: 
+      - implies $\bar{X}$ is an unbiased estimator of $\mu$
+    - $Var(\bar{X}) = \frac{\sigma^2}{n}$ 
+      - (what does this imply?)
+    - $E(S_{n - 1}^2) = \sigma^{2}$
+      - (what does this imply?)
+
+![alt text](attachments/image-10.png)
+- The continue of the proof of the previous slide.
 
 ![alt text](attachments/image-11.png)
-- tells you what biased or unbiased mean: measure of how far it is away from the true parameter: $\theta$ by taking the expected value.
+- Some supplementary information missing from the slide:
+  - $\hat{\theta}$ with a hat refers to the estimator of a particular population parameter $\theta$
+  - which is a r.v. (random variable)
+- the messages from the slide are:
+  - define the accuracy of a specific estimator $\hat{theta}$ to be the expectation: $E(\hat{\theta})$
+  - therefore, the bias (basically the "error"), is then defined to be $E(\hat{\theta}) - \theta$
+  - if the bias is $0$, the estimator is considered as nonbiased.
+- (old me): tells you what biased or unbiased mean: measure of how far it is away from the true parameter: $\theta$ by taking the expected value.
 
 ![alt text](attachments/image-12.png)
-- apart from how far away, we also want the estimator result to be concentrated around paramter
+- The message are that:
+  - the precision of an estimator is defined to be: $\sigma^{2}(\hat{\theta})$ or $Var(\hat{\theta})$
+    - what does the sentence: "precision = $1/\sigma^{2}$" mean?
+  - apart from how far away (expectation), we also want the estimator result to be concentrated around paramter (variance)
 
 ![alt text](attachments/image-13.png)
-- so MSE is like a combined measurement of how good an estimator is
+- The message:
+  - MSE is a combined measurement of how good an estimator is.
+  - by taking both the bias (accuracy) and variance (precision) into the consideration.
 
 ![alt text](attachments/image-14.png)
 - a very confusing slide with high cognitive load
@@ -110,7 +151,8 @@
 ![alt text](attachments/image-25.png)
 ![alt text](attachments/image-26.png)
 - now it says that based on the central limit theorem, for a large sample size $n$, the sampling distribution of the estimator $\bar{X}$ gets close to normal distribution. So, the course and we can basically assume that it follows the normal distribution
-
+![alt text](attachments/image-145.png)
+- shows how the standardized normal distribution can be applied.
 ![alt text](attachments/image-27.png)
 - introduce that the common targeted $C$ value is 0.95, 0.90, 0.99
 - then we look for $a$ and $b$ to quantify how accurate the estimator is. The likelihood that the real parameter falls in the interval created by $a, b, \hat{\theta}$ is $0.95$

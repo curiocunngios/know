@@ -45,3 +45,63 @@ tags:
     - this basically "increases the value" of the multiplicand
     - since the lower 4 bits have to all be shifted away and is entirely meaningless. And at the same time the at-most-4-bit multiplier also have to be left-shifted in each round. 
     - Therefore, we can save even more space by storing the multiplier at the lower 4-bit of the Product
+
+# mult instructions
+- there are:
+  - `mult` (multiply)
+  - `multu` (multiply unsigned)
+- the multiplication of two 32-bit number yields a 64-bit number
+- A pair of registers, `Hi` and `Lo` are used to store the product
+- The **high 32 bits** are stored in `Hi`
+- the **low 32 bits** are stored in `Lo`
+
+## more details
+- `mult` 
+  - Example: `mult $rs, $rt`
+    - `Hi, Lo` = `$rs x $rt`, treat `$rs`, `$rt` as signed.
+- `multu`
+  - Example: `multu $rs, $rt`
+  - `Hi, Lo` = `$rs x $rt`, treat `$rs`, `$rt` as unsigned.
+- Both are R-type
+- both ignore overflow, it is up to the software to check and see if the product is too big to fit 32-bit
+
+### fetch the 32-bit product
+- `mflo` (move from Lo)
+  - e.g. `mflo $s1`: `$s1 = Lo` 
+- `mfhi` (move from Hi)
+  - e.g. `mflo $s1`: `$s1 = Hi` 
+- If the prodcut is known to be able to fit in 32-bit, we can just retrieve the `Lo`
+- `mfhi` are usually used to transfer `Hi` to a general purpose register to test for overflow
+
+### Unsigned overflow detection
+- Product is too large to fit in a 32-bit unsigned word
+- There is no overflow if `Hi` is equal to 0
+- The following code checks for the overflow
+```assembly
+multu $t0, $t1
+mfhi $t2
+beq $0, $t2, no_overflow
+j overflow_detected
+no_overflow:
+```
+
+### Signed overflow detection
+- There is no overflow if every bit in `Hi` is same as the sign bit of `Lo`
+- before we talk about that, we need to talk about the instruction: `sra` (shift right arithmetic)
+  - `sra $rd, $rt, shamt`
+  - `R[rd] = R[rt] >> shamt`
+  - R-type instruction
+  - different from `srl`, it does not fill the left bits with 0
+  - it fills the left bits with exactly the sign bit of the original most significant bit before shifting
+  - ![alt text](attachments/image-32.png)
+- `sra` is used to obtain a register filled with the correct sign bit of the original binary number
+- the detection code would then be:
+```assembly
+mult $t0, $t1
+mflo $t0
+mfhi $at
+sra $t1, $t0, 31
+beq $at, $t1, no_overflow
+j overflow_detected
+no_overflow:
+```
