@@ -1275,3 +1275,15 @@ between tasks:
   - explore archwiki
   - guitar
   - walk
+
+
+# 11/5/2026
+- major goals:
+  - finish comp2611 homework 4
+  - comp2611 fill up more holes (midterm content etc.):
+    - ideally complete COMP2611.md (heavy)
+  - math2411 hypothesis testing revisit
+  - math2411 anova revisit (heavy)
+  - start math2411 homework 5
+  - finish lang2030 proposal report
+  - finish lang2030 library quizzes
