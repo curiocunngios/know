@@ -25,7 +25,9 @@ tags:
 
 - `op` is the operation code as known as the opcode
   - used to classify instrucitons
-    - for example, R-type shares the same opcode `000000`
+    - for example, R-type shares the same opcode `000000` (false
+      - this is false. Checking the green sheet again, I found out that:
+      - `Move From Control mfc0 R R[rd] = CR[rs] 10 /0/--/0` is a R type instruction but it has the opcode 10
 - `rs` is the first register operand
   - the first source register 
   - stands for: "register source"
@@ -43,6 +45,7 @@ tags:
   - combining with the opcode, the decoder knows exactly what instruction it is referring to.
 
 # I-type
+- For immediate (constant) arithmetic and load/store instructions
 - the ordering of the machine code is as follow:
 - it's always 32-bit
 
@@ -61,3 +64,8 @@ tags:
     - closer to the operator 
 - `immediate`:
   - a constant sometimes (or always? not sure) added with the value of the base register `rs`
+
+
+# J type
+- The J type instructions encoding format is for jump instructions. See [jump](./jump.md)
+

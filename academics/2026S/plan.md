@@ -1287,3 +1287,10 @@ between tasks:
   - start math2411 homework 5
   - finish lang2030 proposal report
   - finish lang2030 library quizzes
+
+# 12/5/2026
+- goals:
+  - comp2611 finish all instructions revision before and during recursion
+  - revise math2411 and practice
+  - finish math2411 homework 5
+  - finish lang2030 library quizzes
