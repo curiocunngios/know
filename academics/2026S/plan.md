@@ -1294,3 +1294,38 @@ between tasks:
   - revise math2411 and practice
   - finish math2411 homework 5
   - finish lang2030 library quizzes
+
+# 14/5/2026
+- goal
+  - COMP2611
+    - finish revision entirely (phrase 1 - 3 at least), imagine tomorrow is exam
+      - fill up the holes
+        - find them first
+          - phrase 1
+            - continue from the MIPS instruction (what you worked on yesterday)
+            - whenever you see something you don't fully understand naturally, screen capture it, mark it down on [rough.md](academics\2026S\COMP2611\rough\rough.md) and type out your thoughts: what you roughly get from the slide(s).
+            - speedrun this task
+            - after going through the content after midterm in that way:
+              - read rough.md and try to understand them. Or simply type them out and flashcard them if you still don't get it
+              - they might be linked with other important concepts you don't know yet so just chill and move on
+          - phrase 2
+            - now go ahead to tutorial slides
+            - do exactly the same except when there's exercise, mark them down and do it on phrase 4
+            - if you don't get it no matter how
+              - watch the videos first
+              - if still don't get it. Move on
+          - phrase 3
+            - revise content before midterm via:
+              - the midterm itself
+              - homeworks
+              - slides (again): find the holes and fill them up
+          - phrase 4
+            - purely exercise
+            - do:
+              - tutorial exercises
+              - past papers
+          - phrase 5
+            - flashcard
+  - math2411
+    - hypothesis testing revisit (if time allows)
+  - grade comp3633
