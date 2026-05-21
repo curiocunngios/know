@@ -1329,3 +1329,62 @@ between tasks:
   - math2411
     - hypothesis testing revisit (if time allows)
   - grade comp3633
+
+# 18/5/2026
+- take a rough look on the sample exam, understand what the exam tests
+- grind tutortials after the midterm:
+  - revision of each topics 
+    - basically the beginning of each tutorial
+    - read them all, type them out and get a very rough idea of what they are saying
+  - do exercises
+    - to completely understand the concepts through examples and drills, easy.
+
+# 19/5/2026
+- ## 1
+  - [x] make flashcards on **content after midterm**
+  - [x] review some of them
+  - [x] do exercises:
+    - [x] estimators (tutorial 5)
+
+- ## 2
+  - [x] type out some more notes on estimators 
+    - [x] depending on the important stuff and patterns you observed from doing the questions
+  - [x] flashcard them
+  - [x] review some
+  - [x] do exercises:
+    - [x] random variables and distributions (tutorial 3, 4)
+- ## 3
+  - [x] type out some more notes on r.v. and distributions
+    - [x] depending on the important stuff and patterns you observed from doing the exercises
+  - [x] flashcard them
+  - [x] review some
+  - [ ] do exercises: 
+    - [ ] basic probability (tutorial 2)
+- ## 4
+  - [ ] type out some more notes on probability
+    - [ ] depending on the important stuff and patterns you observed from doing the exercises
+    - [ ] flashcard them 
+    - [ ] review some
+    - [x] do exercises:
+      - [x] final tutorial
+- ## 5
+  - [x] refine the entire tutorial note
+    - [x] based on the more things you have learnt and more patterns you have observed
+  - [x] review some more flashcard
+  - [ ] do exercises
+    - [ ] homework 2 - homework 5
+- ## 6
+  - [ ] read lecture notes (mainly content after midterm) all over again
+  - [ ] see if you have anything to add on to your notes (refine)
+  - [ ] review flashcards again
+  - [ ] do exercises
+    - [ ] all of those posted on annoucements with solution.
+- ## 7 
+  - [ ] fill the final holes
+    - [ ] review the notes again and address any of the questions you have about any of the concepts
+    - [ ] google them, read wikipedia, watch videos
+  - [ ] further refine the notes based on your final research
+  - [ ] review flashcards again
+  - [ ] do exercises:
+    - [ ] the final exam sample paper
+
