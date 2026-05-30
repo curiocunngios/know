@@ -14,9 +14,8 @@
 static struct cdev my_cdev;
 static struct class* cls;
 static struct device* devs;
-MODULE_LICENSE("GPL");
-
 char* buf;
+MODULE_LICENSE("GPL");
 // good to keep function static if only only used by this .c file
 static int device_open(struct inode* inode, struct file* file) {
     return 0;
@@ -45,8 +44,18 @@ static ssize_t device_read(struct file* file, char* buffer, size_t length, loff_
 
 static ssize_t device_write(struct file* file, const char* buffer, size_t length, loff_t* offset) {
     printk(KERN_INFO "write");
-    copy_from_user(buf, buffer, length);
-    return length;
+    // int len = strlen(buffer); // fault because cannot read userspace address in kernel mode
+    if (*offset >= length) {
+        return 0;
+    }
+
+    size_t left = length - *offset;
+    size_t bytes_written = min(left, length);
+    if (copy_from_user(buf, buffer, bytes_written)) {
+        return -EFAULT;
+    }
+    *offset += bytes_written;
+    return bytes_written;
 }
 
 
@@ -61,7 +70,7 @@ struct file_operations fops = {
 
 
 static int start(void) {
-    buf = kmalloc(0x500, GFP_KERNEL);
+    buf = kzalloc(0x500, GFP_KERNEL);
     dev_t dev;
     int ret = alloc_chrdev_region(&dev, 0, 1, DEV_NAME); // returns 0xf0
     if (ret) {
@@ -99,6 +108,6 @@ static void exit_print(void) {
 }
 
 module_init(start);
-// int major = register_chrdev(0, DEV_NAME, &fops); // cannot call functions to initialize global variables, but can call functions inside functions
+// int major = register_chrdev(0, DEV_NAME, &fops);
 module_exit(exit_print);
 
